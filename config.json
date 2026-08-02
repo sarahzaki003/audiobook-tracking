@@ -1,0 +1,14 @@
+{
+  "narrators": [
+    "Narrator One",
+    "Narrator Two",
+    "Narrator Three"
+  ],
+
+  "regions": {
+    "US": true,
+    "UK": true
+  },
+
+  "maxResultsPerNarrator": 10
+}

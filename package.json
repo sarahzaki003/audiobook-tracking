@@ -1,0 +1,12 @@
+{
+  "name": "audible-narrator-tracker",
+  "version": "1.0.0",
+  "description": "Track new Audible releases by narrator — runs daily via GitHub Actions",
+  "main": "tracker.js",
+  "scripts": {
+    "check": "node tracker.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
