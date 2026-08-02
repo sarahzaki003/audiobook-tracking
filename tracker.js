@@ -65,7 +65,7 @@ function fetchPage(url, retries = 2) {
     const options = {
       headers: {
         "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
         "Accept-Language": "en-US,en;q=0.9",
         Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
       },
@@ -102,14 +102,22 @@ function fetchPage(url, retries = 2) {
 }
 
 // ──────────────────────────────────────────────
-// Audible search URLs
+// Audible search URLs — fetch multiple pages
 // ──────────────────────────────────────────────
-const AUDIBLE_SEARCH = {
-  US: (narrator) =>
-    `https://www.audible.com/search?searchNarrator=${encodeURIComponent(narrator)}&sort=pubdate-desc-rank&pageSize=20`,
-  UK: (narrator) =>
-    `https://www.audible.co.uk/search?searchNarrator=${encodeURIComponent(narrator)}&sort=pubdate-desc-rank&pageSize=20`,
-};
+function getSearchUrl(narrator, region, page) {
+  const base = region === "US" ? "https://www.audible.com" : "https://www.audible.co.uk";
+  return `${base}/search?searchNarrator=${encodeURIComponent(narrator)}&sort=pubdate-desc-rank&pageSize=20&page=${page}`;
+}
+
+// ──────────────────────────────────────────────
+// Parse release date string into a Date object
+// ──────────────────────────────────────────────
+function parseReleaseDate(dateStr) {
+  if (!dateStr) return null;
+  const cleaned = dateStr.replace("Release date:", "").replace("Release Date:", "").trim();
+  const d = new Date(cleaned);
+  return isNaN(d.getTime()) ? null : d;
+}
 
 // ──────────────────────────────────────────────
 // Parse Audible search results page
@@ -118,48 +126,79 @@ function parseSearchResults(html, region, narratorQuery) {
   const $ = cheerio.load(html);
   const books = [];
 
-  $(".productListItem, li[class*='productListItem']").each((i, el) => {
+  // Audible product list items — try multiple selectors for robustness
+  const productEls = $(".productListItem, li[class*='productListItem'], .bc-list-item");
+
+  productEls.each((i, el) => {
     try {
       const $el = $(el);
+      const elText = $el.text();
 
-      const titleEl = $el.find("h3 a").first() || $el.find(".bc-heading a").first();
-      const title = titleEl.text().trim();
+      // Skip if this doesn't look like a product (no title link)
+      const titleLink = $el.find("h3 a, h2 a, .bc-heading a").first();
+      if (!titleLink.length) return;
 
-      let url = titleEl.attr("href") || "";
+      const title = titleLink.text().trim();
+      if (!title) return;
+
+      // URL
+      let url = titleLink.attr("href") || "";
       if (url && !url.startsWith("http")) {
         const base = region === "US" ? "https://www.audible.com" : "https://www.audible.co.uk";
         url = base + url;
       }
 
-      const authorEl = $el.find(".authorLabel a, .bc-color-secondary a").first();
-      const author = authorEl.text().trim() || "Unknown Author";
+      // Author — look for "By:" or authorLabel
+      let author = "";
+      const authorEl = $el.find(".authorLabel a").first();
+      if (authorEl.length) {
+        author = authorEl.text().trim();
+      } else {
+        const byMatch = elText.match(/(?:By|Written by)[:\s]+([^\n]+)/i);
+        if (byMatch) author = byMatch[1].trim().split("\n")[0].trim();
+      }
+      author = author || "Unknown Author";
 
+      // Narrator — look for "Narrated by:" or narratorLabel
+      let narrator = "";
       const narratorEl = $el.find(".narratorLabel a").first();
-      const narrator = narratorEl.text().trim() || narratorQuery;
+      if (narratorEl.length) {
+        narrator = narratorEl.text().trim();
+      } else {
+        const narMatch = elText.match(/(?:Narrated by)[:\s]+([^\n]+)/i);
+        if (narMatch) narrator = narMatch[1].trim().split("\n")[0].trim();
+      }
+      narrator = narrator || narratorQuery;
 
-      const releaseDateEl = $el
-        .find(".releaseDateLabel span, .bc-color-secondary")
-        .filter(function () {
-          return $(this).text().includes("Release date") || $(this).text().includes("release");
-        });
-      let releaseDate = "";
-      const rdText = releaseDateEl.text() || "";
-      const dateMatch = rdText.match(
-        /(\d{1,2}[-\/]\d{1,2}[-\/]\d{2,4}|\d{1,2}\s+\w+\s+\d{4}|\w+\s+\d{1,2},?\s+\d{4})/
-      );
-      if (dateMatch) releaseDate = dateMatch[1];
+      // Release date
+      let releaseDateStr = "";
+      const rdEl = $el.find(".releaseDateLabel span").first();
+      if (rdEl.length) {
+        releaseDateStr = rdEl.text().trim();
+      } else {
+        const rdMatch = elText.match(/(?:Release date)[:\s]+([^\n]+)/i);
+        if (rdMatch) releaseDateStr = rdMatch[1].trim();
+      }
 
+      // ASIN
       const asin =
         $el.attr("data-asin") ||
-        (url.match(/\/([A-Z0-9]{10})(?:\?|$)/) || [])[1] ||
+        (url.match(/\/([A-Z0-9]{10})(?:[?\/#]|$)/) || [])[1] ||
         "";
 
-      if (title) {
-        books.push({
-          id: asin || `${region}-${title.substring(0, 50)}`,
-          title, author, narrator, releaseDate, region, url, asin,
-        });
-      }
+      const id = asin || `${region}-${title.substring(0, 60).replace(/\s+/g, "-")}`;
+
+      books.push({
+        id,
+        title,
+        author,
+        narrator,
+        releaseDateStr,
+        releaseDate: parseReleaseDate(releaseDateStr),
+        region,
+        url,
+        asin,
+      });
     } catch (e) {
       // Skip malformed entries
     }
@@ -169,25 +208,49 @@ function parseSearchResults(html, region, narratorQuery) {
 }
 
 // ──────────────────────────────────────────────
-// Scrape one narrator in one region
+// Scrape one narrator in one region (multiple pages)
 // ──────────────────────────────────────────────
 async function scrapeNarrator(narrator, region, maxResults) {
-  const url = AUDIBLE_SEARCH[region](narrator);
-  log(`Checking ${region}: "${narrator}"`);
+  const pagesToFetch = Math.ceil(maxResults / 20);
+  let allBooks = [];
 
-  try {
-    const html = await fetchPage(url);
-    const books = parseSearchResults(html, region, narrator);
-    log(`  Found ${books.length} results for "${narrator}" on ${region}`);
-    return books.slice(0, maxResults);
-  } catch (err) {
-    log(`  ERROR scraping ${region} for "${narrator}": ${err.message}`);
-    return [];
+  for (let page = 1; page <= pagesToFetch; page++) {
+    const url = getSearchUrl(narrator, region, page);
+    log(`Checking ${region} page ${page}: "${narrator}"`);
+
+    try {
+      const html = await fetchPage(url);
+      const books = parseSearchResults(html, region, narrator);
+      log(`  Page ${page}: found ${books.length} results`);
+      allBooks.push(...books);
+
+      // If we got fewer than 20, there are no more pages
+      if (books.length < 20) break;
+
+      // Polite delay between pages
+      if (page < pagesToFetch) {
+        await new Promise((r) => setTimeout(r, 1500 + Math.random() * 1000));
+      }
+    } catch (err) {
+      log(`  ERROR scraping ${region} page ${page} for "${narrator}": ${err.message}`);
+      break;
+    }
   }
+
+  // Sort by release date (newest first) regardless of Audible's ordering
+  allBooks.sort((a, b) => {
+    if (a.releaseDate && b.releaseDate) return b.releaseDate - a.releaseDate;
+    if (a.releaseDate) return -1;
+    if (b.releaseDate) return 1;
+    return 0;
+  });
+
+  log(`  Total for "${narrator}" on ${region}: ${allBooks.length} (keeping ${Math.min(allBooks.length, maxResults)})`);
+  return allBooks.slice(0, maxResults);
 }
 
 // ──────────────────────────────────────────────
-// Send email via Resend API (no 2FA needed)
+// Send email via Resend API
 // ──────────────────────────────────────────────
 async function sendEmailDigest(newBooks) {
   const apiKey = process.env.RESEND_API_KEY;
@@ -220,14 +283,14 @@ async function sendEmailDigest(newBooks) {
   for (const [narrator, books] of Object.entries(byNarrator)) {
     html += `<h3 style="color: #333; margin-top: 24px;">🎙️ ${narrator}</h3>`;
     for (const book of books) {
-      const isPreorder = book.releaseDate && new Date(book.releaseDate) > new Date();
+      const isPreorder = book.releaseDate && book.releaseDate > new Date();
       html += `
         <div style="border-left: 3px solid ${isPreorder ? "#7C6AE8" : "#E0652B"}; padding: 8px 12px; margin: 8px 0; background: #f9f9f9; border-radius: 0 6px 6px 0;">
           <strong>${book.title}</strong>
           ${isPreorder ? '<span style="background: #7C6AE8; color: white; font-size: 10px; padding: 2px 6px; border-radius: 8px; margin-left: 6px;">PRE-ORDER</span>' : ""}
           <br/>
           <span style="color: #666; font-size: 13px;">by ${book.author} · ${book.region}</span>
-          ${book.releaseDate ? `<br/><span style="color: #999; font-size: 12px;">Release: ${book.releaseDate}</span>` : ""}
+          ${book.releaseDateStr ? `<br/><span style="color: #999; font-size: 12px;">Release: ${book.releaseDateStr}</span>` : ""}
           ${book.url ? `<br/><a href="${book.url}" style="color: #E0652B; font-size: 12px;">View on Audible ↗</a>` : ""}
         </div>
       `;
@@ -280,7 +343,7 @@ async function main() {
     process.exit(1);
   }
 
-  const { narrators, regions, maxResultsPerNarrator = 10 } = config;
+  const { narrators, regions, maxResultsPerNarrator = 40 } = config;
 
   if (!narrators || narrators.length === 0) {
     log("No narrators configured. Edit config.json.");
@@ -298,7 +361,7 @@ async function main() {
     for (const region of activeRegions) {
       const books = await scrapeNarrator(narrator, region, maxResultsPerNarrator);
       allBooks.push(...books);
-      // Polite delay between requests
+      // Polite delay between narrator+region combos
       await new Promise((r) => setTimeout(r, 2000 + Math.random() * 2000));
     }
   }
@@ -310,7 +373,7 @@ async function main() {
 
   if (newBooks.length > 0) {
     for (const book of newBooks) {
-      log(`  NEW: "${book.title}" by ${book.author} — narrated by ${book.narrator} [${book.region}]`);
+      log(`  NEW: "${book.title}" by ${book.author} — narrated by ${book.narrator} [${book.region}] ${book.releaseDateStr || ""}`);
     }
 
     try {
@@ -328,6 +391,7 @@ async function main() {
       title: book.title,
       narrator: book.narrator,
       region: book.region,
+      releaseDate: book.releaseDateStr || "",
       firstSeen: new Date().toISOString(),
     };
   }
