@@ -1,0 +1,46 @@
+name: Audible Narrator Tracker
+
+on:
+  schedule:
+    # Runs every day at 8:00 AM UTC — adjust to your timezone
+    # Examples:
+    #   "0 8 * * *"  = 8:00 AM UTC
+    #   "0 4 * * *"  = 4:00 AM UTC (8:00 AM GST / UAE)
+    #   "0 13 * * *" = 1:00 PM UTC (9:00 AM EST)
+    - cron: "0 8 * * *"
+
+  # Lets you run it manually from GitHub's Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check-narrators:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run tracker
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SEND_TO: ${{ secrets.SEND_TO }}
+        run: node tracker.js
+
+      - name: Commit updated seen_books.json
+        run: |
+          git config user.name "Narrator Tracker Bot"
+          git config user.email "bot@narrator-tracker"
+          git add seen_books.json tracker.log
+          git diff --staged --quiet || git commit -m "Update seen books [skip ci]"
+          git push
