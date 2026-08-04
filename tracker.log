@@ -2756,3 +2756,271 @@
 [2026-08-03T17:01:42.388Z] Check complete.
 [2026-08-03T17:01:42.388Z] ═══════════════════════════════════════
 
+[2026-08-04T00:17:34.546Z] ═══════════════════════════════════════
+[2026-08-04T00:17:34.547Z] Starting narrator check...
+[2026-08-04T00:17:34.549Z] Checking US page 1: "Harley Chase"
+[2026-08-04T00:17:36.331Z]   Page 1: found 40 results
+[2026-08-04T00:17:37.955Z] Checking US page 2: "Harley Chase"
+[2026-08-04T00:17:39.330Z]   Page 2: found 40 results
+[2026-08-04T00:17:39.331Z]   Total for "Harley Chase" on US: 80 (keeping 40)
+[2026-08-04T00:17:42.196Z] Checking UK page 1: "Harley Chase"
+[2026-08-04T00:17:43.050Z]   Page 1: found 0 results
+[2026-08-04T00:17:43.050Z]   Total for "Harley Chase" on UK: 0 (keeping 0)
+[2026-08-04T00:17:46.488Z] Checking US page 1: "Devon Ryder"
+[2026-08-04T00:17:47.764Z]   Page 1: found 40 results
+[2026-08-04T00:17:50.215Z] Checking US page 2: "Devon Ryder"
+[2026-08-04T00:17:52.574Z]   Page 2: found 40 results
+[2026-08-04T00:17:52.575Z]   Total for "Devon Ryder" on US: 80 (keeping 40)
+[2026-08-04T00:17:55.127Z] Checking UK page 1: "Devon Ryder"
+[2026-08-04T00:17:55.753Z]   Page 1: found 0 results
+[2026-08-04T00:17:55.753Z]   Total for "Devon Ryder" on UK: 0 (keeping 0)
+[2026-08-04T00:17:58.998Z] Checking US page 1: "Mac Rae"
+[2026-08-04T00:18:00.519Z]   Page 1: found 40 results
+[2026-08-04T00:18:02.548Z] Checking US page 2: "Mac Rae"
+[2026-08-04T00:18:03.210Z]   Page 2: found 8 results
+[2026-08-04T00:18:03.210Z]   Total for "Mac Rae" on US: 48 (keeping 40)
+[2026-08-04T00:18:05.604Z] Checking UK page 1: "Mac Rae"
+[2026-08-04T00:18:06.059Z]   Page 1: found 0 results
+[2026-08-04T00:18:06.059Z]   Total for "Mac Rae" on UK: 0 (keeping 0)
+[2026-08-04T00:18:09.530Z] Checking US page 1: "Brandon Francis"
+[2026-08-04T00:18:11.412Z]   Page 1: found 40 results
+[2026-08-04T00:18:13.311Z] Checking US page 2: "Brandon Francis"
+[2026-08-04T00:18:14.633Z]   Page 2: found 40 results
+[2026-08-04T00:18:14.633Z]   Filtered out 1 results with non-matching narrators
+[2026-08-04T00:18:14.633Z]   Total for "Brandon Francis" on US: 79 (keeping 40)
+[2026-08-04T00:18:17.121Z] Checking UK page 1: "Brandon Francis"
+[2026-08-04T00:18:17.587Z]   Page 1: found 0 results
+[2026-08-04T00:18:17.587Z]   Total for "Brandon Francis" on UK: 0 (keeping 0)
+[2026-08-04T00:18:20.139Z] Checking US page 1: "Ellis Evans"
+[2026-08-04T00:18:21.309Z]   Page 1: found 40 results
+[2026-08-04T00:18:23.473Z] Checking US page 2: "Ellis Evans"
+[2026-08-04T00:18:24.749Z]   Page 2: found 40 results
+[2026-08-04T00:18:24.749Z]   Total for "Ellis Evans" on US: 80 (keeping 40)
+[2026-08-04T00:18:27.990Z] Checking UK page 1: "Ellis Evans"
+[2026-08-04T00:18:28.488Z]   Page 1: found 0 results
+[2026-08-04T00:18:28.488Z]   Total for "Ellis Evans" on UK: 0 (keeping 0)
+[2026-08-04T00:18:30.631Z] Checking US page 1: "Theo Sinclair"
+[2026-08-04T00:18:31.961Z]   Page 1: found 40 results
+[2026-08-04T00:18:34.341Z] Checking US page 2: "Theo Sinclair"
+[2026-08-04T00:18:35.646Z]   Page 2: found 40 results
+[2026-08-04T00:18:35.646Z]   Total for "Theo Sinclair" on US: 80 (keeping 40)
+[2026-08-04T00:18:37.799Z] Checking UK page 1: "Theo Sinclair"
+[2026-08-04T00:18:38.318Z]   Page 1: found 0 results
+[2026-08-04T00:18:38.318Z]   Total for "Theo Sinclair" on UK: 0 (keeping 0)
+[2026-08-04T00:18:42.146Z] Checking US page 1: "Grayson Owens"
+[2026-08-04T00:18:43.378Z]   Page 1: found 40 results
+[2026-08-04T00:18:45.747Z] Checking US page 2: "Grayson Owens"
+[2026-08-04T00:18:46.924Z]   Page 2: found 40 results
+[2026-08-04T00:18:46.924Z]   Total for "Grayson Owens" on US: 80 (keeping 40)
+[2026-08-04T00:18:50.600Z] Checking UK page 1: "Grayson Owens"
+[2026-08-04T00:18:51.585Z]   Page 1: found 0 results
+[2026-08-04T00:18:51.585Z]   Total for "Grayson Owens" on UK: 0 (keeping 0)
+[2026-08-04T00:18:54.038Z] Checking US page 1: "Christian Leatherman"
+[2026-08-04T00:18:55.251Z]   Page 1: found 40 results
+[2026-08-04T00:18:57.431Z] Checking US page 2: "Christian Leatherman"
+[2026-08-04T00:18:58.621Z]   Page 2: found 40 results
+[2026-08-04T00:18:58.621Z]   Total for "Christian Leatherman" on US: 80 (keeping 40)
+[2026-08-04T00:19:01.664Z] Checking UK page 1: "Christian Leatherman"
+[2026-08-04T00:19:02.144Z]   Page 1: found 0 results
+[2026-08-04T00:19:02.145Z]   Total for "Christian Leatherman" on UK: 0 (keeping 0)
+[2026-08-04T00:19:05.912Z] Checking US page 1: "Zachary Zaba"
+[2026-08-04T00:19:07.209Z]   Page 1: found 40 results
+[2026-08-04T00:19:09.663Z] Checking US page 2: "Zachary Zaba"
+[2026-08-04T00:19:10.932Z]   Page 2: found 40 results
+[2026-08-04T00:19:10.932Z]   Total for "Zachary Zaba" on US: 80 (keeping 40)
+[2026-08-04T00:19:13.545Z] Checking UK page 1: "Zachary Zaba"
+[2026-08-04T00:19:14.015Z]   Page 1: found 0 results
+[2026-08-04T00:19:14.015Z]   Total for "Zachary Zaba" on UK: 0 (keeping 0)
+[2026-08-04T00:19:17.715Z] Checking US page 1: "Zachary Johnson"
+[2026-08-04T00:19:18.979Z]   Page 1: found 40 results
+[2026-08-04T00:19:21.041Z] Checking US page 2: "Zachary Johnson"
+[2026-08-04T00:19:22.461Z]   Page 2: found 40 results
+[2026-08-04T00:19:22.461Z]   Total for "Zachary Johnson" on US: 80 (keeping 40)
+[2026-08-04T00:19:26.038Z] Checking UK page 1: "Zachary Johnson"
+[2026-08-04T00:19:26.531Z]   Page 1: found 0 results
+[2026-08-04T00:19:26.531Z]   Total for "Zachary Johnson" on UK: 0 (keeping 0)
+[2026-08-04T00:19:29.402Z] Checking US page 1: "Nick J. Russo"
+[2026-08-04T00:19:30.578Z]   Page 1: found 40 results
+[2026-08-04T00:19:32.587Z] Checking US page 2: "Nick J. Russo"
+[2026-08-04T00:19:33.851Z]   Page 2: found 40 results
+[2026-08-04T00:19:33.851Z]   Filtered out 2 results with non-matching narrators
+[2026-08-04T00:19:33.851Z]   Total for "Nick J. Russo" on US: 78 (keeping 40)
+[2026-08-04T00:19:37.842Z] Checking UK page 1: "Nick J. Russo"
+[2026-08-04T00:19:38.319Z]   Page 1: found 0 results
+[2026-08-04T00:19:38.320Z]   Total for "Nick J. Russo" on UK: 0 (keeping 0)
+[2026-08-04T00:19:41.226Z] Checking US page 1: "Nathan Kelly"
+[2026-08-04T00:19:42.505Z]   Page 1: found 40 results
+[2026-08-04T00:19:44.376Z] Checking US page 2: "Nathan Kelly"
+[2026-08-04T00:19:45.683Z]   Page 2: found 40 results
+[2026-08-04T00:19:45.683Z]   Filtered out 2 results with non-matching narrators
+[2026-08-04T00:19:45.684Z]   Total for "Nathan Kelly" on US: 78 (keeping 40)
+[2026-08-04T00:19:49.574Z] Checking UK page 1: "Nathan Kelly"
+[2026-08-04T00:19:50.064Z]   Page 1: found 0 results
+[2026-08-04T00:19:50.064Z]   Total for "Nathan Kelly" on UK: 0 (keeping 0)
+[2026-08-04T00:19:52.383Z] Checking US page 1: "Aiden Snow"
+[2026-08-04T00:19:53.473Z]   Page 1: found 40 results
+[2026-08-04T00:19:55.115Z] Checking US page 2: "Aiden Snow"
+[2026-08-04T00:19:56.248Z]   Page 2: found 40 results
+[2026-08-04T00:19:56.249Z]   Total for "Aiden Snow" on US: 80 (keeping 40)
+[2026-08-04T00:19:58.992Z] Checking UK page 1: "Aiden Snow"
+[2026-08-04T00:19:59.644Z]   Page 1: found 0 results
+[2026-08-04T00:19:59.645Z]   Total for "Aiden Snow" on UK: 0 (keeping 0)
+[2026-08-04T00:20:01.729Z] Checking US page 1: "J. F. Harding"
+[2026-08-04T00:20:03.082Z]   Page 1: found 40 results
+[2026-08-04T00:20:05.285Z] Checking US page 2: "J. F. Harding"
+[2026-08-04T00:20:06.501Z]   Page 2: found 40 results
+[2026-08-04T00:20:06.501Z]   Filtered out 36 results with non-matching narrators
+[2026-08-04T00:20:06.501Z]   Total for "J. F. Harding" on US: 44 (keeping 40)
+[2026-08-04T00:20:09.449Z] Checking UK page 1: "J. F. Harding"
+[2026-08-04T00:20:10.052Z]   Page 1: found 0 results
+[2026-08-04T00:20:10.053Z]   Total for "J. F. Harding" on UK: 0 (keeping 0)
+[2026-08-04T00:20:13.563Z] Checking US page 1: "Gabriel Michael"
+[2026-08-04T00:20:14.887Z]   Page 1: found 40 results
+[2026-08-04T00:20:17.340Z] Checking US page 2: "Gabriel Michael"
+[2026-08-04T00:20:18.691Z]   Page 2: found 40 results
+[2026-08-04T00:20:18.691Z]   Filtered out 2 results with non-matching narrators
+[2026-08-04T00:20:18.691Z]   Total for "Gabriel Michael" on US: 78 (keeping 40)
+[2026-08-04T00:20:21.162Z] Checking UK page 1: "Gabriel Michael"
+[2026-08-04T00:20:21.691Z]   Page 1: found 0 results
+[2026-08-04T00:20:21.691Z]   Total for "Gabriel Michael" on UK: 0 (keeping 0)
+[2026-08-04T00:20:24.447Z] Checking US page 1: "Jason Clarke"
+[2026-08-04T00:20:25.609Z]   Page 1: found 40 results
+[2026-08-04T00:20:27.600Z] Checking US page 2: "Jason Clarke"
+[2026-08-04T00:20:28.947Z]   Page 2: found 40 results
+[2026-08-04T00:20:28.948Z]   Total for "Jason Clarke" on US: 80 (keeping 40)
+[2026-08-04T00:20:31.895Z] Checking UK page 1: "Jason Clarke"
+[2026-08-04T00:20:32.322Z]   Page 1: found 0 results
+[2026-08-04T00:20:32.322Z]   Total for "Jason Clarke" on UK: 0 (keeping 0)
+[2026-08-04T00:20:35.045Z] Checking US page 1: "Shane East"
+[2026-08-04T00:20:36.256Z]   Page 1: found 40 results
+[2026-08-04T00:20:38.327Z] Checking US page 2: "Shane East"
+[2026-08-04T00:20:39.641Z]   Page 2: found 40 results
+[2026-08-04T00:20:39.641Z]   Total for "Shane East" on US: 80 (keeping 40)
+[2026-08-04T00:20:42.112Z] Checking UK page 1: "Shane East"
+[2026-08-04T00:20:42.634Z]   Page 1: found 0 results
+[2026-08-04T00:20:42.634Z]   Total for "Shane East" on UK: 0 (keeping 0)
+[2026-08-04T00:20:45.886Z] Checking US page 1: "Christian Fox"
+[2026-08-04T00:20:47.187Z]   Page 1: found 40 results
+[2026-08-04T00:20:49.471Z] Checking US page 2: "Christian Fox"
+[2026-08-04T00:20:50.849Z]   Page 2: found 40 results
+[2026-08-04T00:20:50.850Z]   Filtered out 1 results with non-matching narrators
+[2026-08-04T00:20:50.850Z]   Total for "Christian Fox" on US: 79 (keeping 40)
+[2026-08-04T00:20:54.480Z] Checking UK page 1: "Christian Fox"
+[2026-08-04T00:20:54.933Z]   Page 1: found 0 results
+[2026-08-04T00:20:54.933Z]   Total for "Christian Fox" on UK: 0 (keeping 0)
+[2026-08-04T00:20:58.822Z] Checking US page 1: "Corvin King"
+[2026-08-04T00:20:59.950Z]   Page 1: found 40 results
+[2026-08-04T00:21:02.191Z] Checking US page 2: "Corvin King"
+[2026-08-04T00:21:03.853Z]   Page 2: found 40 results
+[2026-08-04T00:21:03.853Z]   Total for "Corvin King" on US: 80 (keeping 40)
+[2026-08-04T00:21:06.028Z] Checking UK page 1: "Corvin King"
+[2026-08-04T00:21:06.530Z]   Page 1: found 0 results
+[2026-08-04T00:21:06.530Z]   Total for "Corvin King" on UK: 0 (keeping 0)
+[2026-08-04T00:21:10.027Z] Checking US page 1: "Sean Masters"
+[2026-08-04T00:21:11.450Z]   Page 1: found 40 results
+[2026-08-04T00:21:13.089Z] Checking US page 2: "Sean Masters"
+[2026-08-04T00:21:14.570Z]   Page 2: found 40 results
+[2026-08-04T00:21:14.571Z]   Total for "Sean Masters" on US: 80 (keeping 40)
+[2026-08-04T00:21:18.338Z] Checking UK page 1: "Sean Masters"
+[2026-08-04T00:21:18.907Z]   Page 1: found 0 results
+[2026-08-04T00:21:18.908Z]   Total for "Sean Masters" on UK: 0 (keeping 0)
+[2026-08-04T00:21:21.721Z] Checking US page 1: "Jonathan Lake"
+[2026-08-04T00:21:22.910Z]   Page 1: found 40 results
+[2026-08-04T00:21:25.201Z] Checking US page 2: "Jonathan Lake"
+[2026-08-04T00:21:26.259Z]   Page 2: found 40 results
+[2026-08-04T00:21:26.259Z]   Total for "Jonathan Lake" on US: 80 (keeping 40)
+[2026-08-04T00:21:29.434Z] Checking UK page 1: "Jonathan Lake"
+[2026-08-04T00:21:29.980Z]   Page 1: found 0 results
+[2026-08-04T00:21:29.980Z]   Total for "Jonathan Lake" on UK: 0 (keeping 0)
+[2026-08-04T00:21:32.144Z] Checking US page 1: "J. Tipstone"
+[2026-08-04T00:21:33.433Z]   Page 1: found 40 results
+[2026-08-04T00:21:35.838Z] Checking US page 2: "J. Tipstone"
+[2026-08-04T00:21:36.919Z]   Page 2: found 34 results
+[2026-08-04T00:21:36.920Z]   Total for "J. Tipstone" on US: 74 (keeping 40)
+[2026-08-04T00:21:39.668Z] Checking UK page 1: "J. Tipstone"
+[2026-08-04T00:21:40.138Z]   Page 1: found 0 results
+[2026-08-04T00:21:40.138Z]   Total for "J. Tipstone" on UK: 0 (keeping 0)
+[2026-08-04T00:21:44.054Z] Total results scraped: 880
+[2026-08-04T00:21:44.055Z] New books found: 78
+[2026-08-04T00:21:44.055Z]   NEW: "The Same Bones" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-04T00:21:44.086Z]   NEW: "The Never Queen" by Nikki St. Crowe — narrated by Stella Hunter, Shane East, Diontae Black, Curtis Michael Holland [US] 03 Aug 2026
+[2026-08-04T00:21:44.087Z]   NEW: "Gabriel: The Complete Trilogy" by Sarah Piper — narrated by Shane East, Vanessa Edwin [US] 03 Aug 2026
+[2026-08-04T00:21:44.087Z]   NEW: "Dorian: The Complete Trilogy" by Sarah Piper — narrated by Shane East, Mackenzie Cartwright [US] 03 Aug 2026
+[2026-08-04T00:21:44.087Z]   NEW: "Varek" by Becca Seymour — narrated by Jonathan Lake [US] 09 Feb 2027
+[2026-08-04T00:21:44.087Z]   NEW: "Cooper" by Lexi James — narrated by Jonathan Lake, Mia Madison [US] 29 Sept 2026
+[2026-08-04T00:21:44.087Z]   NEW: "Escaping to the Barbarians" by Amy Padilla — narrated by Jonathan Lake, Kirt Graves [US] 01 Sept 2026
+[2026-08-04T00:21:44.087Z]   NEW: "The Barbarian's Heart" by Amy Padilla — narrated by Jonathan Lake, Kirt Graves [US] 04 Aug 2026
+[2026-08-04T00:21:44.088Z]   NEW: "Goalie and the Girl Next Door" by Elsie Woods — narrated by Jonathan Lake, Elena Anderson [US] 04 Aug 2026
+[2026-08-04T00:21:44.088Z]   NEW: "Court of Lust" by Lacey Carter Andersen — narrated by Kristin Condon, Jonathan Lake [US] 28 Jul 2026
+[2026-08-04T00:21:44.088Z]   NEW: "The Dragon's Vow" by Marie Johnston — narrated by Stephanie Dillard, Jonathan Lake [US] 21 Jul 2026
+[2026-08-04T00:21:44.088Z]   NEW: "Levi" by Lexi James — narrated by Mia Madison, Jonathan Lake [US] 21 Jul 2026
+[2026-08-04T00:21:44.088Z]   NEW: "Sexting My Bratva Boss" by Sierra Voss — narrated by Jonathan Lake, Mackenzie Cartwright [US] 14 Jul 2026
+[2026-08-04T00:21:44.088Z]   NEW: "Prince of the Barbarians" by Amy Padilla — narrated by Kirt Graves, Jonathan Lake [US] 07 Jul 2026
+[2026-08-04T00:21:44.088Z]   NEW: "Nash" by Kelly Finley — narrated by Amy Hall, Jonathan Lake [US] 30 Jun 2026
+[2026-08-04T00:21:44.089Z]   NEW: "What Grows Dies Here" by Anne Malcom — narrated by Jonathan Lake, Christine Forsythe [US] 30 Jun 2026
+[2026-08-04T00:21:44.089Z]   NEW: "Court of Fury" by Lacey Carter Andersen — narrated by Kristin Condon, Jonathan Lake [US] 16 Jun 2026
+[2026-08-04T00:21:44.089Z]   NEW: "The Dragon's Promise" by Marie Johnston — narrated by Jonathan Lake, Stephanie Dillard [US] 19 May 2026
+[2026-08-04T00:21:44.089Z]   NEW: "The Four X's Group" by Annabella Stone — narrated by Marcio Catalano, June deBorahae, Mollie Stark, William Macleod, Betty Black, Jonathan Lake, Melissa Maybeck, Oliver Highpoint [US] 04 May 2026
+[2026-08-04T00:21:44.089Z]   NEW: "The Physician's Barbarian" by Amy Padilla — narrated by Kirt Graves, Jonathan Lake [US] 28 Apr 2026
+[2026-08-04T00:21:44.089Z]   NEW: "The Dragon's Oath" by Marie Johnston — narrated by Stephanie Dillard, Jonathan Lake [US] 21 Apr 2026
+[2026-08-04T00:21:44.089Z]   NEW: "Court of Rivals" by Lacey Carter Andersen — narrated by Kristin Condon, Jonathan Lake [US] 14 Apr 2026
+[2026-08-04T00:21:44.090Z]   NEW: "Solan" by Becca Seymour — narrated by Jonathan Lake [US] 17 Mar 2026
+[2026-08-04T00:21:44.090Z]   NEW: "The Barbarian's Claim" by Amy Padilla — narrated by Kirt Graves, Jonathan Lake [US] 17 Mar 2026
+[2026-08-04T00:21:44.090Z]   NEW: "At the Edge with You" by Toni Aleo — narrated by Johanna Fairview, Jonathan Lake [US] 17 Feb 2026
+[2026-08-04T00:21:44.090Z]   NEW: "Colt" by Bella Stone — narrated by Betty Black, Jonathan Lake [US] 10 Feb 2026
+[2026-08-04T00:21:44.090Z]   NEW: "The Rogue" by Roxanne Tully — narrated by Ally Mayes, Jonathan Lake [US] 13 Jan 2026
+[2026-08-04T00:21:44.090Z]   NEW: "Night Predator" by SK Prince — narrated by Jonathan Lake, Macie Miller [US] 13 Jan 2026
+[2026-08-04T00:21:44.090Z]   NEW: "Guarded by the AI" by Cassie Alexander — narrated by Jonathan Lake, Avery Caris [US] 17 Dec 2025
+[2026-08-04T00:21:44.090Z]   NEW: "Night Runner" by SK Prince — narrated by Macie Miller, Jonathan Lake [US] 16 Dec 2025
+[2026-08-04T00:21:44.091Z]   NEW: "Seducing a Barbarian" by Amy Padilla — narrated by Kirt Graves, Jonathan Lake [US] 02 Dec 2025
+[2026-08-04T00:21:44.091Z]   NEW: "Night Huntress" by SK Prince — narrated by Jonathan Lake, Macie Miller [US] 18 Nov 2025
+[2026-08-04T00:21:44.091Z]   NEW: "A Cajun Werewolf Christmas" by Selena Blake — narrated by Jonathan Lake [US] 18 Nov 2025
+[2026-08-04T00:21:44.091Z]   NEW: "Kill" by Tana Rose — narrated by Chloe Ryan, Jonathan Lake [US] 04 Nov 2025
+[2026-08-04T00:21:44.091Z]   NEW: "Saved by a Barbarian" by Amy Padilla — narrated by Kirt Graves, Jonathan Lake [US] 28 Oct 2025
+[2026-08-04T00:21:44.091Z]   NEW: "Stranded with a Cajun Werewolf" by Selena Blake — narrated by Jonathan Lake [US] 28 Oct 2025
+[2026-08-04T00:21:44.091Z]   NEW: "Mated to a Cajun Werewolf" by Selena Blake — narrated by Jonathan Lake [US] 14 Oct 2025
+[2026-08-04T00:21:44.092Z]   NEW: "Bitten in the Bayou" by Selena Blake — narrated by Jonathan Lake [US] 07 Oct 2025
+[2026-08-04T00:21:44.092Z]   NEW: "Seduced by a Cajun Werewolf" by Selena Blake — narrated by Jonathan Lake [US] 07 Oct 2025
+[2026-08-04T00:21:44.092Z]   NEW: "The Cajun Werewolf's Captive" by Selena Blake — narrated by Jonathan Lake [US] 07 Oct 2025
+[2026-08-04T00:21:44.092Z]   NEW: "The Barbarian's Tribute" by Amy Padilla — narrated by Kirt Graves, Jonathan Lake [US] 23 Sept 2025
+[2026-08-04T00:21:44.092Z]   NEW: "Naga Healer's Mate" by Celia Kyle — narrated by Ada Sinclair, J. Tipstone [US] 15 Sept 2026
+[2026-08-04T00:21:44.092Z]   NEW: "Naga Warrior's Mate" by Celia Kyle — narrated by Ada Sinclair, J. Tipstone [US] 11 Aug 2026
+[2026-08-04T00:21:44.092Z]   NEW: "Naga Warlord's Mate" by Celia Kyle — narrated by Ada Sinclair, J. Tipstone [US] 16 Jun 2026
+[2026-08-04T00:21:44.092Z]   NEW: "Naga Prince's Mate" by Celia Kyle — narrated by Ada Sinclair, J. Tipstone [US] 12 May 2026
+[2026-08-04T00:21:44.093Z]   NEW: "Naga General's Mate" by Celia Kyle — narrated by Ada Sinclair, J. Tipstone [US] 21 Apr 2026
+[2026-08-04T00:21:44.093Z]   NEW: "Shadow" by K.G. Reuss — narrated by Stella Ripley, Joe Arden, Edward Black, J. Tipstone, Michael Gallagher, Anthony Palmini, Sean Masters [US] 15 Jan 2026
+[2026-08-04T00:21:44.093Z]   NEW: "Taken by the Naga King" by Celia Kyle — narrated by J. Tipstone, Ada Sinclair [US] 09 Dec 2025
+[2026-08-04T00:21:44.093Z]   NEW: "Sinful" by K.G. Reuss — narrated by Stella Ripley, Joe Arden, Edward Black, J. Tipstone, Michael Gallagher, Anthony Palmini, Sean Masters [US] 28 Oct 2025
+[2026-08-04T00:21:44.093Z]   NEW: "Dublin Beast" by Jenn Madore — narrated by Angelina Rocca, J. Tipstone [US] 15 Oct 2025
+[2026-08-04T00:21:44.093Z]   NEW: "Stitches" by K.G. Reuss — narrated by Stella Ripley, J. Tipstone, Joe Arden, Michael Gallagher, Edward Black, Sean Masters [US] 25 Sept 2025
+[2026-08-04T00:21:44.093Z]   NEW: "Breaker" by Fanny Lee Savage — narrated by Laura Horowitz, Shiloh James, Corvin King, J. Tipstone, Brent Billings [US] 16 Sept 2025
+[2026-08-04T00:21:44.093Z]   NEW: "Ashes" by K.G. Reuss — narrated by Stella Ripley, Joe Arden, Edward Black, J. Tipstone, Michael Gallagher, Sean Masters [US] 28 Aug 2025
+[2026-08-04T00:21:44.094Z]   NEW: "Bells" by K.G. Reuss — narrated by Desiree Ketchum, Joe Arden, Michael Gallagher, Sean Masters, Edward Black, J. Tipstone [US] 22 Jul 2025
+[2026-08-04T00:21:44.094Z]   NEW: "Blood Reign Boxset" by Jesse Fox — narrated by Grace Noble, J. Tipstone, Jack Calihan [US] 22 Jul 2025
+[2026-08-04T00:21:44.094Z]   NEW: "Church" by K.G. Reuss — narrated by Stella Ripley, Joe Arden, Edward Black, J. Tipstone, Michael Gallagher, Sean Masters [US] 26 Jun 2025
+[2026-08-04T00:21:44.094Z]   NEW: "Shared" by Korey Mae Johnson — narrated by Vivienne Ferrari, J. Tipstone [US] 11 Feb 2025
+[2026-08-04T00:21:44.094Z]   NEW: "Doctored Vows" by Shandi Boyes — narrated by Artemis Jones, J. Tipstone [US] 13 Jan 2025
+[2026-08-04T00:21:44.094Z]   NEW: "Make Him" by Kelly Finley — narrated by Jaclyn Kelso, J. Tipstone [US] 03 Dec 2024
+[2026-08-04T00:21:44.094Z]   NEW: "Mate" by Korey Mae Johnson — narrated by Vivienne Ferrari, J. Tipstone [US] 17 Sept 2024
+[2026-08-04T00:21:44.094Z]   NEW: "Serendipity Collection" by Charlene Namdhari — narrated by Joe Arden, J.F. Harding, Aiden Snow, Connor Hayes, J. Tipstone, Antonio Amato, Yami Habibi, Ava Lucas, Raven Rose [US] 17 Jul 2024
+[2026-08-04T00:21:44.095Z]   NEW: "Blood Reign: Book 1" by Jesse Fox — narrated by Grace Noble, J. Tipstone, Jack Calihan [US] 03 May 2024
+[2026-08-04T00:21:44.095Z]   NEW: "BloodLust" by Jesse Fox — narrated by Grace Noble, J. Tipstone, Jack Calihan [US] 03 May 2024
+[2026-08-04T00:21:44.095Z]   NEW: "BloodBorne" by Jesse Fox — narrated by Grace Noble, J. Tipstone, Jack Calihan [US] 03 May 2024
+[2026-08-04T00:21:44.095Z]   NEW: "Inevitable" by Charlene Namdhari — narrated by Joe Arden, JF Harding, Aiden Snow, J. Tipstone, Connor Hayes, Yami Habibi, Simone Lewis, Raven Rose, Ava Lucas, Antonio Amato [US] 15 Sept 2023
+[2026-08-04T00:21:44.095Z]   NEW: "Babygirl" by Korey Mae Johnson — narrated by J. Tipstone, Devin Dean [US] 05 Sept 2023
+[2026-08-04T00:21:44.095Z]   NEW: "Infallible" by Charlene Namdhari — narrated by J. Tipstone, Connor Hayes, Simone Lewis [US] 15 Aug 2023
+[2026-08-04T00:21:44.095Z]   NEW: "Losers: Part 2" by Harley LaRoux — narrated by J. Tipstone, Jaclyn Kelso [US] 18 Jul 2023
+[2026-08-04T00:21:44.095Z]   NEW: "Claiming the Reaper" by R. E. Bond — narrated by J. Tipstone, Avery Reid [US] 20 Jun 2023
+[2026-08-04T00:21:44.096Z]   NEW: "Losers: Part 1" by Harley LaRoux — narrated by Jaclyn Kelso, J. Tipstone [US] 06 Jun 2023
+[2026-08-04T00:21:44.096Z]   NEW: "Hunting the Reaper" by C. A. Rene — narrated by J. Tipstone, Avery Reid [US] 23 May 2023
+[2026-08-04T00:21:44.096Z]   NEW: "The Reaper Incarnate" by C. A. Rene — narrated by J. Tipstone, Avery Reid [US] 13 Dec 2022
+[2026-08-04T00:21:44.096Z]   NEW: "Lessons in Sin" by Pam Godwin — narrated by Stephanie Rose, J. Tipstone [US] 19 Apr 2022
+[2026-08-04T00:21:44.096Z]   NEW: "Into Temptation: Unshackle, Dominate, Complicate" by Pam Godwin — narrated by Lisa Zimmerman, Joe Arden, Lacy Laurel, Samantha Summers, Matthew Holland, J. Tipstone [US] 24 Aug 2021
+[2026-08-04T00:21:44.096Z]   NEW: "Unshackle" by Pam Godwin — narrated by Lacy Laurel, J. Tipstone [US] 26 Jan 2021
+[2026-08-04T00:21:44.096Z]   NEW: "Naga Healer's Mate" by Unknown Author — narrated by J. Tipstone [US] 
+[2026-08-04T00:21:44.096Z]   NEW: "Naga Warrior's Mate" by Unknown Author — narrated by J. Tipstone [US] 
+[2026-08-04T00:21:44.096Z]   NEW: "Naga Warlord's Mate" by Unknown Author — narrated by J. Tipstone [US] 
+[2026-08-04T00:21:44.310Z] Email sent to sarah.zaki003@gmail.com with 78 new books.
+[2026-08-04T00:21:44.315Z] Check complete.
+[2026-08-04T00:21:44.315Z] ═══════════════════════════════════════
+
