@@ -3218,3 +3218,242 @@
 [2026-08-04T16:25:23.419Z] Check complete.
 [2026-08-04T16:25:23.419Z] ═══════════════════════════════════════
 
+[2026-08-05T09:25:42.073Z] ═══════════════════════════════════════
+[2026-08-05T09:25:42.074Z] Starting narrator check...
+[2026-08-05T09:25:42.076Z] Checking US page 1: "Harley Chase"
+[2026-08-05T09:25:43.951Z]   Page 1: found 40 results
+[2026-08-05T09:25:46.155Z] Checking US page 2: "Harley Chase"
+[2026-08-05T09:25:47.671Z]   Page 2: found 40 results
+[2026-08-05T09:25:47.672Z]   Total for "Harley Chase" on US: 80 (keeping 40)
+[2026-08-05T09:25:49.829Z] Checking UK page 1: "Harley Chase"
+[2026-08-05T09:25:50.665Z]   Page 1: found 0 results
+[2026-08-05T09:25:50.665Z]   Total for "Harley Chase" on UK: 0 (keeping 0)
+[2026-08-05T09:25:52.738Z] Checking US page 1: "Devon Ryder"
+[2026-08-05T09:25:54.350Z]   Page 1: found 40 results
+[2026-08-05T09:25:56.186Z] Checking US page 2: "Devon Ryder"
+[2026-08-05T09:25:57.504Z]   Page 2: found 40 results
+[2026-08-05T09:25:57.504Z]   Total for "Devon Ryder" on US: 80 (keeping 40)
+[2026-08-05T09:26:00.864Z] Checking UK page 1: "Devon Ryder"
+[2026-08-05T09:26:01.453Z]   Page 1: found 0 results
+[2026-08-05T09:26:01.453Z]   Total for "Devon Ryder" on UK: 0 (keeping 0)
+[2026-08-05T09:26:04.332Z] Checking US page 1: "Mac Rae"
+[2026-08-05T09:26:05.601Z]   Page 1: found 40 results
+[2026-08-05T09:26:07.727Z] Checking US page 2: "Mac Rae"
+[2026-08-05T09:26:08.447Z]   Page 2: found 8 results
+[2026-08-05T09:26:08.447Z]   Total for "Mac Rae" on US: 48 (keeping 40)
+[2026-08-05T09:26:10.941Z] Checking UK page 1: "Mac Rae"
+[2026-08-05T09:26:11.534Z]   Page 1: found 0 results
+[2026-08-05T09:26:11.534Z]   Total for "Mac Rae" on UK: 0 (keeping 0)
+[2026-08-05T09:26:14.249Z] Checking US page 1: "Kieran Regan"
+[2026-08-05T09:26:15.699Z]   Page 1: found 40 results
+[2026-08-05T09:26:18.045Z] Checking US page 2: "Kieran Regan"
+[2026-08-05T09:26:19.355Z]   Page 2: found 40 results
+[2026-08-05T09:26:19.355Z]   Total for "Kieran Regan" on US: 80 (keeping 40)
+[2026-08-05T09:26:22.430Z] Checking UK page 1: "Kieran Regan"
+[2026-08-05T09:26:22.960Z]   Page 1: found 0 results
+[2026-08-05T09:26:22.960Z]   Total for "Kieran Regan" on UK: 0 (keeping 0)
+[2026-08-05T09:26:26.549Z] Checking US page 1: "Brandon Francis"
+[2026-08-05T09:26:28.004Z]   Page 1: found 40 results
+[2026-08-05T09:26:29.567Z] Checking US page 2: "Brandon Francis"
+[2026-08-05T09:26:30.823Z]   Page 2: found 40 results
+[2026-08-05T09:26:30.824Z]   Filtered out 1 results with non-matching narrators
+[2026-08-05T09:26:30.824Z]   Total for "Brandon Francis" on US: 79 (keeping 40)
+[2026-08-05T09:26:33.264Z] Checking UK page 1: "Brandon Francis"
+[2026-08-05T09:26:34.013Z]   Page 1: found 0 results
+[2026-08-05T09:26:34.013Z]   Total for "Brandon Francis" on UK: 0 (keeping 0)
+[2026-08-05T09:26:36.944Z] Checking US page 1: "Ellis Evans"
+[2026-08-05T09:26:38.230Z]   Page 1: found 40 results
+[2026-08-05T09:26:40.721Z] Checking US page 2: "Ellis Evans"
+[2026-08-05T09:26:42.024Z]   Page 2: found 40 results
+[2026-08-05T09:26:42.024Z]   Total for "Ellis Evans" on US: 80 (keeping 40)
+[2026-08-05T09:26:45.771Z] Checking UK page 1: "Ellis Evans"
+[2026-08-05T09:26:46.370Z]   Page 1: found 0 results
+[2026-08-05T09:26:46.371Z]   Total for "Ellis Evans" on UK: 0 (keeping 0)
+[2026-08-05T09:26:49.697Z] Checking US page 1: "Theo Sinclair"
+[2026-08-05T09:26:51.212Z]   Page 1: found 40 results
+[2026-08-05T09:26:53.325Z] Checking US page 2: "Theo Sinclair"
+[2026-08-05T09:26:55.194Z]   Page 2: found 40 results
+[2026-08-05T09:26:55.195Z]   Total for "Theo Sinclair" on US: 80 (keeping 40)
+[2026-08-05T09:26:58.445Z] Checking UK page 1: "Theo Sinclair"
+[2026-08-05T09:26:59.121Z]   Page 1: found 0 results
+[2026-08-05T09:26:59.121Z]   Total for "Theo Sinclair" on UK: 0 (keeping 0)
+[2026-08-05T09:27:02.002Z] Checking US page 1: "Grayson Owens"
+[2026-08-05T09:27:03.317Z]   Page 1: found 40 results
+[2026-08-05T09:27:05.303Z] Checking US page 2: "Grayson Owens"
+[2026-08-05T09:27:06.890Z]   Page 2: found 40 results
+[2026-08-05T09:27:06.890Z]   Total for "Grayson Owens" on US: 80 (keeping 40)
+[2026-08-05T09:27:10.325Z] Checking UK page 1: "Grayson Owens"
+[2026-08-05T09:27:10.875Z]   Page 1: found 0 results
+[2026-08-05T09:27:10.875Z]   Total for "Grayson Owens" on UK: 0 (keeping 0)
+[2026-08-05T09:27:13.852Z] Checking US page 1: "Christian Leatherman"
+[2026-08-05T09:27:15.049Z]   Page 1: found 40 results
+[2026-08-05T09:27:16.652Z] Checking US page 2: "Christian Leatherman"
+[2026-08-05T09:27:17.956Z]   Page 2: found 40 results
+[2026-08-05T09:27:17.956Z]   Total for "Christian Leatherman" on US: 80 (keeping 40)
+[2026-08-05T09:27:21.658Z] Checking UK page 1: "Christian Leatherman"
+[2026-08-05T09:27:22.385Z]   Page 1: found 0 results
+[2026-08-05T09:27:22.385Z]   Total for "Christian Leatherman" on UK: 0 (keeping 0)
+[2026-08-05T09:27:24.421Z] Checking US page 1: "Zachary Zaba"
+[2026-08-05T09:27:25.764Z]   Page 1: found 40 results
+[2026-08-05T09:27:28.071Z] Checking US page 2: "Zachary Zaba"
+[2026-08-05T09:27:29.344Z]   Page 2: found 40 results
+[2026-08-05T09:27:29.344Z]   Total for "Zachary Zaba" on US: 80 (keeping 40)
+[2026-08-05T09:27:32.876Z] Checking UK page 1: "Zachary Zaba"
+[2026-08-05T09:27:33.467Z]   Page 1: found 0 results
+[2026-08-05T09:27:33.467Z]   Total for "Zachary Zaba" on UK: 0 (keeping 0)
+[2026-08-05T09:27:36.047Z] Checking US page 1: "Zachary Johnson"
+[2026-08-05T09:27:37.359Z]   Page 1: found 40 results
+[2026-08-05T09:27:39.098Z] Checking US page 2: "Zachary Johnson"
+[2026-08-05T09:27:40.448Z]   Page 2: found 40 results
+[2026-08-05T09:27:40.448Z]   Total for "Zachary Johnson" on US: 80 (keeping 40)
+[2026-08-05T09:27:44.290Z] Checking UK page 1: "Zachary Johnson"
+[2026-08-05T09:27:44.868Z]   Page 1: found 0 results
+[2026-08-05T09:27:44.868Z]   Total for "Zachary Johnson" on UK: 0 (keeping 0)
+[2026-08-05T09:27:48.430Z] Checking US page 1: "Nick J. Russo"
+[2026-08-05T09:27:49.675Z]   Page 1: found 40 results
+[2026-08-05T09:27:51.849Z] Checking US page 2: "Nick J. Russo"
+[2026-08-05T09:27:53.133Z]   Page 2: found 40 results
+[2026-08-05T09:27:53.133Z]   Filtered out 2 results with non-matching narrators
+[2026-08-05T09:27:53.133Z]   Total for "Nick J. Russo" on US: 78 (keeping 40)
+[2026-08-05T09:27:55.319Z] Checking UK page 1: "Nick J. Russo"
+[2026-08-05T09:27:55.927Z]   Page 1: found 0 results
+[2026-08-05T09:27:55.927Z]   Total for "Nick J. Russo" on UK: 0 (keeping 0)
+[2026-08-05T09:27:59.612Z] Checking US page 1: "Nathan Kelly"
+[2026-08-05T09:28:00.921Z]   Page 1: found 40 results
+[2026-08-05T09:28:03.198Z] Checking US page 2: "Nathan Kelly"
+[2026-08-05T09:28:04.658Z]   Page 2: found 40 results
+[2026-08-05T09:28:04.658Z]   Filtered out 2 results with non-matching narrators
+[2026-08-05T09:28:04.658Z]   Total for "Nathan Kelly" on US: 78 (keeping 40)
+[2026-08-05T09:28:07.879Z] Checking UK page 1: "Nathan Kelly"
+[2026-08-05T09:28:08.541Z]   Page 1: found 0 results
+[2026-08-05T09:28:08.541Z]   Total for "Nathan Kelly" on UK: 0 (keeping 0)
+[2026-08-05T09:28:10.697Z] Checking US page 1: "Aiden Snow"
+[2026-08-05T09:28:12.380Z]   Page 1: found 40 results
+[2026-08-05T09:28:14.619Z] Checking US page 2: "Aiden Snow"
+[2026-08-05T09:28:16.427Z]   Page 2: found 40 results
+[2026-08-05T09:28:16.428Z]   Total for "Aiden Snow" on US: 80 (keeping 40)
+[2026-08-05T09:28:19.002Z] Checking UK page 1: "Aiden Snow"
+[2026-08-05T09:28:19.868Z]   Page 1: found 0 results
+[2026-08-05T09:28:19.868Z]   Total for "Aiden Snow" on UK: 0 (keeping 0)
+[2026-08-05T09:28:22.438Z] Checking US page 1: "J. F. Harding"
+[2026-08-05T09:28:23.649Z]   Page 1: found 40 results
+[2026-08-05T09:28:25.823Z] Checking US page 2: "J. F. Harding"
+[2026-08-05T09:28:27.014Z]   Page 2: found 40 results
+[2026-08-05T09:28:27.014Z]   Filtered out 36 results with non-matching narrators
+[2026-08-05T09:28:27.014Z]   Total for "J. F. Harding" on US: 44 (keeping 40)
+[2026-08-05T09:28:29.762Z] Checking UK page 1: "J. F. Harding"
+[2026-08-05T09:28:30.399Z]   Page 1: found 0 results
+[2026-08-05T09:28:30.399Z]   Total for "J. F. Harding" on UK: 0 (keeping 0)
+[2026-08-05T09:28:34.015Z] Checking US page 1: "Gabriel Michael"
+[2026-08-05T09:28:35.317Z]   Page 1: found 40 results
+[2026-08-05T09:28:37.166Z] Checking US page 2: "Gabriel Michael"
+[2026-08-05T09:28:38.447Z]   Page 2: found 40 results
+[2026-08-05T09:28:38.447Z]   Filtered out 2 results with non-matching narrators
+[2026-08-05T09:28:38.447Z]   Total for "Gabriel Michael" on US: 78 (keeping 40)
+[2026-08-05T09:28:40.780Z] Checking UK page 1: "Gabriel Michael"
+[2026-08-05T09:28:41.373Z]   Page 1: found 0 results
+[2026-08-05T09:28:41.373Z]   Total for "Gabriel Michael" on UK: 0 (keeping 0)
+[2026-08-05T09:28:44.909Z] Checking US page 1: "Jason Clarke"
+[2026-08-05T09:28:46.087Z]   Page 1: found 40 results
+[2026-08-05T09:28:47.979Z] Checking US page 2: "Jason Clarke"
+[2026-08-05T09:28:49.423Z]   Page 2: found 40 results
+[2026-08-05T09:28:49.423Z]   Total for "Jason Clarke" on US: 80 (keeping 40)
+[2026-08-05T09:28:52.028Z] Checking UK page 1: "Jason Clarke"
+[2026-08-05T09:28:52.649Z]   Page 1: found 0 results
+[2026-08-05T09:28:52.649Z]   Total for "Jason Clarke" on UK: 0 (keeping 0)
+[2026-08-05T09:28:55.953Z] Checking US page 1: "Shane East"
+[2026-08-05T09:28:57.073Z]   Page 1: found 40 results
+[2026-08-05T09:28:58.919Z] Checking US page 2: "Shane East"
+[2026-08-05T09:29:00.175Z]   Page 2: found 40 results
+[2026-08-05T09:29:00.175Z]   Total for "Shane East" on US: 80 (keeping 40)
+[2026-08-05T09:29:03.373Z] Checking UK page 1: "Shane East"
+[2026-08-05T09:29:04.066Z]   Page 1: found 0 results
+[2026-08-05T09:29:04.066Z]   Total for "Shane East" on UK: 0 (keeping 0)
+[2026-08-05T09:29:06.323Z] Checking US page 1: "Christian Fox"
+[2026-08-05T09:29:07.739Z]   Page 1: found 40 results
+[2026-08-05T09:29:09.487Z] Checking US page 2: "Christian Fox"
+[2026-08-05T09:29:10.924Z]   Page 2: found 40 results
+[2026-08-05T09:29:10.924Z]   Filtered out 1 results with non-matching narrators
+[2026-08-05T09:29:10.924Z]   Total for "Christian Fox" on US: 79 (keeping 40)
+[2026-08-05T09:29:14.039Z] Checking UK page 1: "Christian Fox"
+[2026-08-05T09:29:14.717Z]   Page 1: found 0 results
+[2026-08-05T09:29:14.718Z]   Total for "Christian Fox" on UK: 0 (keeping 0)
+[2026-08-05T09:29:16.796Z] Checking US page 1: "Corvin King"
+[2026-08-05T09:29:18.088Z]   Page 1: found 40 results
+[2026-08-05T09:29:19.827Z] Checking US page 2: "Corvin King"
+[2026-08-05T09:29:21.055Z]   Page 2: found 40 results
+[2026-08-05T09:29:21.055Z]   Total for "Corvin King" on US: 80 (keeping 40)
+[2026-08-05T09:29:23.477Z] Checking UK page 1: "Corvin King"
+[2026-08-05T09:29:24.113Z]   Page 1: found 0 results
+[2026-08-05T09:29:24.113Z]   Total for "Corvin King" on UK: 0 (keeping 0)
+[2026-08-05T09:29:27.100Z] Checking US page 1: "Sean Masters"
+[2026-08-05T09:29:28.220Z]   Page 1: found 40 results
+[2026-08-05T09:29:30.491Z] Checking US page 2: "Sean Masters"
+[2026-08-05T09:29:31.639Z]   Page 2: found 40 results
+[2026-08-05T09:29:31.639Z]   Total for "Sean Masters" on US: 80 (keeping 40)
+[2026-08-05T09:29:34.842Z] Checking UK page 1: "Sean Masters"
+[2026-08-05T09:29:35.593Z]   Page 1: found 0 results
+[2026-08-05T09:29:35.593Z]   Total for "Sean Masters" on UK: 0 (keeping 0)
+[2026-08-05T09:29:38.111Z] Checking US page 1: "Jonathan Lake"
+[2026-08-05T09:29:39.310Z]   Page 1: found 40 results
+[2026-08-05T09:29:41.803Z] Checking US page 2: "Jonathan Lake"
+[2026-08-05T09:29:43.029Z]   Page 2: found 40 results
+[2026-08-05T09:29:43.029Z]   Total for "Jonathan Lake" on US: 80 (keeping 40)
+[2026-08-05T09:29:46.935Z] Checking UK page 1: "Jonathan Lake"
+[2026-08-05T09:29:47.500Z]   Page 1: found 0 results
+[2026-08-05T09:29:47.500Z]   Total for "Jonathan Lake" on UK: 0 (keeping 0)
+[2026-08-05T09:29:50.617Z] Checking US page 1: "J. Tipstone"
+[2026-08-05T09:29:51.984Z]   Page 1: found 40 results
+[2026-08-05T09:29:54.362Z] Checking US page 2: "J. Tipstone"
+[2026-08-05T09:29:55.864Z]   Page 2: found 34 results
+[2026-08-05T09:29:55.864Z]   Total for "J. Tipstone" on US: 74 (keeping 40)
+[2026-08-05T09:29:58.873Z] Checking UK page 1: "J. Tipstone"
+[2026-08-05T09:29:59.602Z]   Page 1: found 0 results
+[2026-08-05T09:29:59.602Z]   Total for "J. Tipstone" on UK: 0 (keeping 0)
+[2026-08-05T09:30:03.574Z] Total results scraped: 920
+[2026-08-05T09:30:03.575Z] New books found: 41
+[2026-08-05T09:30:03.601Z]   NEW: "Stolen Romance" by A. B. Jackson — narrated by Kieran Regan, Benjamin Crow [US] 19 Jan 2027
+[2026-08-05T09:30:03.601Z]   NEW: "A Touch of Magic" by Nessa Alviera — narrated by Arya Jacobs, Kieran Regan [US] 24 Nov 2026
+[2026-08-05T09:30:03.601Z]   NEW: "The Education of Imryn Dyre, Wizard's Apprentice" by Artemis Whelan — narrated by Kieran Regan [US] 24 Nov 2026
+[2026-08-05T09:30:03.602Z]   NEW: "Burn of the Everflame" by Penn Cole — narrated by Amanda Dolan, Will M. Watt, Bahni Turpin, Tim Campbell, Katherine Littrell, Kieran Regan, Keval Shah [US] 08 Sept 2026
+[2026-08-05T09:30:03.602Z]   NEW: "Cursed Evermore" by Khardine Gray — narrated by Kieran Regan, Michelle Sparks [US] 25 Aug 2026
+[2026-08-05T09:30:03.602Z]   NEW: "First Love Blues" by Bella Young — narrated by Taylor Harvey, Kieran Regan [US] 04 Aug 2026
+[2026-08-05T09:30:03.602Z]   NEW: "REM - Sleep. Dream. Die." by Sebastian Fitzek — narrated by Katie Stevens, January LaVoy, Ray Porter, Rob Estes, Max Donovan, Hudson Brooks, Kieran Regan, Meg Millidge, Bruce Barker, David Andrew Calvillo, Denisse Ojeda, Andrew Kishino, Mariah Tzoumbas, Nicole Vigils, Christopher Swindle [US] 23 Jul 2026
+[2026-08-05T09:30:03.602Z]   NEW: "The Ruby Magician 2: A Tower-Climbing LitRPG Adventure" by D. R. Hudgins — narrated by Kieran Regan [US] 21 Jul 2026
+[2026-08-05T09:30:03.602Z]   NEW: "The Pop Star Next Door" by Bella Young — narrated by Taylor Harvey, Kieran Regan [US] 07 Jul 2026
+[2026-08-05T09:30:03.602Z]   NEW: "The Price of Mercy" by Misti Wilds — narrated by Kieran Regan, Madison Mitts [US] 23 Jun 2026
+[2026-08-05T09:30:03.603Z]   NEW: "Tribute to the Warlord" by Atlas Jones — narrated by Kieran Regan [US] 09 Jun 2026
+[2026-08-05T09:30:03.603Z]   NEW: "Stolen Hearts" by A. B. Jackson — narrated by Kieran Regan, Benjamin Crow [US] 02 Jun 2026
+[2026-08-05T09:30:03.603Z]   NEW: "Royal Captive" by Raven Storm — narrated by Ada Sinclair, Kieran Regan [US] 26 May 2026
+[2026-08-05T09:30:03.603Z]   NEW: "The Unlikely Housemate" by Bella Young — narrated by Taylor Harvey, Kieran Regan [US] 26 May 2026
+[2026-08-05T09:30:03.603Z]   NEW: "Caged by Fallen Crows: Part 1" by Ava Larksen — narrated by Shiloh James, Kieran Regan [US] 12 May 2026
+[2026-08-05T09:30:03.603Z]   NEW: "Begging for Mercy" by Misti Wilds — narrated by Kieran Regan, Madison Mitts [US] 12 May 2026
+[2026-08-05T09:30:03.603Z]   NEW: "The Sins of Silas" by Kylie Snow — narrated by Natalie Van Sistine, Kieran Regan [US] 05 May 2026
+[2026-08-05T09:30:03.603Z]   NEW: "Break Her Heart" by Lexi Hodges — narrated by Caitlin Kelly, Kieran Regan [US] 05 May 2026
+[2026-08-05T09:30:03.604Z]   NEW: "Sunrises and New Beginnings" by M.J. Sivilo — narrated by Nathan Wolfe & Kieran Regan [US] 01 May 2026
+[2026-08-05T09:30:03.604Z]   NEW: "The Neighbor's Son" by K Webster — narrated by Kristin Condon, Kieran Regan [US] 21 Apr 2026
+[2026-08-05T09:30:03.604Z]   NEW: "The Ruby Magician: A Tower-Climbing LitRPG Adventure" by D. R. Hudgins — narrated by Kieran Regan [US] 17 Mar 2026
+[2026-08-05T09:30:03.604Z]   NEW: "Apocalypse Reaver 3: A Dark Fantasy LitRPG Adventure" by TobascoAsako — narrated by Kieran Regan, Kristin James [US] 03 Mar 2026
+[2026-08-05T09:30:03.604Z]   NEW: "Myths and Manuscripts" by Pandora Pierce — narrated by Jess Moran, Kieran Regan [US] 17 Feb 2026
+[2026-08-05T09:30:03.604Z]   NEW: "Bound in Inked Flame" by Ava Larksen — narrated by Shiloh James, Kieran Regan [US] 27 Jan 2026
+[2026-08-05T09:30:03.604Z]   NEW: "Stolen Moments" by A. B. Jackson — narrated by Kieran Regan, Benjamin Crow [US] 20 Jan 2026
+[2026-08-05T09:30:03.605Z]   NEW: "The Lies of Lena" by Kylie Snow — narrated by Natalie Van Sistine, Kieran Regan [US] 06 Jan 2026
+[2026-08-05T09:30:03.605Z]   NEW: "Apocalypse Reaver 2: A Dark Fantasy LitRPG Adventure" by TobascoAsako — narrated by Kieran Regan, Kristin James [US] 16 Dec 2025
+[2026-08-05T09:30:03.605Z]   NEW: "Piece by Piece" by Jarah Aurel — narrated by Caitlin Elizabeth, Kieran Regan [US] 16 Dec 2025
+[2026-08-05T09:30:03.605Z]   NEW: "Cross Her Heart" by Lexi Hodges — narrated by Caitlin Kelly, Kieran Regan [US] 30 Sept 2025
+[2026-08-05T09:30:03.605Z]   NEW: "Apocalypse Reaver 1: A Dark Fantasy LitRPG Adventure" by TobascoAsako — narrated by Kieran Regan, Kristin James [US] 26 Aug 2025
+[2026-08-05T09:30:03.605Z]   NEW: "Legends and Librarians" by Pandora Pierce — narrated by Jess Moran, Kieran Regan [US] 10 Jun 2025
+[2026-08-05T09:30:03.605Z]   NEW: "The Court of Truth" by KC Kean — narrated by Willa Jaymes, Kieran Regan [US] 20 May 2025
+[2026-08-05T09:30:03.605Z]   NEW: "War of Her Heart" by Lexi Hodges — narrated by Caitlin Kelly, Kieran Regan [US] 06 May 2025
+[2026-08-05T09:30:03.606Z]   NEW: "The Fate of Eternity" by KC Kean — narrated by Willa Jaymes, Kieran Regan [US] 25 Mar 2025
+[2026-08-05T09:30:03.606Z]   NEW: "The Hunt of Night" by KC Kean — narrated by Willa Jaymes, Kieran Regan [US] 28 Jan 2025
+[2026-08-05T09:30:03.606Z]   NEW: "The Reign of Blood" by KC Kean — narrated by Willa Jaymes, Kieran Regan [US] 26 Nov 2024
+[2026-08-05T09:30:03.606Z]   NEW: "The Kingdom of Ruin" by KC Kean — narrated by Willa Jaymes, Kieran Regan [US] 10 Sept 2024
+[2026-08-05T09:30:03.606Z]   NEW: "TCI : Absolution" by Kretzge — narrated by Kieran Regan [US] 29 Jun 2022
+[2026-08-05T09:30:03.606Z]   NEW: "Bleed More, Bodymore" by Ian Kirkpatrick — narrated by Kieran Regan [US] 10 Nov 2021
+[2026-08-05T09:30:03.606Z]   NEW: "When We Ignite" by Alex Cross — narrated by Jonathan Lake, Ellis Evans [US] 09 Feb 2027
+[2026-08-05T09:30:03.607Z]   NEW: "When We Ignite" by Alex Cross — narrated by Jonathan Lake, Ellis Evans [US] 09 Feb 2027
+[2026-08-05T09:30:03.923Z] Email sent to sarah.zaki003@gmail.com with 41 new books.
+[2026-08-05T09:30:03.926Z] Check complete.
+[2026-08-05T09:30:03.926Z] ═══════════════════════════════════════
+
