@@ -5372,3 +5372,302 @@
 [2026-08-13T11:16:58.548Z] Check complete.
 [2026-08-13T11:16:58.548Z] ═══════════════════════════════════════
 
+[2026-08-13T22:51:53.035Z] ═══════════════════════════════════════
+[2026-08-13T22:51:53.036Z] Starting narrator check...
+[2026-08-13T22:51:53.038Z] Checking US page 1: "Harley Chase"
+[2026-08-13T22:51:54.687Z]   Page 1: found 40 results
+[2026-08-13T22:51:56.260Z] Checking US page 2: "Harley Chase"
+[2026-08-13T22:51:57.715Z]   Page 2: found 40 results
+[2026-08-13T22:51:57.716Z]   Total for "Harley Chase" on US: 80 (keeping 40)
+[2026-08-13T22:51:59.861Z] Checking UK page 1: "Harley Chase"
+[2026-08-13T22:52:00.661Z]   Page 1: found 0 results
+[2026-08-13T22:52:00.661Z]   Total for "Harley Chase" on UK: 0 (keeping 0)
+[2026-08-13T22:52:04.052Z] Checking US page 1: "Devon Ryder"
+[2026-08-13T22:52:05.378Z]   Page 1: found 40 results
+[2026-08-13T22:52:07.517Z] Checking US page 2: "Devon Ryder"
+[2026-08-13T22:52:08.765Z]   Page 2: found 40 results
+[2026-08-13T22:52:08.765Z]   Total for "Devon Ryder" on US: 80 (keeping 40)
+[2026-08-13T22:52:11.636Z] Checking UK page 1: "Devon Ryder"
+[2026-08-13T22:52:12.319Z]   Page 1: found 0 results
+[2026-08-13T22:52:12.319Z]   Total for "Devon Ryder" on UK: 0 (keeping 0)
+[2026-08-13T22:52:14.697Z] Checking US page 1: "Mac Rae"
+[2026-08-13T22:52:16.281Z]   Page 1: found 40 results
+[2026-08-13T22:52:18.557Z] Checking US page 2: "Mac Rae"
+[2026-08-13T22:52:19.671Z]   Page 2: found 8 results
+[2026-08-13T22:52:19.671Z]   Total for "Mac Rae" on US: 48 (keeping 40)
+[2026-08-13T22:52:22.114Z] Checking UK page 1: "Mac Rae"
+[2026-08-13T22:52:22.770Z]   Page 1: found 0 results
+[2026-08-13T22:52:22.770Z]   Total for "Mac Rae" on UK: 0 (keeping 0)
+[2026-08-13T22:52:26.302Z] Checking US page 1: "Kieran Regan"
+[2026-08-13T22:52:27.701Z]   Page 1: found 40 results
+[2026-08-13T22:52:29.474Z] Checking US page 2: "Kieran Regan"
+[2026-08-13T22:52:30.934Z]   Page 2: found 40 results
+[2026-08-13T22:52:30.934Z]   Total for "Kieran Regan" on US: 80 (keeping 40)
+[2026-08-13T22:52:33.165Z] Checking UK page 1: "Kieran Regan"
+[2026-08-13T22:52:33.829Z]   Page 1: found 0 results
+[2026-08-13T22:52:33.829Z]   Total for "Kieran Regan" on UK: 0 (keeping 0)
+[2026-08-13T22:52:36.778Z] Checking US page 1: "Brandon Francis"
+[2026-08-13T22:52:37.969Z]   Page 1: found 40 results
+[2026-08-13T22:52:39.948Z] Checking US page 2: "Brandon Francis"
+[2026-08-13T22:52:41.428Z]   Page 2: found 40 results
+[2026-08-13T22:52:41.428Z]   Filtered out 1 results with non-matching narrators
+[2026-08-13T22:52:41.428Z]   Total for "Brandon Francis" on US: 79 (keeping 40)
+[2026-08-13T22:52:43.509Z] Checking UK page 1: "Brandon Francis"
+[2026-08-13T22:52:44.225Z]   Page 1: found 0 results
+[2026-08-13T22:52:44.225Z]   Total for "Brandon Francis" on UK: 0 (keeping 0)
+[2026-08-13T22:52:46.526Z] Checking US page 1: "Ellis Evans"
+[2026-08-13T22:52:47.907Z]   Page 1: found 40 results
+[2026-08-13T22:52:49.693Z] Checking US page 2: "Ellis Evans"
+[2026-08-13T22:52:50.956Z]   Page 2: found 40 results
+[2026-08-13T22:52:50.956Z]   Total for "Ellis Evans" on US: 80 (keeping 40)
+[2026-08-13T22:52:53.981Z] Checking UK page 1: "Ellis Evans"
+[2026-08-13T22:52:54.651Z]   Page 1: found 0 results
+[2026-08-13T22:52:54.651Z]   Total for "Ellis Evans" on UK: 0 (keeping 0)
+[2026-08-13T22:52:57.337Z] Checking US page 1: "Theo Sinclair"
+[2026-08-13T22:52:58.619Z]   Page 1: found 40 results
+[2026-08-13T22:53:00.274Z] Checking US page 2: "Theo Sinclair"
+[2026-08-13T22:53:01.582Z]   Page 2: found 40 results
+[2026-08-13T22:53:01.583Z]   Total for "Theo Sinclair" on US: 80 (keeping 40)
+[2026-08-13T22:53:05.432Z] Checking UK page 1: "Theo Sinclair"
+[2026-08-13T22:53:06.142Z]   Page 1: found 0 results
+[2026-08-13T22:53:06.142Z]   Total for "Theo Sinclair" on UK: 0 (keeping 0)
+[2026-08-13T22:53:08.383Z] Checking US page 1: "Grayson Owens"
+[2026-08-13T22:53:09.826Z]   Page 1: found 40 results
+[2026-08-13T22:53:11.810Z] Checking US page 2: "Grayson Owens"
+[2026-08-13T22:53:13.074Z]   Page 2: found 40 results
+[2026-08-13T22:53:13.075Z]   Total for "Grayson Owens" on US: 80 (keeping 40)
+[2026-08-13T22:53:16.798Z] Checking UK page 1: "Grayson Owens"
+[2026-08-13T22:53:17.361Z]   Page 1: found 0 results
+[2026-08-13T22:53:17.361Z]   Total for "Grayson Owens" on UK: 0 (keeping 0)
+[2026-08-13T22:53:19.937Z] Checking US page 1: "Christian Leatherman"
+[2026-08-13T22:53:21.312Z]   Page 1: found 40 results
+[2026-08-13T22:53:22.963Z] Checking US page 2: "Christian Leatherman"
+[2026-08-13T22:53:24.121Z]   Page 2: found 40 results
+[2026-08-13T22:53:24.121Z]   Total for "Christian Leatherman" on US: 80 (keeping 40)
+[2026-08-13T22:53:28.112Z] Checking UK page 1: "Christian Leatherman"
+[2026-08-13T22:53:29.042Z]   Page 1: found 0 results
+[2026-08-13T22:53:29.042Z]   Total for "Christian Leatherman" on UK: 0 (keeping 0)
+[2026-08-13T22:53:32.354Z] Checking US page 1: "Zachary Zaba"
+[2026-08-13T22:53:33.730Z]   Page 1: found 40 results
+[2026-08-13T22:53:35.613Z] Checking US page 2: "Zachary Zaba"
+[2026-08-13T22:53:36.819Z]   Page 2: found 40 results
+[2026-08-13T22:53:36.819Z]   Total for "Zachary Zaba" on US: 80 (keeping 40)
+[2026-08-13T22:53:40.539Z] Checking UK page 1: "Zachary Zaba"
+[2026-08-13T22:53:41.171Z]   Page 1: found 0 results
+[2026-08-13T22:53:41.171Z]   Total for "Zachary Zaba" on UK: 0 (keeping 0)
+[2026-08-13T22:53:44.388Z] Checking US page 1: "Zachary Johnson"
+[2026-08-13T22:53:46.293Z]   Page 1: found 40 results
+[2026-08-13T22:53:48.001Z] Checking US page 2: "Zachary Johnson"
+[2026-08-13T22:53:49.966Z]   Page 2: found 40 results
+[2026-08-13T22:53:49.966Z]   Total for "Zachary Johnson" on US: 80 (keeping 40)
+[2026-08-13T22:53:53.876Z] Checking UK page 1: "Zachary Johnson"
+[2026-08-13T22:53:54.472Z]   Page 1: found 0 results
+[2026-08-13T22:53:54.472Z]   Total for "Zachary Johnson" on UK: 0 (keeping 0)
+[2026-08-13T22:53:58.029Z] Checking US page 1: "Nick J. Russo"
+[2026-08-13T22:53:59.209Z]   Page 1: found 40 results
+[2026-08-13T22:54:01.100Z] Checking US page 2: "Nick J. Russo"
+[2026-08-13T22:54:02.351Z]   Page 2: found 40 results
+[2026-08-13T22:54:02.351Z]   Filtered out 2 results with non-matching narrators
+[2026-08-13T22:54:02.352Z]   Total for "Nick J. Russo" on US: 78 (keeping 40)
+[2026-08-13T22:54:05.286Z] Checking UK page 1: "Nick J. Russo"
+[2026-08-13T22:54:05.834Z]   Page 1: found 0 results
+[2026-08-13T22:54:05.834Z]   Total for "Nick J. Russo" on UK: 0 (keeping 0)
+[2026-08-13T22:54:08.117Z] Checking US page 1: "Nathan Kelly"
+[2026-08-13T22:54:09.473Z]   Page 1: found 40 results
+[2026-08-13T22:54:11.302Z] Checking US page 2: "Nathan Kelly"
+[2026-08-13T22:54:12.578Z]   Page 2: found 40 results
+[2026-08-13T22:54:12.578Z]   Filtered out 2 results with non-matching narrators
+[2026-08-13T22:54:12.579Z]   Total for "Nathan Kelly" on US: 78 (keeping 40)
+[2026-08-13T22:54:16.030Z] Checking UK page 1: "Nathan Kelly"
+[2026-08-13T22:54:16.716Z]   Page 1: found 0 results
+[2026-08-13T22:54:16.716Z]   Total for "Nathan Kelly" on UK: 0 (keeping 0)
+[2026-08-13T22:54:19.321Z] Checking US page 1: "Aiden Snow"
+[2026-08-13T22:54:20.490Z]   Page 1: found 40 results
+[2026-08-13T22:54:22.479Z] Checking US page 2: "Aiden Snow"
+[2026-08-13T22:54:23.978Z]   Page 2: found 40 results
+[2026-08-13T22:54:23.978Z]   Total for "Aiden Snow" on US: 80 (keeping 40)
+[2026-08-13T22:54:26.905Z] Checking UK page 1: "Aiden Snow"
+[2026-08-13T22:54:27.847Z]   Page 1: found 0 results
+[2026-08-13T22:54:27.848Z]   Total for "Aiden Snow" on UK: 0 (keeping 0)
+[2026-08-13T22:54:31.407Z] Checking US page 1: "J. F. Harding"
+[2026-08-13T22:54:32.726Z]   Page 1: found 40 results
+[2026-08-13T22:54:35.024Z] Checking US page 2: "J. F. Harding"
+[2026-08-13T22:54:36.396Z]   Page 2: found 40 results
+[2026-08-13T22:54:36.397Z]   Filtered out 37 results with non-matching narrators
+[2026-08-13T22:54:36.397Z]   Total for "J. F. Harding" on US: 43 (keeping 40)
+[2026-08-13T22:54:40.002Z] Checking UK page 1: "J. F. Harding"
+[2026-08-13T22:54:40.663Z]   Page 1: found 0 results
+[2026-08-13T22:54:40.663Z]   Total for "J. F. Harding" on UK: 0 (keeping 0)
+[2026-08-13T22:54:43.410Z] Checking US page 1: "Gabriel Michael"
+[2026-08-13T22:54:44.543Z]   Page 1: found 40 results
+[2026-08-13T22:54:46.280Z] Checking US page 2: "Gabriel Michael"
+[2026-08-13T22:54:47.902Z]   Page 2: found 40 results
+[2026-08-13T22:54:47.902Z]   Filtered out 2 results with non-matching narrators
+[2026-08-13T22:54:47.902Z]   Total for "Gabriel Michael" on US: 78 (keeping 40)
+[2026-08-13T22:54:51.462Z] Checking UK page 1: "Gabriel Michael"
+[2026-08-13T22:54:52.104Z]   Page 1: found 0 results
+[2026-08-13T22:54:52.104Z]   Total for "Gabriel Michael" on UK: 0 (keeping 0)
+[2026-08-13T22:54:54.384Z] Checking US page 1: "Jason Clarke"
+[2026-08-13T22:54:55.502Z]   Page 1: found 40 results
+[2026-08-13T22:54:57.877Z] Checking US page 2: "Jason Clarke"
+[2026-08-13T22:54:59.307Z]   Page 2: found 40 results
+[2026-08-13T22:54:59.307Z]   Total for "Jason Clarke" on US: 80 (keeping 40)
+[2026-08-13T22:55:01.714Z] Checking UK page 1: "Jason Clarke"
+[2026-08-13T22:55:02.364Z]   Page 1: found 0 results
+[2026-08-13T22:55:02.364Z]   Total for "Jason Clarke" on UK: 0 (keeping 0)
+[2026-08-13T22:55:06.030Z] Checking US page 1: "Shane East"
+[2026-08-13T22:55:07.393Z]   Page 1: found 40 results
+[2026-08-13T22:55:09.098Z] Checking US page 2: "Shane East"
+[2026-08-13T22:55:10.610Z]   Page 2: found 40 results
+[2026-08-13T22:55:10.610Z]   Total for "Shane East" on US: 80 (keeping 40)
+[2026-08-13T22:55:13.332Z] Checking UK page 1: "Shane East"
+[2026-08-13T22:55:13.972Z]   Page 1: found 0 results
+[2026-08-13T22:55:13.972Z]   Total for "Shane East" on UK: 0 (keeping 0)
+[2026-08-13T22:55:17.004Z] Checking US page 1: "Christian Fox"
+[2026-08-13T22:55:18.255Z]   Page 1: found 40 results
+[2026-08-13T22:55:19.909Z] Checking US page 2: "Christian Fox"
+[2026-08-13T22:55:21.331Z]   Page 2: found 40 results
+[2026-08-13T22:55:21.332Z]   Filtered out 1 results with non-matching narrators
+[2026-08-13T22:55:21.332Z]   Total for "Christian Fox" on US: 79 (keeping 40)
+[2026-08-13T22:55:24.433Z] Checking UK page 1: "Christian Fox"
+[2026-08-13T22:55:25.184Z]   Page 1: found 0 results
+[2026-08-13T22:55:25.184Z]   Total for "Christian Fox" on UK: 0 (keeping 0)
+[2026-08-13T22:55:28.368Z] Checking US page 1: "Corvin King"
+[2026-08-13T22:55:29.718Z]   Page 1: found 40 results
+[2026-08-13T22:55:31.526Z] Checking US page 2: "Corvin King"
+[2026-08-13T22:55:32.965Z]   Page 2: found 40 results
+[2026-08-13T22:55:32.966Z]   Total for "Corvin King" on US: 80 (keeping 40)
+[2026-08-13T22:55:36.746Z] Checking UK page 1: "Corvin King"
+[2026-08-13T22:55:37.422Z]   Page 1: found 0 results
+[2026-08-13T22:55:37.423Z]   Total for "Corvin King" on UK: 0 (keeping 0)
+[2026-08-13T22:55:39.650Z] Checking US page 1: "Sean Masters"
+[2026-08-13T22:55:41.061Z]   Page 1: found 40 results
+[2026-08-13T22:55:43.187Z] Checking US page 2: "Sean Masters"
+[2026-08-13T22:55:44.728Z]   Page 2: found 40 results
+[2026-08-13T22:55:44.728Z]   Total for "Sean Masters" on US: 80 (keeping 40)
+[2026-08-13T22:55:47.733Z] Checking UK page 1: "Sean Masters"
+[2026-08-13T22:55:48.378Z]   Page 1: found 0 results
+[2026-08-13T22:55:48.378Z]   Total for "Sean Masters" on UK: 0 (keeping 0)
+[2026-08-13T22:55:51.915Z] Checking US page 1: "Jonathan Lake"
+[2026-08-13T22:55:53.362Z]   Page 1: found 40 results
+[2026-08-13T22:55:55.121Z] Checking US page 2: "Jonathan Lake"
+[2026-08-13T22:55:56.333Z]   Page 2: found 40 results
+[2026-08-13T22:55:56.333Z]   Total for "Jonathan Lake" on US: 80 (keeping 40)
+[2026-08-13T22:55:58.781Z] Checking UK page 1: "Jonathan Lake"
+[2026-08-13T22:55:59.323Z]   Page 1: found 0 results
+[2026-08-13T22:55:59.324Z]   Total for "Jonathan Lake" on UK: 0 (keeping 0)
+[2026-08-13T22:56:03.024Z] Checking US page 1: "J. Tipstone"
+[2026-08-13T22:56:04.358Z]   Page 1: found 40 results
+[2026-08-13T22:56:06.332Z] Checking US page 2: "J. Tipstone"
+[2026-08-13T22:56:07.503Z]   Page 2: found 34 results
+[2026-08-13T22:56:07.504Z]   Total for "J. Tipstone" on US: 74 (keeping 40)
+[2026-08-13T22:56:10.701Z] Checking UK page 1: "J. Tipstone"
+[2026-08-13T22:56:11.360Z]   Page 1: found 0 results
+[2026-08-13T22:56:11.360Z]   Total for "J. Tipstone" on UK: 0 (keeping 0)
+[2026-08-13T22:56:13.409Z] Checking US page 1: "Nathan Wolfe"
+[2026-08-13T22:56:14.992Z]   Page 1: found 36 results
+[2026-08-13T22:56:17.440Z] Checking US page 2: "Nathan Wolfe"
+[2026-08-13T22:56:18.526Z]   Page 2: found 36 results
+[2026-08-13T22:56:18.527Z]   Total for "Nathan Wolfe" on US: 72 (keeping 40)
+[2026-08-13T22:56:21.136Z] Checking UK page 1: "Nathan Wolfe"
+[2026-08-13T22:56:21.723Z]   Page 1: found 0 results
+[2026-08-13T22:56:21.723Z]   Total for "Nathan Wolfe" on UK: 0 (keeping 0)
+[2026-08-13T22:56:24.992Z] Checking US page 1: "Will M. Watt"
+[2026-08-13T22:56:26.192Z]   Page 1: found 40 results
+[2026-08-13T22:56:27.869Z] Checking US page 2: "Will M. Watt"
+[2026-08-13T22:56:29.223Z]   Page 2: found 40 results
+[2026-08-13T22:56:29.223Z]   Filtered out 1 results with non-matching narrators
+[2026-08-13T22:56:29.224Z]   Total for "Will M. Watt" on US: 79 (keeping 40)
+[2026-08-13T22:56:31.778Z] Checking UK page 1: "Will M. Watt"
+[2026-08-13T22:56:32.461Z]   Page 1: found 0 results
+[2026-08-13T22:56:32.461Z]   Total for "Will M. Watt" on UK: 0 (keeping 0)
+[2026-08-13T22:56:36.420Z] Checking US page 1: "Will Watt"
+[2026-08-13T22:56:37.845Z]   Page 1: found 40 results
+[2026-08-13T22:56:39.561Z] Checking US page 2: "Will Watt"
+[2026-08-13T22:56:40.821Z]   Page 2: found 40 results
+[2026-08-13T22:56:40.822Z]   Filtered out 21 results with non-matching narrators
+[2026-08-13T22:56:40.822Z]   Total for "Will Watt" on US: 59 (keeping 40)
+[2026-08-13T22:56:43.472Z] Checking UK page 1: "Will Watt"
+[2026-08-13T22:56:44.033Z]   Page 1: found 0 results
+[2026-08-13T22:56:44.034Z]   Total for "Will Watt" on UK: 0 (keeping 0)
+[2026-08-13T22:56:46.893Z] Total results scraped: 1040
+[2026-08-13T22:56:46.894Z] New books found: 75
+[2026-08-13T22:56:46.933Z]   NEW: "The Art of Revenge" by Rebecca Kinkade — narrated by Javi Wilder, Robert Hatchet, Will M. Watt [US] 06 Apr 2027
+[2026-08-13T22:56:46.933Z]   NEW: "All Nighter: The Undergrads series, Book 2" by Julie Murphy — narrated by Victoria Connolly, Will M. Watt [US] 01 Dec 2026
+[2026-08-13T22:56:46.933Z]   NEW: "Playing My Holiday" by J. Saman — narrated by Gary Furlong, Will M. Watt, Chloe Ryan [US] 03 Nov 2026
+[2026-08-13T22:56:46.933Z]   NEW: "Bane Bloom" by Sharon Lynn Fisher — narrated by Bronwen Price, Will M. Watt [US] 06 Oct 2026
+[2026-08-13T22:56:46.933Z]   NEW: "The Echo of Loss" by Katherine Webb — narrated by Polly Edsell, Will M. Watt [US] 15 Sept 2026
+[2026-08-13T22:56:46.933Z]   NEW: "Look to Pass" by Fern Oliver — narrated by Meg Sylvan, Stephen Dexter, Will M. Watt, Nathaniel Ames [US] 15 Sept 2026
+[2026-08-13T22:56:46.934Z]   NEW: "He Sees You When You're Sleeping" by Emily Antoinette — narrated by Will M. Watt, Sarah Sampino [US] 01 Sept 2026
+[2026-08-13T22:56:46.934Z]   NEW: "Pucking Them" by Rosemary a Johns — narrated by Will M. Watt, Vivian Bradford [US] 25 Aug 2026
+[2026-08-13T22:56:46.934Z]   NEW: "The Cairndale Orphan" by J. M. Miro — narrated by Will M. Watt [US] 28 Jul 2026
+[2026-08-13T22:56:46.934Z]   NEW: "The Dread King" by Lauren Cate Leake — narrated by Sasha Higgins, Will M. Watt [US] 28 Jul 2026
+[2026-08-13T22:56:46.934Z]   NEW: "Smoke in the Mirrors" by Jessica Scarlett — narrated by Lauren Baldwin, Will M. Watt [US] 14 Jul 2026
+[2026-08-13T22:56:46.934Z]   NEW: "Secrets of the Void" by Emma Hamm — narrated by Will M. Watt, Carmen Rose [US] 30 Jun 2026
+[2026-08-13T22:56:46.935Z]   NEW: "The Promise of Wonder" by Katherine Webb — narrated by Polly Edsell, Will M. Watt [US] 01 Jun 2026
+[2026-08-13T22:56:46.935Z]   NEW: "The Player's Promise" by Tierney Page — narrated by Sean Masters, Evelyn Rose, Will M. Watt [US] 26 May 2026
+[2026-08-13T22:56:46.935Z]   NEW: "Hell of a Band" by R. L. King — narrated by Will M. Watt [US] 12 May 2026
+[2026-08-13T22:56:46.935Z]   NEW: "How to Fake It in Society" by KJ Charles — narrated by Will M. Watt [US] 28 Apr 2026
+[2026-08-13T22:56:46.935Z]   NEW: "Don't Fall in Love" by K A James — narrated by Will M. Watt, J. Y. Kora [US] 31 Mar 2026
+[2026-08-13T22:56:46.935Z]   NEW: "Town of Shadows" by Jessica Scarlett — narrated by Lauren Baldwin, Will M. Watt [US] 24 Feb 2026
+[2026-08-13T22:56:46.935Z]   NEW: "Triple Pucked" by Rosemary a Johns — narrated by Will M. Watt, Vivian Bradford [US] 17 Feb 2026
+[2026-08-13T22:56:46.936Z]   NEW: "The Suite Secret" by Tierney Page — narrated by Will M. Watt, Evelyn Rose [US] 13 Jan 2026
+[2026-08-13T22:56:46.936Z]   NEW: "The Mechanic" by R. L. King — narrated by R. L. King, Will M. Watt [US] 21 Nov 2025
+[2026-08-13T22:56:46.936Z]   NEW: "Family Plot" by R. L. King — narrated by Will M. Watt [US] 13 Nov 2025
+[2026-08-13T22:56:46.936Z]   NEW: "Both Feet in the Grave" by Jeaniene Frost — narrated by Will M. Watt [US] 24 Oct 2025
+[2026-08-13T22:56:46.936Z]   NEW: "Wave Song" by Emma Hamm — narrated by Will M. Watt, Carmen Rose [US] 21 Oct 2025
+[2026-08-13T22:56:46.936Z]   NEW: "The Captain" by Christi Caldwell — narrated by Will M. Watt, Heather Wilds [US] 21 Oct 2025
+[2026-08-13T22:56:46.936Z]   NEW: "The Rake, or the Orca Who Met His Match in a Selkie Desiring Revenge" by Kass O'Shire — narrated by Will M. Watt, Lulu Russell [US] 07 Oct 2025
+[2026-08-13T22:56:46.937Z]   NEW: "No Knight" by Donna Alam — narrated by Ariela Crow, Will M. Watt [US] 15 Sept 2025
+[2026-08-13T22:56:46.937Z]   NEW: "Bad Date" by Ellery Lloyd — narrated by Kitty Kelly, Billie Fulford-Brown, Will M. Watt [US] 01 Sept 2025
+[2026-08-13T22:56:46.937Z]   NEW: "Pucking Obsessed" by Rosemary A Johns — narrated by Will M. Watt, Vivian Bradford [US] 19 Aug 2025
+[2026-08-13T22:56:46.937Z]   NEW: "Lightning in a Bottle" by R. L. King — narrated by Will M. Watt [US] 14 Aug 2025
+[2026-08-13T22:56:46.937Z]   NEW: "Freed from Gravity" by Jenny Hickman — narrated by Will M. Watt, Zura Johnson [US] 12 Aug 2025
+[2026-08-13T22:56:46.937Z]   NEW: "Sinful Storms" by Becca Steele — narrated by Will M. Watt, Scarlett Everdeen [US] 05 Aug 2025
+[2026-08-13T22:56:46.938Z]   NEW: "Call of the Fathoms" by Emma Hamm — narrated by Will M. Watt, Carmen Rose [US] 29 Jul 2025
+[2026-08-13T22:56:46.938Z]   NEW: "The Dread Prince" by Lauren Cate Leake — narrated by Sasha Higgins, Will M. Watt [US] 29 Jul 2025
+[2026-08-13T22:56:46.938Z]   NEW: "The Other Brother" by Tierney Page — narrated by Evelyn Rose, Will M. Watt [US] 01 Jul 2025
+[2026-08-13T22:56:46.938Z]   NEW: "Pucking Road Trip" by Rosemary A Johns — narrated by Will M. Watt, Vivian Bradford [US] 24 Jun 2025
+[2026-08-13T22:56:46.938Z]   NEW: "Always Alchemy" by Elodie Hart — narrated by Will M. Watt, Kylie Stewart [US] 10 Jun 2025
+[2026-08-13T22:56:46.938Z]   NEW: "The Art of Revenge" by Unknown Author — narrated by Will M. Watt [US] 
+[2026-08-13T22:56:46.938Z]   NEW: "Duke with a Deception" by Scarlett Scott — narrated by Will Watt, Marian Hussey [US] 15 Sept 2026
+[2026-08-13T22:56:46.938Z]   NEW: "The Queen of Bad Influences" by Jim Shepard — narrated by MacLeod Andrews, Cassandra Campbell, Will Watt, Ell Potter [US] 15 Sept 2026
+[2026-08-13T22:56:46.939Z]   NEW: "Adam, Mine." by K. Ancrum — narrated by Will Watt [US] 08 Sept 2026
+[2026-08-13T22:56:46.939Z]   NEW: "The Dating Game" by Ally Zetterberg — narrated by Will Watt, Billie Fulford-Brown [US] 08 Sept 2026
+[2026-08-13T22:56:46.939Z]   NEW: "The Pumpkin Bride" by Fiona Buttercup — narrated by Will Watt, Moira Quirk [US] 01 Sept 2026
+[2026-08-13T22:56:46.939Z]   NEW: "A Witch in Notting Hill Unbridged" by Alexandra Paige — narrated by Nikki Massoud, Will Watt [US] 11 Aug 2026
+[2026-08-13T22:56:46.939Z]   NEW: "Levels of Love" by Anabelle Stehl — narrated by Will Watt, Dahlia Summers [US] 04 Aug 2026
+[2026-08-13T22:56:46.939Z]   NEW: "Wild Scottish Fate" by Tricia O'Malley — narrated by Amy Landon, Will Watt [US] 14 Jul 2026
+[2026-08-13T22:56:46.940Z]   NEW: "All's Fair in Love and Blood" by Jennifer Peel — narrated by Stephanie Rose, Will Watt [US] 08 Jul 2026
+[2026-08-13T22:56:46.940Z]   NEW: "Claimed by the Scottish Wolves" by Theodora Taylor — narrated by Samantha Brentmoor, Lacy Laurel, J.Y. Kora, Will Watt [US] 05 Jul 2026
+[2026-08-13T22:56:46.940Z]   NEW: "The Winged Game" by Sophie Kim — narrated by Will Watt, Shakira Shute [US] 30 Jun 2026
+[2026-08-13T22:56:46.940Z]   NEW: "Audacious in a Kilt" by Anna Durand — narrated by Lucy Rivers, Will Watt [US] 23 Jun 2026
+[2026-08-13T22:56:46.940Z]   NEW: "Nemesis Mine" by Amy Archer — narrated by Will Watt [US] 23 Jun 2026
+[2026-08-13T22:56:46.940Z]   NEW: "Kirill" by Lilian Harris — narrated by Kai Kennicott, Will Watt, John Hartley [US] 10 Jun 2026
+[2026-08-13T22:56:46.940Z]   NEW: "The Temptation of Charlotte North" by Camilla Bruce — narrated by Daisy Plant, Will Watt, Marisa Calin [US] 19 May 2026
+[2026-08-13T22:56:46.941Z]   NEW: "Wild Scottish Magic" by Tricia O'Malley — narrated by Amy Landon, Will Watt [US] 14 Apr 2026
+[2026-08-13T22:56:46.941Z]   NEW: "Paranormal Payback" by Jim Butcher - editor — narrated by Khristine Hvam, Alexandra Potocka, James Marsters, Will Watt, Stella Hunter, Elizabeth Wiley, Thérèse Plummer, Marguerite Gavin, Graham Halstead, JD Jackson, Hannah Curtis, Jim Butcher, Sean Patrick Hopkins [US] 14 Apr 2026
+[2026-08-13T22:56:46.941Z]   NEW: "Orange" by Curtis Garner — narrated by Will Watt [US] 12 Mar 2026
+[2026-08-13T22:56:46.941Z]   NEW: "The Art of Revenge" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "All Nighter: The Undergrads series, Book 2" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "Playing My Holiday" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "Bane Bloom" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "Duke with a Deception" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "The Echo of Loss" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "Look to Pass" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "The Queen of Bad Influences" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "Adam, Mine." by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "The Dating Game" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "He Sees You When You're Sleeping" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "The Pumpkin Bride" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "Pucking Them" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "A Witch in Notting Hill Unbridged" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "Fruit Fly" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "Levels of Love" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "The Cairndale Orphan" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "The Dread King" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:46.941Z]   NEW: "Wild Scottish Fate" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-13T22:56:47.359Z] Email sent to sarah.zaki003@gmail.com with 75 new books.
+[2026-08-13T22:56:47.362Z] Check complete.
+[2026-08-13T22:56:47.362Z] ═══════════════════════════════════════
+
