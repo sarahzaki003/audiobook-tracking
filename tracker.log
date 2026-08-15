@@ -5901,3 +5901,230 @@
 [2026-08-14T11:13:43.707Z] Check complete.
 [2026-08-14T11:13:43.707Z] ═══════════════════════════════════════
 
+[2026-08-15T08:59:50.903Z] ═══════════════════════════════════════
+[2026-08-15T08:59:50.904Z] Starting narrator check...
+[2026-08-15T08:59:50.907Z] Checking US page 1: "Harley Chase"
+[2026-08-15T08:59:52.235Z]   Page 1: found 40 results
+[2026-08-15T08:59:54.240Z] Checking US page 2: "Harley Chase"
+[2026-08-15T08:59:55.780Z]   Page 2: found 40 results
+[2026-08-15T08:59:55.781Z]   Total for "Harley Chase" on US: 80 (keeping 40)
+[2026-08-15T08:59:59.017Z] Checking UK page 1: "Harley Chase"
+[2026-08-15T08:59:59.649Z]   Page 1: found 0 results
+[2026-08-15T08:59:59.650Z]   Total for "Harley Chase" on UK: 0 (keeping 0)
+[2026-08-15T09:00:01.857Z] Checking US page 1: "Devon Ryder"
+[2026-08-15T09:00:03.442Z]   Page 1: found 40 results
+[2026-08-15T09:00:05.390Z] Checking US page 2: "Devon Ryder"
+[2026-08-15T09:00:06.799Z]   Page 2: found 40 results
+[2026-08-15T09:00:06.800Z]   Total for "Devon Ryder" on US: 80 (keeping 40)
+[2026-08-15T09:00:09.019Z] Checking UK page 1: "Devon Ryder"
+[2026-08-15T09:00:09.682Z]   Page 1: found 0 results
+[2026-08-15T09:00:09.682Z]   Total for "Devon Ryder" on UK: 0 (keeping 0)
+[2026-08-15T09:00:11.817Z] Checking US page 1: "Mac Rae"
+[2026-08-15T09:00:12.956Z]   Page 1: found 40 results
+[2026-08-15T09:00:15.329Z] Checking US page 2: "Mac Rae"
+[2026-08-15T09:00:15.899Z]   Page 2: found 8 results
+[2026-08-15T09:00:15.899Z]   Total for "Mac Rae" on US: 48 (keeping 40)
+[2026-08-15T09:00:18.105Z] Checking UK page 1: "Mac Rae"
+[2026-08-15T09:00:18.770Z]   Page 1: found 0 results
+[2026-08-15T09:00:18.770Z]   Total for "Mac Rae" on UK: 0 (keeping 0)
+[2026-08-15T09:00:21.624Z] Checking US page 1: "Kieran Regan"
+[2026-08-15T09:00:23.264Z]   Page 1: found 40 results
+[2026-08-15T09:00:25.264Z] Checking US page 2: "Kieran Regan"
+[2026-08-15T09:00:26.696Z]   Page 2: found 40 results
+[2026-08-15T09:00:26.696Z]   Total for "Kieran Regan" on US: 80 (keeping 40)
+[2026-08-15T09:00:30.133Z] Checking UK page 1: "Kieran Regan"
+[2026-08-15T09:00:30.893Z]   Page 1: found 0 results
+[2026-08-15T09:00:30.893Z]   Total for "Kieran Regan" on UK: 0 (keeping 0)
+[2026-08-15T09:00:34.111Z] Checking US page 1: "Brandon Francis"
+[2026-08-15T09:00:35.531Z]   Page 1: found 40 results
+[2026-08-15T09:00:37.238Z] Checking US page 2: "Brandon Francis"
+[2026-08-15T09:00:38.426Z]   Page 2: found 40 results
+[2026-08-15T09:00:38.427Z]   Filtered out 1 results with non-matching narrators
+[2026-08-15T09:00:38.427Z]   Total for "Brandon Francis" on US: 79 (keeping 40)
+[2026-08-15T09:00:40.892Z] Checking UK page 1: "Brandon Francis"
+[2026-08-15T09:00:41.652Z]   Page 1: found 0 results
+[2026-08-15T09:00:41.652Z]   Total for "Brandon Francis" on UK: 0 (keeping 0)
+[2026-08-15T09:00:45.051Z] Checking US page 1: "Ellis Evans"
+[2026-08-15T09:00:46.291Z]   Page 1: found 40 results
+[2026-08-15T09:00:48.146Z] Checking US page 2: "Ellis Evans"
+[2026-08-15T09:00:49.471Z]   Page 2: found 40 results
+[2026-08-15T09:00:49.471Z]   Total for "Ellis Evans" on US: 80 (keeping 40)
+[2026-08-15T09:00:52.848Z] Checking UK page 1: "Ellis Evans"
+[2026-08-15T09:00:53.508Z]   Page 1: found 0 results
+[2026-08-15T09:00:53.508Z]   Total for "Ellis Evans" on UK: 0 (keeping 0)
+[2026-08-15T09:00:56.669Z] Checking US page 1: "Theo Sinclair"
+[2026-08-15T09:00:57.862Z]   Page 1: found 40 results
+[2026-08-15T09:01:00.282Z] Checking US page 2: "Theo Sinclair"
+[2026-08-15T09:01:01.544Z]   Page 2: found 40 results
+[2026-08-15T09:01:01.544Z]   Total for "Theo Sinclair" on US: 80 (keeping 40)
+[2026-08-15T09:01:03.952Z] Checking UK page 1: "Theo Sinclair"
+[2026-08-15T09:01:04.572Z]   Page 1: found 0 results
+[2026-08-15T09:01:04.573Z]   Total for "Theo Sinclair" on UK: 0 (keeping 0)
+[2026-08-15T09:01:08.001Z] Checking US page 1: "Grayson Owens"
+[2026-08-15T09:01:09.357Z]   Page 1: found 40 results
+[2026-08-15T09:01:11.574Z] Checking US page 2: "Grayson Owens"
+[2026-08-15T09:01:12.774Z]   Page 2: found 40 results
+[2026-08-15T09:01:12.775Z]   Total for "Grayson Owens" on US: 80 (keeping 40)
+[2026-08-15T09:01:16.033Z] Checking UK page 1: "Grayson Owens"
+[2026-08-15T09:01:16.670Z]   Page 1: found 0 results
+[2026-08-15T09:01:16.670Z]   Total for "Grayson Owens" on UK: 0 (keeping 0)
+[2026-08-15T09:01:20.150Z] Checking US page 1: "Christian Leatherman"
+[2026-08-15T09:01:21.330Z]   Page 1: found 40 results
+[2026-08-15T09:01:22.963Z] Checking US page 2: "Christian Leatherman"
+[2026-08-15T09:01:24.172Z]   Page 2: found 40 results
+[2026-08-15T09:01:24.172Z]   Total for "Christian Leatherman" on US: 80 (keeping 40)
+[2026-08-15T09:01:28.126Z] Checking UK page 1: "Christian Leatherman"
+[2026-08-15T09:01:28.787Z]   Page 1: found 0 results
+[2026-08-15T09:01:28.787Z]   Total for "Christian Leatherman" on UK: 0 (keeping 0)
+[2026-08-15T09:01:31.957Z] Checking US page 1: "Zachary Zaba"
+[2026-08-15T09:01:33.209Z]   Page 1: found 40 results
+[2026-08-15T09:01:34.995Z] Checking US page 2: "Zachary Zaba"
+[2026-08-15T09:01:36.289Z]   Page 2: found 40 results
+[2026-08-15T09:01:36.290Z]   Total for "Zachary Zaba" on US: 80 (keeping 40)
+[2026-08-15T09:01:38.561Z] Checking UK page 1: "Zachary Zaba"
+[2026-08-15T09:01:39.206Z]   Page 1: found 0 results
+[2026-08-15T09:01:39.206Z]   Total for "Zachary Zaba" on UK: 0 (keeping 0)
+[2026-08-15T09:01:42.234Z] Checking US page 1: "Zachary Johnson"
+[2026-08-15T09:01:43.414Z]   Page 1: found 40 results
+[2026-08-15T09:01:45.507Z] Checking US page 2: "Zachary Johnson"
+[2026-08-15T09:01:46.906Z]   Page 2: found 40 results
+[2026-08-15T09:01:46.906Z]   Total for "Zachary Johnson" on US: 80 (keeping 40)
+[2026-08-15T09:01:49.976Z] Checking UK page 1: "Zachary Johnson"
+[2026-08-15T09:01:50.622Z]   Page 1: found 0 results
+[2026-08-15T09:01:50.622Z]   Total for "Zachary Johnson" on UK: 0 (keeping 0)
+[2026-08-15T09:01:53.787Z] Checking US page 1: "Nick J. Russo"
+[2026-08-15T09:01:55.033Z]   Page 1: found 40 results
+[2026-08-15T09:01:56.589Z] Checking US page 2: "Nick J. Russo"
+[2026-08-15T09:01:57.764Z]   Page 2: found 40 results
+[2026-08-15T09:01:57.764Z]   Filtered out 2 results with non-matching narrators
+[2026-08-15T09:01:57.764Z]   Total for "Nick J. Russo" on US: 78 (keeping 40)
+[2026-08-15T09:02:01.560Z] Checking UK page 1: "Nick J. Russo"
+[2026-08-15T09:02:02.273Z]   Page 1: found 0 results
+[2026-08-15T09:02:02.273Z]   Total for "Nick J. Russo" on UK: 0 (keeping 0)
+[2026-08-15T09:02:05.658Z] Checking US page 1: "Nathan Kelly"
+[2026-08-15T09:02:06.857Z]   Page 1: found 40 results
+[2026-08-15T09:02:08.751Z] Checking US page 2: "Nathan Kelly"
+[2026-08-15T09:02:10.370Z]   Page 2: found 40 results
+[2026-08-15T09:02:10.370Z]   Filtered out 2 results with non-matching narrators
+[2026-08-15T09:02:10.371Z]   Total for "Nathan Kelly" on US: 78 (keeping 40)
+[2026-08-15T09:02:13.130Z] Checking UK page 1: "Nathan Kelly"
+[2026-08-15T09:02:13.787Z]   Page 1: found 0 results
+[2026-08-15T09:02:13.788Z]   Total for "Nathan Kelly" on UK: 0 (keeping 0)
+[2026-08-15T09:02:17.187Z] Checking US page 1: "Aiden Snow"
+[2026-08-15T09:02:18.312Z]   Page 1: found 40 results
+[2026-08-15T09:02:20.677Z] Checking US page 2: "Aiden Snow"
+[2026-08-15T09:02:21.850Z]   Page 2: found 40 results
+[2026-08-15T09:02:21.850Z]   Total for "Aiden Snow" on US: 80 (keeping 40)
+[2026-08-15T09:02:24.850Z] Checking UK page 1: "Aiden Snow"
+[2026-08-15T09:02:25.508Z]   Page 1: found 0 results
+[2026-08-15T09:02:25.509Z]   Total for "Aiden Snow" on UK: 0 (keeping 0)
+[2026-08-15T09:02:28.343Z] Checking US page 1: "J. F. Harding"
+[2026-08-15T09:02:29.586Z]   Page 1: found 40 results
+[2026-08-15T09:02:31.746Z] Checking US page 2: "J. F. Harding"
+[2026-08-15T09:02:32.974Z]   Page 2: found 40 results
+[2026-08-15T09:02:32.974Z]   Filtered out 37 results with non-matching narrators
+[2026-08-15T09:02:32.974Z]   Total for "J. F. Harding" on US: 43 (keeping 40)
+[2026-08-15T09:02:36.614Z] Checking UK page 1: "J. F. Harding"
+[2026-08-15T09:02:37.478Z]   Page 1: found 0 results
+[2026-08-15T09:02:37.478Z]   Total for "J. F. Harding" on UK: 0 (keeping 0)
+[2026-08-15T09:02:40.026Z] Checking US page 1: "Gabriel Michael"
+[2026-08-15T09:02:41.258Z]   Page 1: found 40 results
+[2026-08-15T09:02:42.946Z] Checking US page 2: "Gabriel Michael"
+[2026-08-15T09:02:44.256Z]   Page 2: found 40 results
+[2026-08-15T09:02:44.256Z]   Filtered out 2 results with non-matching narrators
+[2026-08-15T09:02:44.256Z]   Total for "Gabriel Michael" on US: 78 (keeping 40)
+[2026-08-15T09:02:47.088Z] Checking UK page 1: "Gabriel Michael"
+[2026-08-15T09:02:47.737Z]   Page 1: found 0 results
+[2026-08-15T09:02:47.738Z]   Total for "Gabriel Michael" on UK: 0 (keeping 0)
+[2026-08-15T09:02:50.499Z] Checking US page 1: "Jason Clarke"
+[2026-08-15T09:02:51.892Z]   Page 1: found 40 results
+[2026-08-15T09:02:53.674Z] Checking US page 2: "Jason Clarke"
+[2026-08-15T09:02:55.438Z]   Page 2: found 40 results
+[2026-08-15T09:02:55.438Z]   Total for "Jason Clarke" on US: 80 (keeping 40)
+[2026-08-15T09:02:59.130Z] Checking UK page 1: "Jason Clarke"
+[2026-08-15T09:03:00.430Z]   Page 1: found 0 results
+[2026-08-15T09:03:00.431Z]   Total for "Jason Clarke" on UK: 0 (keeping 0)
+[2026-08-15T09:03:02.576Z] Checking US page 1: "Shane East"
+[2026-08-15T09:03:03.741Z]   Page 1: found 40 results
+[2026-08-15T09:03:05.321Z] Checking US page 2: "Shane East"
+[2026-08-15T09:03:07.827Z]   Page 2: found 40 results
+[2026-08-15T09:03:07.827Z]   Total for "Shane East" on US: 80 (keeping 40)
+[2026-08-15T09:03:11.570Z] Checking UK page 1: "Shane East"
+[2026-08-15T09:03:12.298Z]   Page 1: found 0 results
+[2026-08-15T09:03:12.298Z]   Total for "Shane East" on UK: 0 (keeping 0)
+[2026-08-15T09:03:16.152Z] Checking US page 1: "Christian Fox"
+[2026-08-15T09:03:17.521Z]   Page 1: found 40 results
+[2026-08-15T09:03:19.434Z] Checking US page 2: "Christian Fox"
+[2026-08-15T09:03:21.282Z]   Page 2: found 40 results
+[2026-08-15T09:03:21.283Z]   Filtered out 1 results with non-matching narrators
+[2026-08-15T09:03:21.283Z]   Total for "Christian Fox" on US: 79 (keeping 40)
+[2026-08-15T09:03:24.881Z] Checking UK page 1: "Christian Fox"
+[2026-08-15T09:03:25.580Z]   Page 1: found 0 results
+[2026-08-15T09:03:25.580Z]   Total for "Christian Fox" on UK: 0 (keeping 0)
+[2026-08-15T09:03:29.057Z] Checking US page 1: "Corvin King"
+[2026-08-15T09:03:30.580Z]   Page 1: found 40 results
+[2026-08-15T09:03:32.149Z] Checking US page 2: "Corvin King"
+[2026-08-15T09:03:33.453Z]   Page 2: found 40 results
+[2026-08-15T09:03:33.454Z]   Total for "Corvin King" on US: 80 (keeping 40)
+[2026-08-15T09:03:36.276Z] Checking UK page 1: "Corvin King"
+[2026-08-15T09:03:37.012Z]   Page 1: found 0 results
+[2026-08-15T09:03:37.012Z]   Total for "Corvin King" on UK: 0 (keeping 0)
+[2026-08-15T09:03:40.659Z] Checking US page 1: "Sean Masters"
+[2026-08-15T09:03:42.025Z]   Page 1: found 40 results
+[2026-08-15T09:03:43.730Z] Checking US page 2: "Sean Masters"
+[2026-08-15T09:03:45.093Z]   Page 2: found 40 results
+[2026-08-15T09:03:45.094Z]   Total for "Sean Masters" on US: 80 (keeping 40)
+[2026-08-15T09:03:48.153Z] Checking UK page 1: "Sean Masters"
+[2026-08-15T09:03:48.873Z]   Page 1: found 0 results
+[2026-08-15T09:03:48.873Z]   Total for "Sean Masters" on UK: 0 (keeping 0)
+[2026-08-15T09:03:51.436Z] Checking US page 1: "Jonathan Lake"
+[2026-08-15T09:03:52.722Z]   Page 1: found 40 results
+[2026-08-15T09:03:54.435Z] Checking US page 2: "Jonathan Lake"
+[2026-08-15T09:03:56.126Z]   Page 2: found 40 results
+[2026-08-15T09:03:56.126Z]   Total for "Jonathan Lake" on US: 80 (keeping 40)
+[2026-08-15T09:03:58.639Z] Checking UK page 1: "Jonathan Lake"
+[2026-08-15T09:03:59.302Z]   Page 1: found 0 results
+[2026-08-15T09:03:59.302Z]   Total for "Jonathan Lake" on UK: 0 (keeping 0)
+[2026-08-15T09:04:01.735Z] Checking US page 1: "J. Tipstone"
+[2026-08-15T09:04:03.067Z]   Page 1: found 40 results
+[2026-08-15T09:04:05.054Z] Checking US page 2: "J. Tipstone"
+[2026-08-15T09:04:06.305Z]   Page 2: found 34 results
+[2026-08-15T09:04:06.306Z]   Total for "J. Tipstone" on US: 74 (keeping 40)
+[2026-08-15T09:04:09.819Z] Checking UK page 1: "J. Tipstone"
+[2026-08-15T09:04:10.480Z]   Page 1: found 0 results
+[2026-08-15T09:04:10.481Z]   Total for "J. Tipstone" on UK: 0 (keeping 0)
+[2026-08-15T09:04:12.522Z] Checking US page 1: "Nathan Wolfe"
+[2026-08-15T09:04:13.705Z]   Page 1: found 38 results
+[2026-08-15T09:04:16.078Z] Checking US page 2: "Nathan Wolfe"
+[2026-08-15T09:04:17.444Z]   Page 2: found 38 results
+[2026-08-15T09:04:17.444Z]   Total for "Nathan Wolfe" on US: 76 (keeping 40)
+[2026-08-15T09:04:19.549Z] Checking UK page 1: "Nathan Wolfe"
+[2026-08-15T09:04:20.089Z]   Page 1: found 0 results
+[2026-08-15T09:04:20.089Z]   Total for "Nathan Wolfe" on UK: 0 (keeping 0)
+[2026-08-15T09:04:22.959Z] Checking US page 1: "Will M. Watt"
+[2026-08-15T09:04:24.109Z]   Page 1: found 40 results
+[2026-08-15T09:04:26.298Z] Checking US page 2: "Will M. Watt"
+[2026-08-15T09:04:27.501Z]   Page 2: found 40 results
+[2026-08-15T09:04:27.501Z]   Filtered out 1 results with non-matching narrators
+[2026-08-15T09:04:27.501Z]   Total for "Will M. Watt" on US: 79 (keeping 40)
+[2026-08-15T09:04:29.665Z] Checking UK page 1: "Will M. Watt"
+[2026-08-15T09:04:30.733Z]   Page 1: found 0 results
+[2026-08-15T09:04:30.733Z]   Total for "Will M. Watt" on UK: 0 (keeping 0)
+[2026-08-15T09:04:32.824Z] Checking US page 1: "Will Watt"
+[2026-08-15T09:04:33.906Z]   Page 1: found 40 results
+[2026-08-15T09:04:35.587Z] Checking US page 2: "Will Watt"
+[2026-08-15T09:04:38.126Z]   Page 2: found 40 results
+[2026-08-15T09:04:38.126Z]   Filtered out 21 results with non-matching narrators
+[2026-08-15T09:04:38.126Z]   Total for "Will Watt" on US: 59 (keeping 40)
+[2026-08-15T09:04:41.277Z] Checking UK page 1: "Will Watt"
+[2026-08-15T09:04:41.887Z]   Page 1: found 0 results
+[2026-08-15T09:04:41.888Z]   Total for "Will Watt" on UK: 0 (keeping 0)
+[2026-08-15T09:04:45.485Z] Total results scraped: 1040
+[2026-08-15T09:04:45.486Z] New books found: 3
+[2026-08-15T09:04:45.528Z]   NEW: "Anything but Love" by Courtney W. Dixon — narrated by Harley Chase [US] 14 Aug 2026
+[2026-08-15T09:04:45.528Z]   NEW: "Dance of Defiance" by Jagger Cole — narrated by Dane Anderson, Theo Sinclair [US] 22 Sept 2026
+[2026-08-15T09:04:45.528Z]   NEW: "The Whitley Brothers Complete Collection (1-8)" by Layla Hagen — narrated by Jacob Morgan, Emma Wilder, Samantha Brentmoor, Sebastian York, Maxine Mitchell, Aiden Snow, Connor Crais, Erin Mallon, CJ Bloom [US] 31 Jul 2026
+[2026-08-15T09:04:45.744Z] Email sent to sarah.zaki003@gmail.com with 3 new books.
+[2026-08-15T09:04:45.748Z] Check complete.
+[2026-08-15T09:04:45.748Z] ═══════════════════════════════════════
+
