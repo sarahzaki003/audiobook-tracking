@@ -7510,3 +7510,1212 @@
 [2026-08-21T09:59:10.763Z] Check complete.
 [2026-08-21T09:59:10.763Z] ═══════════════════════════════════════
 
+[2026-08-22T09:02:33.849Z] ═══════════════════════════════════════
+[2026-08-22T09:02:33.850Z] Starting narrator check...
+[2026-08-22T09:02:33.850Z] Checking US page 1: "Harley Chase"
+[2026-08-22T09:02:35.212Z]   Page 1: 40 results
+[2026-08-22T09:02:37.037Z] Checking US page 2: "Harley Chase"
+[2026-08-22T09:02:38.525Z]   Page 2: 40 results
+[2026-08-22T09:02:38.526Z]   Total for "Harley Chase" on US: 80
+[2026-08-22T09:02:40.841Z] Checking UK page 1: "Harley Chase"
+[2026-08-22T09:02:41.926Z]   Page 1: 0 results
+[2026-08-22T09:02:41.926Z]   Total for "Harley Chase" on UK: 0
+[2026-08-22T09:02:44.763Z] Checking US page 1: "Devon Ryder"
+[2026-08-22T09:02:46.151Z]   Page 1: 40 results
+[2026-08-22T09:02:48.207Z] Checking US page 2: "Devon Ryder"
+[2026-08-22T09:02:49.530Z]   Page 2: 40 results
+[2026-08-22T09:02:49.530Z]   Total for "Devon Ryder" on US: 80
+[2026-08-22T09:02:52.588Z] Checking UK page 1: "Devon Ryder"
+[2026-08-22T09:02:53.288Z]   Page 1: 0 results
+[2026-08-22T09:02:53.288Z]   Total for "Devon Ryder" on UK: 0
+[2026-08-22T09:02:56.401Z] Checking US page 1: "Mac Rae"
+[2026-08-22T09:02:57.864Z]   Page 1: 40 results
+[2026-08-22T09:02:59.825Z] Checking US page 2: "Mac Rae"
+[2026-08-22T09:03:00.550Z]   Page 2: 10 results
+[2026-08-22T09:03:00.551Z]   Total for "Mac Rae" on US: 50
+[2026-08-22T09:03:02.584Z] Checking UK page 1: "Mac Rae"
+[2026-08-22T09:03:03.294Z]   Page 1: 0 results
+[2026-08-22T09:03:03.294Z]   Total for "Mac Rae" on UK: 0
+[2026-08-22T09:03:05.590Z] Checking US page 1: "Kieran Regan"
+[2026-08-22T09:03:06.977Z]   Page 1: 40 results
+[2026-08-22T09:03:08.660Z] Checking US page 2: "Kieran Regan"
+[2026-08-22T09:03:10.257Z]   Page 2: 40 results
+[2026-08-22T09:03:10.257Z]   Total for "Kieran Regan" on US: 80
+[2026-08-22T09:03:14.215Z] Checking UK page 1: "Kieran Regan"
+[2026-08-22T09:03:15.061Z]   Page 1: 0 results
+[2026-08-22T09:03:15.061Z]   Total for "Kieran Regan" on UK: 0
+[2026-08-22T09:03:18.794Z] Checking US page 1: "Brandon Francis"
+[2026-08-22T09:03:20.483Z]   Page 1: 40 results
+[2026-08-22T09:03:22.034Z] Checking US page 2: "Brandon Francis"
+[2026-08-22T09:03:23.438Z]   Page 2: 40 results
+[2026-08-22T09:03:23.438Z]   Filtered out 1 non-matching narrators
+[2026-08-22T09:03:23.438Z]   Total for "Brandon Francis" on US: 79
+[2026-08-22T09:03:25.977Z] Checking UK page 1: "Brandon Francis"
+[2026-08-22T09:03:26.709Z]   Page 1: 0 results
+[2026-08-22T09:03:26.710Z]   Total for "Brandon Francis" on UK: 0
+[2026-08-22T09:03:29.152Z] Checking US page 1: "Ellis Evans"
+[2026-08-22T09:03:30.294Z]   Page 1: 40 results
+[2026-08-22T09:03:31.810Z] Checking US page 2: "Ellis Evans"
+[2026-08-22T09:03:33.258Z]   Page 2: 40 results
+[2026-08-22T09:03:33.258Z]   Total for "Ellis Evans" on US: 80
+[2026-08-22T09:03:36.286Z] Checking UK page 1: "Ellis Evans"
+[2026-08-22T09:03:36.888Z]   Page 1: 0 results
+[2026-08-22T09:03:36.888Z]   Total for "Ellis Evans" on UK: 0
+[2026-08-22T09:03:39.344Z] Checking US page 1: "Theo Sinclair"
+[2026-08-22T09:03:40.579Z]   Page 1: 40 results
+[2026-08-22T09:03:42.308Z] Checking US page 2: "Theo Sinclair"
+[2026-08-22T09:03:43.692Z]   Page 2: 40 results
+[2026-08-22T09:03:43.693Z]   Total for "Theo Sinclair" on US: 80
+[2026-08-22T09:03:47.282Z] Checking UK page 1: "Theo Sinclair"
+[2026-08-22T09:03:48.018Z]   Page 1: 0 results
+[2026-08-22T09:03:48.018Z]   Total for "Theo Sinclair" on UK: 0
+[2026-08-22T09:03:51.208Z] Checking US page 1: "Grayson Owens"
+[2026-08-22T09:03:52.405Z]   Page 1: 40 results
+[2026-08-22T09:03:54.471Z] Checking US page 2: "Grayson Owens"
+[2026-08-22T09:03:55.959Z]   Page 2: 40 results
+[2026-08-22T09:03:55.959Z]   Total for "Grayson Owens" on US: 80
+[2026-08-22T09:03:58.806Z] Checking UK page 1: "Grayson Owens"
+[2026-08-22T09:03:59.624Z]   Page 1: 0 results
+[2026-08-22T09:03:59.624Z]   Total for "Grayson Owens" on UK: 0
+[2026-08-22T09:04:02.633Z] Checking US page 1: "Christian Leatherman"
+[2026-08-22T09:04:03.793Z]   Page 1: 40 results
+[2026-08-22T09:04:05.799Z] Checking US page 2: "Christian Leatherman"
+[2026-08-22T09:04:07.035Z]   Page 2: 40 results
+[2026-08-22T09:04:07.036Z]   Total for "Christian Leatherman" on US: 80
+[2026-08-22T09:04:09.145Z] Checking UK page 1: "Christian Leatherman"
+[2026-08-22T09:04:09.953Z]   Page 1: 0 results
+[2026-08-22T09:04:09.953Z]   Total for "Christian Leatherman" on UK: 0
+[2026-08-22T09:04:13.871Z] Checking US page 1: "Zachary Zaba"
+[2026-08-22T09:04:15.341Z]   Page 1: 40 results
+[2026-08-22T09:04:17.212Z] Checking US page 2: "Zachary Zaba"
+[2026-08-22T09:04:18.378Z]   Page 2: 40 results
+[2026-08-22T09:04:18.379Z]   Total for "Zachary Zaba" on US: 80
+[2026-08-22T09:04:21.833Z] Checking UK page 1: "Zachary Zaba"
+[2026-08-22T09:04:22.478Z]   Page 1: 0 results
+[2026-08-22T09:04:22.478Z]   Total for "Zachary Zaba" on UK: 0
+[2026-08-22T09:04:26.006Z] Checking US page 1: "Zachary Johnson"
+[2026-08-22T09:04:27.246Z]   Page 1: 40 results
+[2026-08-22T09:04:29.367Z] Checking US page 2: "Zachary Johnson"
+[2026-08-22T09:04:30.790Z]   Page 2: 40 results
+[2026-08-22T09:04:30.790Z]   Total for "Zachary Johnson" on US: 80
+[2026-08-22T09:04:33.988Z] Checking UK page 1: "Zachary Johnson"
+[2026-08-22T09:04:35.055Z]   Page 1: 0 results
+[2026-08-22T09:04:35.055Z]   Total for "Zachary Johnson" on UK: 0
+[2026-08-22T09:04:38.714Z] Checking US page 1: "Zane Daniels"
+[2026-08-22T09:04:40.006Z]   Page 1: 40 results
+[2026-08-22T09:04:42.442Z] Checking US page 2: "Zane Daniels"
+[2026-08-22T09:04:43.401Z]   Page 2: 20 results
+[2026-08-22T09:04:43.401Z]   Total for "Zane Daniels" on US: 60
+[2026-08-22T09:04:46.323Z] Checking UK page 1: "Zane Daniels"
+[2026-08-22T09:04:47.135Z]   Page 1: 0 results
+[2026-08-22T09:04:47.136Z]   Total for "Zane Daniels" on UK: 0
+[2026-08-22T09:04:50.897Z] Checking US page 1: "Nick J. Russo"
+[2026-08-22T09:04:52.097Z]   Page 1: 40 results
+[2026-08-22T09:04:54.108Z] Checking US page 2: "Nick J. Russo"
+[2026-08-22T09:04:55.566Z]   Page 2: 40 results
+[2026-08-22T09:04:55.566Z]   Filtered out 2 non-matching narrators
+[2026-08-22T09:04:55.566Z]   Total for "Nick J. Russo" on US: 78
+[2026-08-22T09:04:57.656Z] Checking UK page 1: "Nick J. Russo"
+[2026-08-22T09:04:58.396Z]   Page 1: 0 results
+[2026-08-22T09:04:58.397Z]   Total for "Nick J. Russo" on UK: 0
+[2026-08-22T09:05:00.716Z] Checking US page 1: "Nathan Kelly"
+[2026-08-22T09:05:01.962Z]   Page 1: 40 results
+[2026-08-22T09:05:03.807Z] Checking US page 2: "Nathan Kelly"
+[2026-08-22T09:05:05.316Z]   Page 2: 40 results
+[2026-08-22T09:05:05.316Z]   Filtered out 2 non-matching narrators
+[2026-08-22T09:05:05.316Z]   Total for "Nathan Kelly" on US: 78
+[2026-08-22T09:05:08.812Z] Checking UK page 1: "Nathan Kelly"
+[2026-08-22T09:05:09.529Z]   Page 1: 0 results
+[2026-08-22T09:05:09.529Z]   Total for "Nathan Kelly" on UK: 0
+[2026-08-22T09:05:12.076Z] Checking US page 1: "Aiden Snow"
+[2026-08-22T09:05:13.165Z]   Page 1: 40 results
+[2026-08-22T09:05:15.159Z] Checking US page 2: "Aiden Snow"
+[2026-08-22T09:05:16.382Z]   Page 2: 40 results
+[2026-08-22T09:05:16.382Z]   Total for "Aiden Snow" on US: 80
+[2026-08-22T09:05:18.838Z] Checking UK page 1: "Aiden Snow"
+[2026-08-22T09:05:19.928Z]   Page 1: 0 results
+[2026-08-22T09:05:19.928Z]   Total for "Aiden Snow" on UK: 0
+[2026-08-22T09:05:22.837Z] Checking US page 1: "J. F. Harding"
+[2026-08-22T09:05:24.127Z]   Page 1: 40 results
+[2026-08-22T09:05:26.520Z] Checking US page 2: "J. F. Harding"
+[2026-08-22T09:05:27.818Z]   Page 2: 40 results
+[2026-08-22T09:05:27.818Z]   Filtered out 38 non-matching narrators
+[2026-08-22T09:05:27.818Z]   Total for "J. F. Harding" on US: 42
+[2026-08-22T09:05:30.373Z] Checking UK page 1: "J. F. Harding"
+[2026-08-22T09:05:31.103Z]   Page 1: 0 results
+[2026-08-22T09:05:31.103Z]   Total for "J. F. Harding" on UK: 0
+[2026-08-22T09:05:33.937Z] Checking US page 1: "Gabriel Michael"
+[2026-08-22T09:05:35.210Z]   Page 1: 40 results
+[2026-08-22T09:05:37.492Z] Checking US page 2: "Gabriel Michael"
+[2026-08-22T09:05:38.874Z]   Page 2: 40 results
+[2026-08-22T09:05:38.874Z]   Filtered out 2 non-matching narrators
+[2026-08-22T09:05:38.874Z]   Total for "Gabriel Michael" on US: 78
+[2026-08-22T09:05:42.106Z] Checking UK page 1: "Gabriel Michael"
+[2026-08-22T09:05:42.808Z]   Page 1: 0 results
+[2026-08-22T09:05:42.808Z]   Total for "Gabriel Michael" on UK: 0
+[2026-08-22T09:05:45.487Z] Checking US page 1: "Jason Clarke"
+[2026-08-22T09:05:46.786Z]   Page 1: 40 results
+[2026-08-22T09:05:48.776Z] Checking US page 2: "Jason Clarke"
+[2026-08-22T09:05:50.160Z]   Page 2: 40 results
+[2026-08-22T09:05:50.160Z]   Total for "Jason Clarke" on US: 80
+[2026-08-22T09:05:52.562Z] Checking UK page 1: "Jason Clarke"
+[2026-08-22T09:05:53.259Z]   Page 1: 0 results
+[2026-08-22T09:05:53.259Z]   Total for "Jason Clarke" on UK: 0
+[2026-08-22T09:05:55.636Z] Checking US page 1: "Shane East"
+[2026-08-22T09:05:56.730Z]   Page 1: 40 results
+[2026-08-22T09:05:58.658Z] Checking US page 2: "Shane East"
+[2026-08-22T09:05:59.921Z]   Page 2: 40 results
+[2026-08-22T09:05:59.921Z]   Total for "Shane East" on US: 80
+[2026-08-22T09:06:02.464Z] Checking UK page 1: "Shane East"
+[2026-08-22T09:06:03.185Z]   Page 1: 0 results
+[2026-08-22T09:06:03.185Z]   Total for "Shane East" on UK: 0
+[2026-08-22T09:06:06.615Z] Checking US page 1: "Christian Fox"
+[2026-08-22T09:06:08.004Z]   Page 1: 40 results
+[2026-08-22T09:06:10.255Z] Checking US page 2: "Christian Fox"
+[2026-08-22T09:06:11.733Z]   Page 2: 40 results
+[2026-08-22T09:06:11.733Z]   Filtered out 1 non-matching narrators
+[2026-08-22T09:06:11.733Z]   Total for "Christian Fox" on US: 79
+[2026-08-22T09:06:15.137Z] Checking UK page 1: "Christian Fox"
+[2026-08-22T09:06:16.289Z]   Page 1: 0 results
+[2026-08-22T09:06:16.289Z]   Total for "Christian Fox" on UK: 0
+[2026-08-22T09:06:19.938Z] Checking US page 1: "Corvin King"
+[2026-08-22T09:06:21.080Z]   Page 1: 40 results
+[2026-08-22T09:06:22.897Z] Checking US page 2: "Corvin King"
+[2026-08-22T09:06:24.387Z]   Page 2: 40 results
+[2026-08-22T09:06:24.387Z]   Total for "Corvin King" on US: 80
+[2026-08-22T09:06:26.715Z] Checking UK page 1: "Corvin King"
+[2026-08-22T09:06:27.397Z]   Page 1: 0 results
+[2026-08-22T09:06:27.397Z]   Total for "Corvin King" on UK: 0
+[2026-08-22T09:06:30.473Z] Checking US page 1: "Sean Masters"
+[2026-08-22T09:06:31.522Z]   Page 1: 40 results
+[2026-08-22T09:06:33.120Z] Checking US page 2: "Sean Masters"
+[2026-08-22T09:06:34.503Z]   Page 2: 40 results
+[2026-08-22T09:06:34.504Z]   Total for "Sean Masters" on US: 80
+[2026-08-22T09:06:36.873Z] Checking UK page 1: "Sean Masters"
+[2026-08-22T09:06:37.677Z]   Page 1: 0 results
+[2026-08-22T09:06:37.677Z]   Total for "Sean Masters" on UK: 0
+[2026-08-22T09:06:40.189Z] Checking US page 1: "Jonathan Lake"
+[2026-08-22T09:06:41.341Z]   Page 1: 40 results
+[2026-08-22T09:06:43.727Z] Checking US page 2: "Jonathan Lake"
+[2026-08-22T09:06:44.965Z]   Page 2: 40 results
+[2026-08-22T09:06:44.965Z]   Total for "Jonathan Lake" on US: 80
+[2026-08-22T09:06:48.786Z] Checking UK page 1: "Jonathan Lake"
+[2026-08-22T09:06:49.507Z]   Page 1: 0 results
+[2026-08-22T09:06:49.507Z]   Total for "Jonathan Lake" on UK: 0
+[2026-08-22T09:06:52.491Z] Checking US page 1: "J. Tipstone"
+[2026-08-22T09:06:53.859Z]   Page 1: 40 results
+[2026-08-22T09:06:55.670Z] Checking US page 2: "J. Tipstone"
+[2026-08-22T09:06:57.017Z]   Page 2: 36 results
+[2026-08-22T09:06:57.017Z]   Total for "J. Tipstone" on US: 76
+[2026-08-22T09:07:00.090Z] Checking UK page 1: "J. Tipstone"
+[2026-08-22T09:07:01.056Z]   Page 1: 0 results
+[2026-08-22T09:07:01.056Z]   Total for "J. Tipstone" on UK: 0
+[2026-08-22T09:07:04.012Z] Checking US page 1: "Nathan Wolfe"
+[2026-08-22T09:07:05.210Z]   Page 1: 40 results
+[2026-08-22T09:07:07.613Z] Checking US page 2: "Nathan Wolfe"
+[2026-08-22T09:07:08.954Z]   Page 2: 40 results
+[2026-08-22T09:07:08.954Z]   Total for "Nathan Wolfe" on US: 80
+[2026-08-22T09:07:11.747Z] Checking UK page 1: "Nathan Wolfe"
+[2026-08-22T09:07:12.453Z]   Page 1: 0 results
+[2026-08-22T09:07:12.453Z]   Total for "Nathan Wolfe" on UK: 0
+[2026-08-22T09:07:15.785Z] Checking US page 1: "Will M. Watt"
+[2026-08-22T09:07:17.126Z]   Page 1: 40 results
+[2026-08-22T09:07:19.078Z] Checking US page 2: "Will M. Watt"
+[2026-08-22T09:07:20.384Z]   Page 2: 40 results
+[2026-08-22T09:07:20.384Z]   Filtered out 1 non-matching narrators
+[2026-08-22T09:07:20.385Z]   Total for "Will M. Watt" on US: 79
+[2026-08-22T09:07:22.486Z] Checking UK page 1: "Will M. Watt"
+[2026-08-22T09:07:23.356Z]   Page 1: 0 results
+[2026-08-22T09:07:23.357Z]   Total for "Will M. Watt" on UK: 0
+[2026-08-22T09:07:27.230Z] Checking US page 1: "Will Watt"
+[2026-08-22T09:07:28.293Z]   Page 1: 40 results
+[2026-08-22T09:07:29.980Z] Checking US page 2: "Will Watt"
+[2026-08-22T09:07:31.368Z]   Page 2: 40 results
+[2026-08-22T09:07:31.368Z]   Filtered out 22 non-matching narrators
+[2026-08-22T09:07:31.368Z]   Total for "Will Watt" on US: 58
+[2026-08-22T09:07:33.914Z] Checking UK page 1: "Will Watt"
+[2026-08-22T09:07:34.561Z]   Page 1: 0 results
+[2026-08-22T09:07:34.561Z]   Total for "Will Watt" on UK: 0
+[2026-08-22T09:07:37.507Z] Checking US page 1: "Avery Wilde"
+[2026-08-22T09:07:38.889Z]   Page 1: 40 results
+[2026-08-22T09:07:40.716Z] Checking US page 2: "Avery Wilde"
+[2026-08-22T09:07:41.932Z]   Page 2: 40 results
+[2026-08-22T09:07:41.933Z]   Total for "Avery Wilde" on US: 80
+[2026-08-22T09:07:45.286Z] Checking UK page 1: "Avery Wilde"
+[2026-08-22T09:07:45.879Z]   Page 1: 0 results
+[2026-08-22T09:07:45.880Z]   Total for "Avery Wilde" on UK: 0
+[2026-08-22T09:07:47.950Z] Checking US page 1: "Thomas C. Wylde"
+[2026-08-22T09:07:48.466Z]   Page 1: 2 results
+[2026-08-22T09:07:48.467Z]   Total for "Thomas C. Wylde" on US: 2
+[2026-08-22T09:07:50.798Z] Checking UK page 1: "Thomas C. Wylde"
+[2026-08-22T09:07:51.386Z]   Page 1: 0 results
+[2026-08-22T09:07:51.386Z]   Total for "Thomas C. Wylde" on UK: 0
+[2026-08-22T09:07:53.501Z] Checking US page 1: "Casey Long"
+[2026-08-22T09:07:54.050Z]   Page 1: 4 results
+[2026-08-22T09:07:54.050Z]   Total for "Casey Long" on US: 4
+[2026-08-22T09:07:56.918Z] Checking UK page 1: "Casey Long"
+[2026-08-22T09:07:57.610Z]   Page 1: 0 results
+[2026-08-22T09:07:57.610Z]   Total for "Casey Long" on UK: 0
+[2026-08-22T09:07:59.739Z] Total results scraped: 1126
+[2026-08-22T09:07:59.741Z] Removed 170 duplicates
+[2026-08-22T09:07:59.741Z] New books found: 956
+[2026-08-22T09:07:59.820Z]   NEW: "Monstrous Travels as Wicked as Sin" by W. H. Lockwood — narrated by Harley Chase [US] 08 Dec 2026
+[2026-08-22T09:07:59.820Z]   NEW: "Sinful Crimes for the Artistically Inclined" by W. H. Lockwood — narrated by Harley Chase [US] 10 Nov 2026
+[2026-08-22T09:07:59.820Z]   NEW: "Speak Now" by RS McKenzie — narrated by Silas Hart, Harley Chase [US] 29 Sept 2026
+[2026-08-22T09:07:59.820Z]   NEW: "The Flame in the Frost" by Olivia Boothe — narrated by Sloane Mitchell, Harley Chase [US] 19 Aug 2026
+[2026-08-22T09:07:59.820Z]   NEW: "Impulsive Connections" by Marie Reynard — narrated by Zachary Zaba, Harley Chase [US] 18 Aug 2026
+[2026-08-22T09:07:59.821Z]   NEW: "With This Ring" by RS McKenzie — narrated by Silas Hart, Harley Chase [US] 18 Aug 2026
+[2026-08-22T09:07:59.821Z]   NEW: "Anything but Love" by Courtney W. Dixon — narrated by Harley Chase [US] 14 Aug 2026
+[2026-08-22T09:07:59.821Z]   NEW: "Ivory" by Nyla K — narrated by PG Hammock, Mac Rae, Michael Gallagher, Silas Hart, Melis Verte, Walker Williams, Harley Chase, Devon Ryder, Owen Corrigan, Emil Archer [US] 29 Jul 2026
+[2026-08-22T09:07:59.821Z]   NEW: "The Long Refrain" by Maya Jean — narrated by Harley Chase [US] 28 Jul 2026
+[2026-08-22T09:07:59.821Z]   NEW: "The Resilience Of Stars" by Xara Kenley — narrated by Harley Chase, Mac Rae [US] 22 Jul 2026
+[2026-08-22T09:07:59.821Z]   NEW: "The Remarkable Lover" by Maya Jean — narrated by Harley Chase, Jamal Roque [US] 30 Jun 2026
+[2026-08-22T09:07:59.821Z]   NEW: "Carry On" by A. Winchester — narrated by Harley Chase, Griffin Rivers [US] 29 Jun 2026
+[2026-08-22T09:07:59.821Z]   NEW: "The Comeback King" by Riley Hart — narrated by Harley Chase [US] 17 Jun 2026
+[2026-08-22T09:07:59.821Z]   NEW: "Spitting Off the Edge of the World" by Courtney W. Dixon — narrated by Harley Chase [US] 16 Jun 2026
+[2026-08-22T09:07:59.821Z]   NEW: "Accidental Bonds" by Marie Reynard — narrated by Zachary Zaba, Harley Chase [US] 22 May 2026
+[2026-08-22T09:07:59.822Z]   NEW: "House of Cards" by Courtney W. Dixon — narrated by Harley Chase [US] 13 Apr 2026
+[2026-08-22T09:07:59.822Z]   NEW: "Nothing to Fear" by Jenn Plummer — narrated by Harley Chase, Scott Rose [US] 23 Mar 2026
+[2026-08-22T09:07:59.822Z]   NEW: "Finance Bros" by August Jones — narrated by Brandon Francis, Harley Chase [US] 06 Mar 2026
+[2026-08-22T09:07:59.822Z]   NEW: "It's Only Love" by Courtney W. Dixon — narrated by Harley Chase [US] 06 Feb 2026
+[2026-08-22T09:07:59.822Z]   NEW: "A Little Bad" by Queenie Wise — narrated by Harley Chase [US] 27 Jan 2026
+[2026-08-22T09:07:59.822Z]   NEW: "Five Star Review" by Marie Reynard — narrated by Zachary Zaba, Harley Chase [US] 23 Jan 2026
+[2026-08-22T09:07:59.822Z]   NEW: "Midnight Macarons" by Fleur DeVillainy — narrated by Claire Marlowe, Harley Chase [US] 09 Jan 2026
+[2026-08-22T09:07:59.822Z]   NEW: "Big Bad" by Queenie Wise — narrated by Harley Chase [US] 23 Dec 2025
+[2026-08-22T09:07:59.822Z]   NEW: "Unwrap Him" by Nyla K — narrated by Christian Leatherman, Harley Chase [US] 10 Dec 2025
+[2026-08-22T09:07:59.822Z]   NEW: "Cueball & Double-Z" by Courtney W. Dixon — narrated by Harley Chase [US] 02 Dec 2025
+[2026-08-22T09:07:59.822Z]   NEW: "Hellish Night" by Jenna Wolfhart — narrated by Harley Chase, Keeley Darling [US] 18 Nov 2025
+[2026-08-22T09:07:59.822Z]   NEW: "MateHub: Legend" by Marie Reynard — narrated by Zachary Zaba, Harley Chase [US] 14 Nov 2025
+[2026-08-22T09:07:59.823Z]   NEW: "Darkest Fate" by Jenna Wolfhart — narrated by Harley Chase, Keeley Darling [US] 04 Nov 2025
+[2026-08-22T09:07:59.823Z]   NEW: "His Coveted Obsession" by Courtney W. Dixon — narrated by Harley Chase [US] 14 Oct 2025
+[2026-08-22T09:07:59.823Z]   NEW: "Little Red" by Queenie Wise — narrated by Harley Chase [US] 07 Oct 2025
+[2026-08-22T09:07:59.823Z]   NEW: "Kiss-Fist" by Cora Rose — narrated by Harley Chase [US] 12 Sept 2025
+[2026-08-22T09:07:59.823Z]   NEW: "Dirty Love" by Bethany Winters — narrated by Devon Ryder, Harley Chase [US] 19 Aug 2025
+[2026-08-22T09:07:59.823Z]   NEW: "His Reluctant Savior" by Courtney W. Dixon — narrated by Harley Chase [US] 11 Aug 2025
+[2026-08-22T09:07:59.823Z]   NEW: "Sinful Touch" by Jenna Wolfhart — narrated by Harley Chase, Keeley Darling [US] 29 Jul 2025
+[2026-08-22T09:07:59.823Z]   NEW: "Spellbound Scones" by Fleur DeVillainy — narrated by Claire Marlowe, Harley Chase [US] 22 Jul 2025
+[2026-08-22T09:07:59.823Z]   NEW: "His Bane" by Courtney W. Dixon — narrated by Harley Chase [US] 18 Jul 2025
+[2026-08-22T09:07:59.823Z]   NEW: "Villain" by Chani Lynn Feener — narrated by Harley Chase, Freddie Wills, J. Tipstone, TJ Clark [US] 15 Jul 2025
+[2026-08-22T09:07:59.823Z]   NEW: "Alpha & Omega" by Courtney W. Dixon — narrated by Harley Chase [US] 26 Jun 2025
+[2026-08-22T09:07:59.823Z]   NEW: "The Former Fake Boyfriend" by Maya Jean — narrated by Harley Chase [US] 24 Jun 2025
+[2026-08-22T09:07:59.823Z]   NEW: "The Husband Experience" by Maya Jean — narrated by Harley Chase [US] 27 May 2025
+[2026-08-22T09:07:59.823Z]   NEW: "Don't Take the Girl" by L.A. Ferro — narrated by Samantha Cook, Devon Ryder [US] 29 Sept 2026
+[2026-08-22T09:07:59.823Z]   NEW: "Never Lasting" by Angela Bourassa — narrated by Chloe Ryan, Devon Ryder [US] 22 Sept 2026
+[2026-08-22T09:07:59.823Z]   NEW: "Graduation No Face" by Crea Reitan — narrated by Devon Ryder, Zachary Zaba [US] 15 Sept 2026
+[2026-08-22T09:07:59.824Z]   NEW: "Heat for the Holidays" by Holly Monroe — narrated by Marie Hawkins, Diontae Black, Devon Ryder [US] 08 Sept 2026
+[2026-08-22T09:07:59.824Z]   NEW: "The Holiday Play" by Katy Archer — narrated by Sarah McEwan, Devon Ryder, Winston James, Anna Lynn Wright [US] 08 Sept 2026
+[2026-08-22T09:07:59.824Z]   NEW: "Christmas Nanny" by Cassie Cole — narrated by Chloe Ryan, Devon Ryder [US] 01 Sept 2026
+[2026-08-22T09:07:59.824Z]   NEW: "Almost Ravaged" by Abby Millsaps — narrated by Amy Hall, Lee Samuels, Devon Ryder [US] 18 Aug 2026
+[2026-08-22T09:07:59.824Z]   NEW: "Call to the Devil" by B. Ripley — narrated by Devon Ryder, Darcy Stark [US] 18 Aug 2026
+[2026-08-22T09:07:59.824Z]   NEW: "The A-Listers" by Berlin Wick — narrated by Shane East, Devon Ryder, James Cassidy, Emery Erickson [US] 13 Aug 2026
+[2026-08-22T09:07:59.824Z]   NEW: "Check & Chase" by Clara St. James — narrated by Samantha Cook, Devon Ryder [US] 11 Aug 2026
+[2026-08-22T09:07:59.824Z]   NEW: "Finally Yours" by Layney Jones — narrated by Devon Ryder, Allie Shae [US] 04 Aug 2026
+[2026-08-22T09:07:59.824Z]   NEW: "Midnight Chase" by Harleigh Beck — narrated by Shiloh James, Devon Ryder [US] 21 Jul 2026
+[2026-08-22T09:07:59.824Z]   NEW: "Stay Here" by Anna Savas — narrated by Vanessa Moyen, Devon Ryder [US] 07 Jul 2026
+[2026-08-22T09:07:59.824Z]   NEW: "Loud Hot Roomie" by K Webster — narrated by Jarman Day, Devon Ryder [US] 30 Jun 2026
+[2026-08-22T09:07:59.824Z]   NEW: "Exitus" by Frankie James — narrated by Stella Rose, Devon Ryder [US] 30 Jun 2026
+[2026-08-22T09:07:59.824Z]   NEW: "Locked In: Season One" by Katelyn Taylor — narrated by Amy Hall, Chloe Ryan, Edward Black, Sean Masters, Devon Ryder, Eric Nolan [US] 15 Jun 2026
+[2026-08-22T09:07:59.824Z]   NEW: "Bruised" by Ally Avery — narrated by Devon Ryder, Silas Hart [US] 09 Jun 2026
+[2026-08-22T09:07:59.824Z]   NEW: "My Defiant Mate" by Lexie Slater — narrated by Devon Ryder, Heathcliff Lee [US] 09 Jun 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Fatal Collision" by Harleigh Beck — narrated by Shiloh James, Devon Ryder [US] 26 May 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Riding Pine" by R.M. Neill — narrated by Devon Ryder, Zachary Zaba [US] 19 May 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Wilder's Promise" by Zoey Rose — narrated by Marie Hawkins, Devon Ryder [US] 12 May 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Primitus" by Frankie James — narrated by Stella Rose, Devon Ryder [US] 05 May 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Begrudgingly Yours" by Layney Jones — narrated by Devon Ryder, Allie Shae [US] 05 May 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Quarterback's Nanny" by Cassie Cole — narrated by Chloe Ryan, Devon Ryder [US] 28 Apr 2026
+[2026-08-22T09:07:59.825Z]   NEW: "King of Pain" by JP Joseph — narrated by Lance Greenfield, Devon Ryder [US] 14 Apr 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Just for Christmas" by Crea Reitan — narrated by Devon Ryder, Zachary Zaba [US] 14 Apr 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Flowers in Your Hair" by Alice Daniels — narrated by June Bronson, Devon Ryder [US] 07 Apr 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Tinsel & Tools" by Kimberly Knight — narrated by Devon Ryder, Griffin Rivers [US] 07 Apr 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Somebunny Hunts You" by Samantha Barrett — narrated by Blair Thatcher, Joe Arden, Devon Ryder, Ryan Hudson [US] 03 Apr 2026
+[2026-08-22T09:07:59.825Z]   NEW: "The Surprise Play" by Katy Archer — narrated by Sarah McEwan, Devon Ryder, Winston James [US] 17 Mar 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Inter" by Frankie James — narrated by Stella Rose, Devon Ryder [US] 03 Mar 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Savage Sacrifice" by KC Kean — narrated by Savannah Thomas, Devon Ryder [US] 24 Feb 2026
+[2026-08-22T09:07:59.825Z]   NEW: "Beautifully Shattered" by J.A. Owenby — narrated by Laurie West, Devon Ryder [US] 17 Feb 2026
+[2026-08-22T09:07:59.826Z]   NEW: "Bitter When He Begs" by Avery Collins — narrated by Gregory Salinas, Devon Ryder [US] 10 Feb 2026
+[2026-08-22T09:07:59.826Z]   NEW: "Cloudy with a Chance of Bad Decisions" by Fae Quin — narrated by Devon Ryder, Greg Boudreaux [US] 10 Feb 2026
+[2026-08-22T09:07:59.826Z]   NEW: "The Comeback Road" by Kris M Davey — narrated by Devon Ryder, Jessie Elwyn [US] 10 Feb 2026
+[2026-08-22T09:07:59.826Z]   NEW: "Savage Little Queen" by K.G. Reuss — narrated by Blair Thatcher, Joe Arden, Jameson Adams, Liam Dicosimo, Devon Ryder, Anthony Palmini [US] 28 Jan 2026
+[2026-08-22T09:07:59.826Z]   NEW: "Darlin'" by E.L. Lewis — narrated by Allie Piper, Devon Ryder [US] 27 Jan 2026
+[2026-08-22T09:07:59.826Z]   NEW: "Exordium" by Frankie James — narrated by Stella Rose, Devon Ryder [US] 27 Jan 2026
+[2026-08-22T09:07:59.826Z]   NEW: "Pragma" by Paulina Ian-Kane — narrated by J. Tipstone, Mac Rae [US] 29 Sept 2026
+[2026-08-22T09:07:59.826Z]   NEW: "Neurovance" by Alexandra St Pierre — narrated by Ellis Evans, Mac Rae [US] 25 Aug 2026
+[2026-08-22T09:07:59.826Z]   NEW: "Be My Monster" by Davidson King — narrated by Mac Rae, Michael Dean [US] 25 Aug 2026
+[2026-08-22T09:07:59.826Z]   NEW: "Hooked on Him" by Alisha Williams — narrated by Mac Rae, Alexander Cendese [US] 25 Aug 2026
+[2026-08-22T09:07:59.826Z]   NEW: "Accidentally Living with the Captain" by Lexi Amber — narrated by Alexander Cendese, Mac Rae [US] 21 Jul 2026
+[2026-08-22T09:07:59.826Z]   NEW: "The Reality of Ever After" by Lexi Amber — narrated by Mac Rae, Alexander Cendese [US] 23 Jun 2026
+[2026-08-22T09:07:59.826Z]   NEW: "Double Hit" by Katie Steele — narrated by Mac Rae, Darcy Stark [US] 19 May 2026
+[2026-08-22T09:07:59.826Z]   NEW: "Rotten" by Bree Wiley — narrated by Mac Rae, Michael Dean [US] 21 Apr 2026
+[2026-08-22T09:07:59.826Z]   NEW: "The Reality of Wanting My Bully" by Lexi Amber — narrated by Mac Rae, Alexander Cendese [US] 24 Mar 2026
+[2026-08-22T09:07:59.826Z]   NEW: "The Reality of Wanting Him" by Lexi Amber — narrated by Mac Rae, Alexander Cendese [US] 24 Feb 2026
+[2026-08-22T09:07:59.827Z]   NEW: "Accidentally Falling for My Best Friend" by Lexi Amber — narrated by Alexander Cendese, Mac Rae [US] 13 Jan 2026
+[2026-08-22T09:07:59.827Z]   NEW: "Sunshine and the Vamp" by Bailey Grayson — narrated by Mac Rae, John Hartley [US] 09 Dec 2025
+[2026-08-22T09:07:59.827Z]   NEW: "Bite Me" by Roe Horvat — narrated by Mac Rae, John Solo [US] 02 Dec 2025
+[2026-08-22T09:07:59.827Z]   NEW: "Petrichor" by Paulina Ian-Kane — narrated by J. Tipstone, Mac Rae [US] 11 Nov 2025
+[2026-08-22T09:07:59.827Z]   NEW: "Accidentally Joining His Cult" by Lexi Amber — narrated by Alexander Cendese, Mac Rae [US] 16 Sept 2025
+[2026-08-22T09:07:59.827Z]   NEW: "Make Me" by Alina May — narrated by Liam DiCosimo, Mac Rae [US] 26 Aug 2025
+[2026-08-22T09:07:59.827Z]   NEW: "Play Maker" by Ava Olsen — narrated by Mac Rae, Nathaniel Ames [US] 12 Aug 2025
+[2026-08-22T09:07:59.827Z]   NEW: "Armor of Dusk" by Jess Galaxie — narrated by Mac Rae [US] 20 May 2025
+[2026-08-22T09:07:59.827Z]   NEW: "Dysfunctional" by Isabel Lucero — narrated by J. Tipstone, Mac Rae [US] 29 Apr 2025
+[2026-08-22T09:07:59.827Z]   NEW: "Feathers of Dawn" by Jess Galaxie — narrated by Mac Rae [US] 22 Apr 2025
+[2026-08-22T09:07:59.827Z]   NEW: "Match Me Up" by Weston Parker — narrated by Mac Rae [US] 15 Jun 2022
+[2026-08-22T09:07:59.827Z]   NEW: "How Do You Survive with Us?" by Ki Brightly — narrated by Mac Rae [US] 14 Mar 2022
+[2026-08-22T09:07:59.827Z]   NEW: "How Did You Survive Without Us?" by Ki Brightly — narrated by Mac Rae [US] 14 Mar 2022
+[2026-08-22T09:07:59.827Z]   NEW: "Stolen Romance" by A. B. Jackson — narrated by Kieran Regan, Benjamin Crow [US] 19 Jan 2027
+[2026-08-22T09:07:59.827Z]   NEW: "A Touch of Magic" by Nessa Alviera — narrated by Arya Jacobs, Kieran Regan [US] 24 Nov 2026
+[2026-08-22T09:07:59.827Z]   NEW: "The Education of Imryn Dyre, Wizard's Apprentice" by Artemis Whelan — narrated by Kieran Regan [US] 24 Nov 2026
+[2026-08-22T09:07:59.828Z]   NEW: "War of Her Throne" by Lexi Hodges — narrated by Caitlin Kelly, Kieran Regan [US] 03 Nov 2026
+[2026-08-22T09:07:59.828Z]   NEW: "Burn of the Everflame" by Penn Cole — narrated by Amanda Dolan, Will M. Watt, Bahni Turpin, Tim Campbell, Katherine Littrell, Kieran Regan, Keval Shah [US] 08 Sept 2026
+[2026-08-22T09:07:59.828Z]   NEW: "Cursed Evermore" by Khardine Gray — narrated by Kieran Regan, Michelle Sparks [US] 25 Aug 2026
+[2026-08-22T09:07:59.828Z]   NEW: "First Love Blues" by Bella Young — narrated by Taylor Harvey, Kieran Regan [US] 04 Aug 2026
+[2026-08-22T09:07:59.828Z]   NEW: "REM - Sleep. Dream. Die." by Sebastian Fitzek — narrated by Katie Stevens, January LaVoy, Ray Porter, Rob Estes, Max Donovan, Hudson Brooks, Kieran Regan, Meg Millidge, Bruce Barker, David Andrew Calvillo, Denisse Ojeda, Andrew Kishino, Mariah Tzoumbas, Nicole Vigils, Christopher Swindle [US] 23 Jul 2026
+[2026-08-22T09:07:59.828Z]   NEW: "The Ruby Magician 2: A Tower-Climbing LitRPG Adventure" by D. R. Hudgins — narrated by Kieran Regan [US] 21 Jul 2026
+[2026-08-22T09:07:59.828Z]   NEW: "The Pop Star Next Door" by Bella Young — narrated by Taylor Harvey, Kieran Regan [US] 07 Jul 2026
+[2026-08-22T09:07:59.828Z]   NEW: "The Price of Mercy" by Misti Wilds — narrated by Kieran Regan, Madison Mitts [US] 23 Jun 2026
+[2026-08-22T09:07:59.828Z]   NEW: "Tribute to the Warlord" by Atlas Jones — narrated by Kieran Regan [US] 09 Jun 2026
+[2026-08-22T09:07:59.828Z]   NEW: "Stolen Hearts" by A. B. Jackson — narrated by Kieran Regan, Benjamin Crow [US] 02 Jun 2026
+[2026-08-22T09:07:59.828Z]   NEW: "Royal Captive" by Raven Storm — narrated by Ada Sinclair, Kieran Regan [US] 26 May 2026
+[2026-08-22T09:07:59.828Z]   NEW: "The Unlikely Housemate" by Bella Young — narrated by Taylor Harvey, Kieran Regan [US] 26 May 2026
+[2026-08-22T09:07:59.828Z]   NEW: "Caged by Fallen Crows: Part 1" by Ava Larksen — narrated by Shiloh James, Kieran Regan [US] 12 May 2026
+[2026-08-22T09:07:59.828Z]   NEW: "Begging for Mercy" by Misti Wilds — narrated by Kieran Regan, Madison Mitts [US] 12 May 2026
+[2026-08-22T09:07:59.828Z]   NEW: "My Freshman Mate" by Lexie Slater — narrated by Kieran Regan, Nick J. Russo [US] 12 May 2026
+[2026-08-22T09:07:59.828Z]   NEW: "The Sins of Silas" by Kylie Snow — narrated by Natalie Van Sistine, Kieran Regan [US] 05 May 2026
+[2026-08-22T09:07:59.829Z]   NEW: "Break Her Heart" by Lexi Hodges — narrated by Caitlin Kelly, Kieran Regan [US] 05 May 2026
+[2026-08-22T09:07:59.829Z]   NEW: "Sunrises and New Beginnings" by M.J. Sivilo — narrated by Nathan Wolfe & Kieran Regan [US] 01 May 2026
+[2026-08-22T09:07:59.829Z]   NEW: "The Neighbor's Son" by K Webster — narrated by Kristin Condon, Kieran Regan [US] 21 Apr 2026
+[2026-08-22T09:07:59.829Z]   NEW: "The Ruby Magician: A Tower-Climbing LitRPG Adventure" by D. R. Hudgins — narrated by Kieran Regan [US] 17 Mar 2026
+[2026-08-22T09:07:59.829Z]   NEW: "Apocalypse Reaver 3: A Dark Fantasy LitRPG Adventure" by TobascoAsako — narrated by Kieran Regan, Kristin James [US] 03 Mar 2026
+[2026-08-22T09:07:59.829Z]   NEW: "Myths and Manuscripts" by Pandora Pierce — narrated by Jess Moran, Kieran Regan [US] 17 Feb 2026
+[2026-08-22T09:07:59.829Z]   NEW: "Bound in Inked Flame" by Ava Larksen — narrated by Shiloh James, Kieran Regan [US] 27 Jan 2026
+[2026-08-22T09:07:59.829Z]   NEW: "Stolen Moments" by A. B. Jackson — narrated by Kieran Regan, Benjamin Crow [US] 20 Jan 2026
+[2026-08-22T09:07:59.829Z]   NEW: "The Lies of Lena" by Kylie Snow — narrated by Natalie Van Sistine, Kieran Regan [US] 06 Jan 2026
+[2026-08-22T09:07:59.829Z]   NEW: "Piece by Piece" by Jarah Aurel — narrated by Caitlin Elizabeth, Kieran Regan [US] 16 Dec 2025
+[2026-08-22T09:07:59.829Z]   NEW: "Apocalypse Reaver 2: A Dark Fantasy LitRPG Adventure" by TobascoAsako — narrated by Kieran Regan, Kristin James [US] 16 Dec 2025
+[2026-08-22T09:07:59.829Z]   NEW: "Cross Her Heart" by Lexi Hodges — narrated by Caitlin Kelly, Kieran Regan [US] 30 Sept 2025
+[2026-08-22T09:07:59.829Z]   NEW: "Apocalypse Reaver 1: A Dark Fantasy LitRPG Adventure" by TobascoAsako — narrated by Kieran Regan, Kristin James [US] 26 Aug 2025
+[2026-08-22T09:07:59.829Z]   NEW: "Legends and Librarians" by Pandora Pierce — narrated by Jess Moran, Kieran Regan [US] 10 Jun 2025
+[2026-08-22T09:07:59.829Z]   NEW: "The Court of Truth" by KC Kean — narrated by Willa Jaymes, Kieran Regan [US] 20 May 2025
+[2026-08-22T09:07:59.829Z]   NEW: "War of Her Heart" by Lexi Hodges — narrated by Caitlin Kelly, Kieran Regan [US] 06 May 2025
+[2026-08-22T09:07:59.829Z]   NEW: "The Fate of Eternity" by KC Kean — narrated by Willa Jaymes, Kieran Regan [US] 25 Mar 2025
+[2026-08-22T09:07:59.830Z]   NEW: "The Hunt of Night" by KC Kean — narrated by Willa Jaymes, Kieran Regan [US] 28 Jan 2025
+[2026-08-22T09:07:59.830Z]   NEW: "The Reign of Blood" by KC Kean — narrated by Willa Jaymes, Kieran Regan [US] 26 Nov 2024
+[2026-08-22T09:07:59.830Z]   NEW: "The Kingdom of Ruin" by KC Kean — narrated by Willa Jaymes, Kieran Regan [US] 10 Sept 2024
+[2026-08-22T09:07:59.830Z]   NEW: "TCI : Absolution" by Kretzge — narrated by Kieran Regan [US] 29 Jun 2022
+[2026-08-22T09:07:59.830Z]   NEW: "A Composition of Scars" by Hazel S. Wilkes — narrated by Brandon Francis [US] 03 Nov 2026
+[2026-08-22T09:07:59.830Z]   NEW: "A Knight Before Christmas" by Cara Stout — narrated by Bailey Carr, Brandon Francis [US] 20 Oct 2026
+[2026-08-22T09:07:59.830Z]   NEW: "Devoured" by Jordan Stephanie Gray — narrated by Avery Caris, Katharine Chin, Chase Brown, Marni Penning, Brandon Francis [US] 06 Oct 2026
+[2026-08-22T09:07:59.830Z]   NEW: "A Ballad for the Broken" by Hazel S. Wilkes — narrated by Ellen Quay, Brandon Francis [US] 29 Sept 2026
+[2026-08-22T09:07:59.830Z]   NEW: "Fractured Fate" by Stephanie Denne — narrated by Jacci Prior, Brandon Francis [US] 08 Sept 2026
+[2026-08-22T09:07:59.830Z]   NEW: "Sugar & Shadows" by Daphne Elliot — narrated by Stella Hunter, Brandon Francis [US] 04 Sept 2026
+[2026-08-22T09:07:59.830Z]   NEW: "Way Off Base" by Stephanie Giese — narrated by Andi Eloise, Brandon Francis [US] 18 Aug 2026
+[2026-08-22T09:07:59.830Z]   NEW: "Bake It 'Til You Make It" by Kassie Jones — narrated by Autumn Mercer, Brandon Francis [US] 05 Aug 2026
+[2026-08-22T09:07:59.830Z]   NEW: "The Lunatics" by Navessa Allen — narrated by Andi Eloise, Brandon Francis [US] 04 Aug 2026
+[2026-08-22T09:07:59.830Z]   NEW: "Right as Rain" by Stephanie Giese — narrated by Andi Eloise, Brandon Francis [US] 30 Jul 2026
+[2026-08-22T09:07:59.830Z]   NEW: "Lucid: The First Step" by Steven Venet — narrated by Brandon Francis, Andi Eloise [US] 30 Jul 2026
+[2026-08-22T09:07:59.830Z]   NEW: "Gym Bros" by August Jones — narrated by Ellis Evans, Brandon Francis [US] 24 Jul 2026
+[2026-08-22T09:07:59.830Z]   NEW: "Double Interference" by Madi Danielle — narrated by Autumn Mercer, Brandon Francis, Ryan Lee Dunlap, Avery Caris, Patrick Zeller [US] 24 Jul 2026
+[2026-08-22T09:07:59.831Z]   NEW: "The Moore Men" by Ashley James — narrated by Robert Hatchet, Gregory Salinas, Alex Kydd, Alexander Cendese, Brandon Francis, Stephen Borne, Teddy Hamilton [US] 22 Jul 2026
+[2026-08-22T09:07:59.831Z]   NEW: "Sin City Dark" by Leigh Iversen — narrated by James Cassidy, Savannah Thomas, Brandon Francis [US] 17 Jul 2026
+[2026-08-22T09:07:59.831Z]   NEW: "Through the Ashes" by Emmie Elms — narrated by Heather Costa, Jeffrey Kafer, Andi Eloise, Allie Martina, Gideon Frost, Brandon Francis, CJ Bloom [US] 15 Jul 2026
+[2026-08-22T09:07:59.831Z]   NEW: "Ruinous Secrets" by Stephanie Denne — narrated by Jacci Prior, Brandon Francis [US] 14 Jul 2026
+[2026-08-22T09:07:59.831Z]   NEW: "Home Ice" by Saxon James — narrated by Brandon Francis [US] 08 Jul 2026
+[2026-08-22T09:07:59.831Z]   NEW: "The Edge Of Revenge" by A.N. Davis — narrated by Andi Eloise, Brandon Francis [US] 07 Jul 2026
+[2026-08-22T09:07:59.831Z]   NEW: "Vows of Vengeance" by Alana Dail — narrated by Autumn Mercer, Brandon Francis [US] 06 Jul 2026
+[2026-08-22T09:07:59.831Z]   NEW: "Fall to Me" by Elysia Wages — narrated by Teddy Hamilton, Andi Eloise, Corvin King, Stella Hunter, Aaron Shedlock, Lauren Beck, Brandon Francis, Leanne Blade, Audrey Obeyn [US] 29 Jun 2026
+[2026-08-22T09:07:59.831Z]   NEW: "Tides of the Heart" by Margot Keene — narrated by Angelina Rocca, Tim Paige, Andi Arndt, Brandon Francis, Gregory Salinas, Greg Tremblay, Robert Fass, Victoria Connolly, Christopher Tester [US] 16 Jun 2026
+[2026-08-22T09:07:59.831Z]   NEW: "Silent Count" by Ava Sutton — narrated by Andi Eloise, Brandon Francis [US] 09 Jun 2026
+[2026-08-22T09:07:59.831Z]   NEW: "The Russian Monarch" by Stephanie Amaral — narrated by Savannah Thomas, Brandon Francis [US] 26 May 2026
+[2026-08-22T09:07:59.831Z]   NEW: "Fortune" by Kristin Cast — narrated by Andi Eloise, Brandon Francis [US] 26 May 2026
+[2026-08-22T09:07:59.831Z]   NEW: "Sanguine Prophecy" by Stephanie Denne — narrated by Jacci Prior, Brandon Francis [US] 26 May 2026
+[2026-08-22T09:07:59.831Z]   NEW: "Accidentally Fudging the Beast" by Nichole Rose — narrated by Alexa Elmy, Brandon Francis [US] 19 May 2026
+[2026-08-22T09:07:59.832Z]   NEW: "The Curveball" by Julia Jarrett — narrated by Andi Eloise, Brandon Francis [US] 19 May 2026
+[2026-08-22T09:07:59.832Z]   NEW: "The Hookup Situation" by Lyra Parish — narrated by Meg Price, Brandon Francis [US] 15 May 2026
+[2026-08-22T09:07:59.832Z]   NEW: "Edge of Sin" by Lauren Biel — narrated by Dani Staro, Brandon Francis [US] 14 May 2026
+[2026-08-22T09:07:59.832Z]   NEW: "Nabbed by the Bratva" by Evie Rose — narrated by Brandon Francis, Lucy Rivers [US] 12 May 2026
+[2026-08-22T09:07:59.832Z]   NEW: "The Rule of Three" by Sara Cate — narrated by Brandon Francis, Teddy Hamilton, Simone Lewis, Desiree Ketchum, Jason Clarke [US] 05 May 2026
+[2026-08-22T09:07:59.832Z]   NEW: "Memories of You" by Madi Danielle — narrated by Brandon Francis, Savannah Thomas [US] 28 Apr 2026
+[2026-08-22T09:07:59.832Z]   NEW: "Hunted by the Demon's Vow" by A. N. Caudle — narrated by Laura Horowitz, Brandon Francis [US] 27 Apr 2026
+[2026-08-22T09:07:59.832Z]   NEW: "Feeling Frisky" by Kate Minty — narrated by Andi Eloise, Brandon Francis [US] 27 Apr 2026
+[2026-08-22T09:07:59.832Z]   NEW: "Triple Protection" by Christina Sterling — narrated by Andi Eloise, Brandon Francis [US] 24 Apr 2026
+[2026-08-22T09:07:59.833Z]   NEW: "Brat Baby" by Harley Madison — narrated by Vanessa Moyen, Gregory Salinas, Brandon Francis [US] 14 Apr 2026
+[2026-08-22T09:07:59.833Z]   NEW: "Playing Dirty" by CE Ricci — narrated by Brandon Francis, Christian Fox [US] 07 Apr 2026
+[2026-08-22T09:07:59.833Z]   NEW: "Touch of Oblivion" by R.L. Caulder — narrated by Brandon Francis, M.K. Blackwood [US] 07 Apr 2026
+[2026-08-22T09:07:59.833Z]   NEW: "Joyfully Ever After" by Sara Raasch — narrated by Dylan Reilly Fitzpatrick, Ellis Evans, Lee Osorio, Tyla Collier [US] 02 Mar 2027
+[2026-08-22T09:07:59.833Z]   NEW: "When We Ignite" by Alex Cross — narrated by Jonathan Lake, Ellis Evans [US] 09 Feb 2027
+[2026-08-22T09:07:59.833Z]   NEW: "Space for Growth" by Emily Antoinette — narrated by Ellis Evans, Michael Casale [US] 08 Dec 2026
+[2026-08-22T09:07:59.833Z]   NEW: "The Risk Taker" by Stephanie Alves — narrated by Ellis Evans [US] 24 Nov 2026
+[2026-08-22T09:07:59.833Z]   NEW: "My Captain" by Sage Riven — narrated by Ellis Evans, Kayden Lukakis [US] 17 Nov 2026
+[2026-08-22T09:07:59.833Z]   NEW: "The Liar's Reckoning" by August Jones — narrated by Jonathan Lake, Ellis Evans [US] 10 Nov 2026
+[2026-08-22T09:07:59.833Z]   NEW: "Wedding Manner" by C.G. Macington — narrated by Ellis Evans, Eddie Herrera [US] 03 Nov 2026
+[2026-08-22T09:07:59.834Z]   NEW: "Conflict of Interest" by C.G. Macington — narrated by Ellis Evans, Eddie Herrera [US] 29 Sept 2026
+[2026-08-22T09:07:59.834Z]   NEW: "Say It Isn't So" by Dani Ryan — narrated by Ellis Evans, Cece Diaz [US] 22 Sept 2026
+[2026-08-22T09:07:59.834Z]   NEW: "The Sinner's Sanctuary" by August Jones — narrated by Ellis Evans, Jonathan Lake [US] 25 Aug 2026
+[2026-08-22T09:07:59.834Z]   NEW: "Bedside Manner" by C.G. Macington — narrated by Ellis Evans, Eddie Herrera [US] 11 Aug 2026
+[2026-08-22T09:07:59.834Z]   NEW: "Hands Like Ours" by River Hale — narrated by Ellis Evans, Jonathan Lake [US] 30 Jun 2026
+[2026-08-22T09:07:59.834Z]   NEW: "Structure of Love" by AJ Sherwood — narrated by Jamal Roque, Ellis Evans [US] 14 Apr 2026
+[2026-08-22T09:07:59.834Z]   NEW: "Win You Over" by C.S. Autumn — narrated by Ellis Evans, Nathan Kelly [US] 24 Mar 2026
+[2026-08-22T09:07:59.834Z]   NEW: "Don't Look Down" by Jessica Ann — narrated by Ellis Evans, Eric Michael Summerer, Hugo Vorelli [US] 20 Jan 2026
+[2026-08-22T09:07:59.834Z]   NEW: "The Sunbound Princess" by Amy Pennza — narrated by Mollie Stark, Benjamin Walker, Ellis Evans [US] 13 Aug 2025
+[2026-08-22T09:07:59.834Z]   NEW: "The Stormbound Knight" by Amy Pennza — narrated by Ellis Evans, Benjamin Walker, Mollie Stark [US] 08 Jul 2025
+[2026-08-22T09:07:59.835Z]   NEW: "The Muse's Undoing" by August Jones — narrated by Zachary Johnson, Ellis Evans [US] 29 Apr 2025
+[2026-08-22T09:07:59.835Z]   NEW: "The Heir's Disgrace" by August Jones — narrated by Zachary Johnson, Ellis Evans [US] 18 Mar 2025
+[2026-08-22T09:07:59.835Z]   NEW: "The Shadowbound King" by Amy Pennza — narrated by Benjamin D. Walker, Ellis Evans, Mollie Stark [US] 04 Mar 2025
+[2026-08-22T09:07:59.835Z]   NEW: "Free Fall" by Kathryn Nolan — narrated by Ellis Evans, Drew Adams [US] 22 Oct 2024
+[2026-08-22T09:07:59.835Z]   NEW: "The Nightmare Before Kissmas" by Sara Raasch — narrated by Ellis Evans [US] 08 Oct 2024
+[2026-08-22T09:07:59.835Z]   NEW: "The Frostbound Queen" by Amy Pennza — narrated by Benjamin D. Walker, Ellis Evans, Mollie Stark [US] 13 Aug 2024
+[2026-08-22T09:07:59.835Z]   NEW: "The Boyfriend Subscription" by Steven Salvatore — narrated by Kirt Graves, Ellis Evans [US] 26 Mar 2024
+[2026-08-22T09:07:59.835Z]   NEW: "The Lion and Mouse, Books 1-3" by Kenya Wright — narrated by Ellis Evans, Shari Peele [US] 06 Mar 2024
+[2026-08-22T09:07:59.835Z]   NEW: "Triple Trouble" by Jesse H Reign — narrated by Ellis Evans, Liam DiCosimo, Michael Ferraiuolo [US] 13 Feb 2024
+[2026-08-22T09:07:59.835Z]   NEW: "The Cursed" by Harper L. Woods — narrated by Ellis Evans, Emilia Bauer [US] 12 Dec 2023
+[2026-08-22T09:07:59.836Z]   NEW: "The Step Bro Situation" by Jesse H Reign — narrated by Ellis Evans, Liam DiCosimo [US] 17 Oct 2023
+[2026-08-22T09:07:59.836Z]   NEW: "The Coven" by Harper L. Woods — narrated by Ellis Evans, Emilia Bauer [US] 18 Apr 2023
+[2026-08-22T09:07:59.836Z]   NEW: "Style of Love" by AJ Sherwood — narrated by Jamal Roque, Ellis Evans [US] 26 Jul 2022
+[2026-08-22T09:07:59.836Z]   NEW: "Between Bloode and Wolf" by Marie Harte — narrated by Ellis Evans [US] 17 May 2022
+[2026-08-22T09:07:59.836Z]   NEW: "Until Nico" by Aurora Rose Reynolds — narrated by Reagan West, Ellis Evans [US] 10 May 2022
+[2026-08-22T09:07:59.836Z]   NEW: "Wrath" by Coralee June — narrated by Benjamin D. Walker, Ellis Evans, Wayne Mitchell, Natalie Eaton [US] 08 Mar 2022
+[2026-08-22T09:07:59.836Z]   NEW: "Between Bloode and Water" by Marie Harte — narrated by Ellis Evans [US] 01 Mar 2022
+[2026-08-22T09:07:59.836Z]   NEW: "Between Bloode and Craft" by Marie Harte — narrated by Ellis Evans [US] 14 Dec 2021
+[2026-08-22T09:07:59.836Z]   NEW: "Between Bloode and Stone" by Marie Harte — narrated by Ellis Evans [US] 19 Oct 2021
+[2026-08-22T09:07:59.836Z]   NEW: "Bodywork" by Marie Harte — narrated by Ellis Evans, Fiona Aarington [US] 15 Mar 2021
+[2026-08-22T09:07:59.837Z]   NEW: "Working Out" by Marie Harte — narrated by Ellis Evans, Fiona Aarington [US] 15 Mar 2021
+[2026-08-22T09:07:59.837Z]   NEW: "Tell Me Something Real" by Rachae Stevens — narrated by Savannah Thomas, Theo Sinclair [US] 17 Nov 2026
+[2026-08-22T09:07:59.837Z]   NEW: "Dance of Defiance" by Jagger Cole — narrated by Dane Anderson, Theo Sinclair [US] 22 Sept 2026
+[2026-08-22T09:07:59.837Z]   NEW: "The Rule Breaker" by Stephanie Alves — narrated by Theo Sinclair, Andi Eloise [US] 08 Sept 2026
+[2026-08-22T09:07:59.837Z]   NEW: "Desired by the Beast" by Evangeline Anderson — narrated by Theo Sinclair, Aela Aryon [US] 01 Sept 2026
+[2026-08-22T09:07:59.837Z]   NEW: "Stolen Innocence" by K.T. Maddan — narrated by Theo Sinclair, Amy Hall [US] 11 Aug 2026
+[2026-08-22T09:07:59.837Z]   NEW: "Secret Seduction" by Nikki Ash — narrated by Leanne Woodward, Theo Sinclair [US] 06 Aug 2026
+[2026-08-22T09:07:59.837Z]   NEW: "The Diamond's Consort" by Elle Parker — narrated by Alexis Paige, J.F. Harding, Theo Sinclair, Grayson Owens [US] 05 Aug 2026
+[2026-08-22T09:07:59.837Z]   NEW: "Double Standard" by Mallory Thomas — narrated by Ivy Brooks, Theo Sinclair [US] 28 Jul 2026
+[2026-08-22T09:07:59.837Z]   NEW: "Sun Up to Sun Down" by Janine Infante Bosco — narrated by Harlow Wilde, Theo Sinclair [US] 17 Jul 2026
+[2026-08-22T09:07:59.837Z]   NEW: "Wrapped in Their Arms" by Evangeline Anderson — narrated by Marcella Black, Theo Sinclair, Connor Brown [US] 15 Jul 2026
+[2026-08-22T09:07:59.838Z]   NEW: "Fighting Series: The Complete Collection (Books 1-4)" by Nikki Ash — narrated by Lexi Evans, Tim Paige, Auri Alden, Theo Sinclair, Vincent Skye, Christian Leatherman, Heather Costa [US] 15 Jun 2026
+[2026-08-22T09:07:59.838Z]   NEW: "After Everything" by Grace Mitchell — narrated by Eleanor Caudill, Theo Sinclair [US] 09 Jun 2026
+[2026-08-22T09:07:59.838Z]   NEW: "The Infiniteness of Yesterday" by Micalea Smeltzer — narrated by Kristin Condon, Theo Sinclair [US] 02 Jun 2026
+[2026-08-22T09:07:59.838Z]   NEW: "Beachfront Billionaire" by Olivia T. Turner — narrated by Keeley Darling, Theo Sinclair [US] 02 Jun 2026
+[2026-08-22T09:07:59.838Z]   NEW: "Kidnapped by the Beast" by Evangeline Anderson — narrated by Theo Sinclair, Aela Aryon [US] 01 Jun 2026
+[2026-08-22T09:07:59.838Z]   NEW: "Wilder" by Marina Pirlimpou — narrated by Theo Sinclair, Michael Ferraiuolo [US] 05 May 2026
+[2026-08-22T09:07:59.838Z]   NEW: ""The Dasher" (Cindy's Version)" by Cindy Kehagiaras — narrated by Kristin James, Theo Sinclair, Heather Costa, Jeffrey Kafer [US] 02 Apr 2026
+[2026-08-22T09:07:59.838Z]   NEW: "Cross the Line" by S. Massery — narrated by Alexis Paige, Theo Sinclair [US] 31 Mar 2026
+[2026-08-22T09:07:59.838Z]   NEW: "Of Fates & Ruin" by Alaya Wells — narrated by Piper Goodeve, Theo Sinclair [US] 26 Feb 2026
+[2026-08-22T09:07:59.838Z]   NEW: "Reaper and Ruin" by Elle Thorpe — narrated by Sean Crisden, Gregory Salinas, Theo Sinclair, Kelsey Navarro Foster [US] 06 Feb 2026
+[2026-08-22T09:07:59.839Z]   NEW: "The Cuddle Clause" by Roxie Ray — narrated by Shelley Reece, Theo Sinclair [US] 06 Feb 2026
+[2026-08-22T09:07:59.839Z]   NEW: "Changing Lanes" by A. Marie — narrated by Alexis Paige, Theo Sinclair [US] 30 Jan 2026
+[2026-08-22T09:07:59.839Z]   NEW: "A Little Bit Reckless" by Eden O'Neill — narrated by Stefanie Kay, Theo Sinclair, Addison Barnes, Christian Leatherman [US] 23 Jan 2026
+[2026-08-22T09:07:59.839Z]   NEW: "The Viper's Lady" by Elle Parker — narrated by Alexis Paige, J.F. Harding, Theo Sinclair, Grayson Owens [US] 08 Jan 2026
+[2026-08-22T09:07:59.839Z]   NEW: "Unbroken Promises" by Nikki Ash — narrated by Duncan Prescott, Marina Barrett, Theo Sinclair [US] 10 Dec 2025
+[2026-08-22T09:07:59.839Z]   NEW: "Until the End" by Shelby Gunter — narrated by Theo Sinclair, Chloe Ryan [US] 18 Nov 2025
+[2026-08-22T09:07:59.839Z]   NEW: "Married to the Beast" by Evangeline Anderson — narrated by Theo Sinclair, Aela Aryon [US] 15 Nov 2025
+[2026-08-22T09:07:59.839Z]   NEW: "Whips and Chains" by Elle Thorpe — narrated by Sean Crisden, Gregory Salinas, Theo Sinclair, Kelsey Navarro Foster [US] 04 Nov 2025
+[2026-08-22T09:07:59.839Z]   NEW: "Love Me Harder" by Nikki Ash — narrated by Marie Hawkins, Theo Sinclair [US] 13 Oct 2025
+[2026-08-22T09:07:59.839Z]   NEW: "Into the Shadows" by Shelby Gunter — narrated by Theo Sinclair, Chloe Ryan [US] 07 Oct 2025
+[2026-08-22T09:07:59.840Z]   NEW: "True Love" by Melanie A. Smith — narrated by Rachel Woods, Luke Parker, Lance West, Theo Sinclair, James Amherst [US] 02 Oct 2025
+[2026-08-22T09:07:59.840Z]   NEW: "The Bradford Bastard Complete Series" by Sheridan Anne — narrated by Theo Sinclair, Maeve York [US] 27 Aug 2025
+[2026-08-22T09:07:59.840Z]   NEW: "X's and O's" by Elle Thorpe — narrated by Kelsey Navarro Foster, Sean Crisden, Gregory Salinas, Theo Sinclair [US] 20 Aug 2025
+[2026-08-22T09:07:59.840Z]   NEW: "Through the Flames" by Shelby Gunter — narrated by Theo Sinclair, Chloe Ryan [US] 12 Aug 2025
+[2026-08-22T09:07:59.840Z]   NEW: "Their Pretty Little Monster" by Mila Young — narrated by Alan Stone, Sable Stark, Theo Sinclair, Tom Haire [US] 08 Aug 2025
+[2026-08-22T09:07:59.840Z]   NEW: "The Influencer" by August Jones — narrated by Theo Sinclair, Nick J. Russo [US] 09 Jul 2025
+[2026-08-22T09:07:59.840Z]   NEW: "The King's Maiden" by Elle Parker — narrated by Alexis Paige, J.F. Harding, Theo Sinclair, Grayson Owens [US] 18 Jun 2025
+[2026-08-22T09:07:59.840Z]   NEW: "The Director" by August Jones — narrated by Dane Anderson, Theo Sinclair, Nick J. Russo [US] 01 Jun 2025
+[2026-08-22T09:07:59.840Z]   NEW: "Unscripted Love" by Melanie A. Smith — narrated by Rachel Woods, Theo Sinclair [US] 15 May 2025
+[2026-08-22T09:07:59.840Z]   NEW: "The Baller" by August Jones — narrated by Dane Anderson, Theo Sinclair [US] 01 May 2025
+[2026-08-22T09:07:59.841Z]   NEW: "Revived" by Bree L. Mina — narrated by Audrey Obeyn, Grayson Owens [US] 24 Nov 2026
+[2026-08-22T09:07:59.841Z]   NEW: "The Game" by Sadie Kincaid — narrated by Grayson Owens, June deBorahae [US] 03 Nov 2026
+[2026-08-22T09:07:59.841Z]   NEW: "Not Like Christmas at All" by A. R. Rose — narrated by Kimberly Austin, Grayson Owens [US] 13 Oct 2026
+[2026-08-22T09:07:59.841Z]   NEW: "The Pretty Broken" by K.G. Reuss — narrated by CJ Bloom, Grayson Owens [US] 06 Oct 2026
+[2026-08-22T09:07:59.841Z]   NEW: "Hallowed Bones" by Lucy Smoke — narrated by Corvin King, Grayson Owens, Michael Norman Johnson, Sarah Sampino, Stephen Dexter [US] 06 Oct 2026
+[2026-08-22T09:07:59.841Z]   NEW: "Struck by Eros" by Kayla Grosse — narrated by Grayson Owens, James Cassidy [US] 28 Sept 2026
+[2026-08-22T09:07:59.841Z]   NEW: "Diary of a Mafia Princess" by Elle Thorpe — narrated by Andi Eloise, Grayson Owens, Stephen Dexter, Ryan Stone [US] 19 Aug 2026
+[2026-08-22T09:07:59.841Z]   NEW: "Something Tangled, Something True" by Giuliana Victoria — narrated by Ramona Master, Grayson Owens [US] 18 Aug 2026
+[2026-08-22T09:07:59.841Z]   NEW: "The Rebel Seeks a Wife" by Sophia Travers — narrated by Stella Hunter, Grayson Owens [US] 14 Aug 2026
+[2026-08-22T09:07:59.841Z]   NEW: "Bubbles" by Tate James — narrated by Michelle Sparks, Teddy Hamilton, Lucas Webley, J. F. Harding, Grayson Owens, James Cassidy, Thomas Burt, Walker Williams [US] 11 Aug 2026
+[2026-08-22T09:07:59.842Z]   NEW: "Embrace" by Bal Khabra — narrated by Grayson Owens, Lidia Dornet, Bal Khabra [US] 04 Aug 2026
+[2026-08-22T09:07:59.842Z]   NEW: "Paper Rings" by Brittanée Nicole — narrated by Megan Wicks, Adam Gold, Samantha Brentmoor, James Cassidy, Mollie Stark, Grayson Owens, Lucy Rivers, Connor Crais [US] 31 Jul 2026
+[2026-08-22T09:07:59.842Z]   NEW: "Untamed" by Janice Whiteaker — narrated by CJ Bloom, Grayson Owens [US] 30 Jun 2026
+[2026-08-22T09:07:59.842Z]   NEW: "Unclaimed Bonds" by Lilinoe K. Russell — narrated by Vanessa Moyen, Grayson Owens, Robert Hatchet [US] 24 Jun 2026
+[2026-08-22T09:07:59.842Z]   NEW: "Hoax and Kisses" by Elodie Colliard — narrated by Ellie Gossage, Grayson Owens [US] 09 Jun 2026
+[2026-08-22T09:07:59.842Z]   NEW: "From the Ashes" by Melinda Valentine — narrated by Savannah Thomas, Grayson Owens [US] 09 Jun 2026
+[2026-08-22T09:07:59.842Z]   NEW: "Until Our Hearts Collide" by Nate Wilder — narrated by Vanessa Edwin, Grayson Owens [US] 02 Jun 2026
+[2026-08-22T09:07:59.842Z]   NEW: "Birds of a Feather: The Secrets of a Knight" by Kate Stewart — narrated by Grayson Owens, Chloe Ryan, Leila Allarie, Aaron Shedlock, Will Thorne, Michael Gallagher, Anthony Palmini, Sean Masters [US] 26 May 2026
+[2026-08-22T09:07:59.842Z]   NEW: "Dangerously Ours" by Krista Ritchie — narrated by Grayson Owens, Stephen Dexter, Megan Wicks, Aaron Shedlock, Carly Robins [US] 12 May 2026
+[2026-08-22T09:07:59.842Z]   NEW: "Played" by Sadie Kincaid — narrated by Grayson Owens, Gregory Salinas [US] 08 May 2026
+[2026-08-22T09:07:59.843Z]   NEW: "Tease Me" by C.S. Berry — narrated by Michelle Sparks, Sean Masters, Troy Duran, Grayson Owens, J.F. Harding [US] 29 Apr 2026
+[2026-08-22T09:07:59.843Z]   NEW: "Lights, Camera, Knot" by Kay Lynn — narrated by Savannah Thomas, James Cassidy, Ivan Morea, Grayson Owens [US] 28 Apr 2026
+[2026-08-22T09:07:59.843Z]   NEW: "Campus Rival" by Cadence Keys — narrated by Rose Dioro, Grayson Owens [US] 23 Apr 2026
+[2026-08-22T09:07:59.843Z]   NEW: "Private Listing: Boss Me" by C.S. Berry — narrated by Michelle Sparks, Sean Masters, Troy Duran, Grayson Owens, J.F. Harding [US] 15 Apr 2026
+[2026-08-22T09:07:59.843Z]   NEW: "The Auction" by Sadie Kincaid — narrated by Grayson Owens, June deBorahae [US] 14 Apr 2026
+[2026-08-22T09:07:59.843Z]   NEW: "Eldrith Manor" by Leigh Rivers — narrated by Grayson Owens, Arya Jacobs [US] 13 Apr 2026
+[2026-08-22T09:07:59.843Z]   NEW: "NoFear" by Tate James — narrated by Michelle Sparks, Grayson Owens, JF Harding, James Cassidy, Teddy Hamilton, Thomas Burt, Walker Williams, Lucas Webley [US] 07 Apr 2026
+[2026-08-22T09:07:59.843Z]   NEW: "Knotted Myths" by Lexi C. Foss — narrated by Michelle Sparks, Kale Williams, Shane East, Sebastian Grove, Troy Duran, Stella Hunter, Grayson Owens [US] 31 Mar 2026
+[2026-08-22T09:07:59.844Z]   NEW: "Hunt the Villain" by Rina Kent — narrated by Teddy Hamilton, Grayson Owens, Sebastian York, Brooke Daniels, Rose Dioro, Austin Stone, Shane East, JF Harding, Full Cast [US] 24 Mar 2026
+[2026-08-22T09:07:59.844Z]   NEW: "Private Listing: Bind Me" by C.S. Berry — narrated by Michelle Sparks, Grayson Owens, Sean Masters, Troy Duran, J.F. Harding [US] 24 Mar 2026
+[2026-08-22T09:07:59.844Z]   NEW: "Heart of a Devil" by Sadie Kincaid — narrated by C.J. Bloom, Grayson Owens [US] 10 Mar 2026
+[2026-08-22T09:07:59.844Z]   NEW: "Alexander: MM Spicy Historical Romance Alexander the Great" by Harlowe Savage — narrated by Grayson Owens [US] 10 Mar 2026
+[2026-08-22T09:07:59.844Z]   NEW: "The Holiday Grump" by Enni Amanda — narrated by Dahlia Summers, Grayson Owens [US] 20 Feb 2026
+[2026-08-22T09:07:59.844Z]   NEW: "Private Listing: Watch Me" by C.S. Berry — narrated by Michelle Sparks, Sean Masters, Troy Duran, Grayson Owens, J.F. Harding [US] 17 Feb 2026
+[2026-08-22T09:07:59.844Z]   NEW: "Puck and Prejudice" by Michelle Hercules — narrated by Michelle Sparks, Grayson Owens [US] 06 Feb 2026
+[2026-08-22T09:07:59.844Z]   NEW: "Haunting Adeline" by H. D. Carlton — narrated by Teddy Hamilton, Michelle Sparks, Tempest Mensah, Grayson Owens [US] 22 Jan 2026
+[2026-08-22T09:07:59.845Z]   NEW: "Hunting Adeline" by H. D. Carlton — narrated by Teddy Hamilton, Michelle Sparks, Tempest Mensah, Grayson Owens, Ava Lucas [US] 22 Jan 2026
+[2026-08-22T09:07:59.845Z]   NEW: "The Coffee Shop" by Rosaline Jay — narrated by Grayson Owens, Sean Masters, Rosaline Jay [US] 21 Jan 2026
+[2026-08-22T09:07:59.845Z]   NEW: "The Coming of God of Death" by Dmitry Dornichev — narrated by Christian Leatherman [US] 15 Dec 2026
+[2026-08-22T09:07:59.845Z]   NEW: "Haunted Hearts" by Hanna Harp — narrated by Teddy Hamilton, M.K. Blackwood, Christian Leatherman, Corvin King [US] 27 Oct 2026
+[2026-08-22T09:07:59.845Z]   NEW: "An Inkling of Flame" by Z.B. Steele — narrated by Christian Leatherman [US] 27 Oct 2026
+[2026-08-22T09:07:59.845Z]   NEW: "Whispers of the Storm" by Z.B. Steele — narrated by Christian Leatherman [US] 13 Oct 2026
+[2026-08-22T09:07:59.845Z]   NEW: "Kiss of the Black Flame" by Helen Scheuerer — narrated by Amanda Dolan, Christian Leatherman [US] 22 Sept 2026
+[2026-08-22T09:07:59.845Z]   NEW: "The Final Final Girl" by James Kaine — narrated by Christian Leatherman, Moniqua Plante [US] 15 Sept 2026
+[2026-08-22T09:07:59.845Z]   NEW: "American Nightmare" by Kelly McWilliams — narrated by Christopher Ian Grant, Christian Leatherman [US] 15 Sept 2026
+[2026-08-22T09:07:59.846Z]   NEW: "Last Stop" by Michael Todd — narrated by Christian Leatherman [US] 08 Sept 2026
+[2026-08-22T09:07:59.846Z]   NEW: "Still Lost" by Sam A Miller — narrated by Sam A Miller, Vas Eli, Ursula Harmon, Jeff Ebner, Christian Leatherman, John Detty, Cary Hite, Marcus Zarco, Jason Culp, Shawn K. Jain, Mark Bramhall [US] 01 Sept 2026
+[2026-08-22T09:07:59.846Z]   NEW: "Vacation Self" by Alexandra Romanoff — narrated by Mara Vincent, Christian Leatherman [US] 25 Aug 2026
+[2026-08-22T09:07:59.846Z]   NEW: "Fate and Family" by Meg Fitzpatrick — narrated by Christian Leatherman, Paige Reisenfeld [US] 12 Aug 2026
+[2026-08-22T09:07:59.846Z]   NEW: "Love and Loyalty" by Meg Fitzpatrick — narrated by Christian Leatherman, Paige Reisenfeld [US] 12 Aug 2026
+[2026-08-22T09:07:59.846Z]   NEW: "The Skin Game" by Elle Keaton — narrated by Christian Leatherman [US] 11 Aug 2026
+[2026-08-22T09:07:59.846Z]   NEW: "The Haunted Mask" by R. L. Stine — narrated by Christian Leatherman, Emily Eiden, Mark Sanderlin, Nicole Locke [US] 04 Aug 2026
+[2026-08-22T09:07:59.846Z]   NEW: "Sunsplitter" by S. A. MacLean — narrated by Christian Leatherman, Amelia Hugh [US] 04 Aug 2026
+[2026-08-22T09:07:59.847Z]   NEW: "One Pucking Desire" by Ellie Wade — narrated by Savannah Thomas, Christian Leatherman [US] 15 Jul 2026
+[2026-08-22T09:07:59.847Z]   NEW: "One Pucking Future" by Ellie Wade — narrated by Savannah Thomas, Christian Leatherman [US] 15 Jul 2026
+[2026-08-22T09:07:59.847Z]   NEW: "The Paddock Club" by Madge Maril — narrated by Cindy Kay, Christian Leatherman [US] 14 Jul 2026
+[2026-08-22T09:07:59.847Z]   NEW: "Ezra" by Roxie McClaine — narrated by Christian Leatherman, Andria Mae [US] 10 Jul 2026
+[2026-08-22T09:07:59.847Z]   NEW: "The Dark and Other Scary Stories" by Max Brallier — narrated by Jess Moran, Annalee Scott, Christian Leatherman, André Santana, Amber Dekkers [US] 07 Jul 2026
+[2026-08-22T09:07:59.847Z]   NEW: "Shadowplay" by Angel M. Shaw — narrated by Dafina White, Christian Leatherman [US] 30 Jun 2026
+[2026-08-22T09:07:59.847Z]   NEW: "One-Way Express" by Michael Todd — narrated by Christian Leatherman [US] 30 Jun 2026
+[2026-08-22T09:07:59.847Z]   NEW: "When You Loved Me" by Beatriz Williams — narrated by Sarah Mollo-Christensen, Kate Walsh, Christian Leatherman [US] 23 Jun 2026
+[2026-08-22T09:07:59.848Z]   NEW: "Fear No Evil" by Alana Kay — narrated by Kelsey Navarro Foster, Nick J. Russo, J Gabriel, Caleb Shore, Christian Leatherman, Gregory Salinas [US] 23 Jun 2026
+[2026-08-22T09:07:59.848Z]   NEW: "Home Safe" by Tracy Baack — narrated by Talon David, Christian Leatherman [US] 22 Jun 2026
+[2026-08-22T09:07:59.848Z]   NEW: "Fighting Love: The Complete Collection" by Nikki Ash — narrated by Gregory Salinas, Kasi Hollowell, Gideon Frost, Marina Barrett, Avery Reid, Christian Leatherman [US] 15 Jun 2026
+[2026-08-22T09:07:59.848Z]   NEW: "Bait and Switch" by Elle Keaton — narrated by Christian Leatherman [US] 10 Jun 2026
+[2026-08-22T09:07:59.848Z]   NEW: "Heat Clickbait" by Zoey Shelby — narrated by Christian Leatherman, Monique Makena [US] 09 Jun 2026
+[2026-08-22T09:07:59.848Z]   NEW: "Dating Goals" by Gigi Blume — narrated by Willa Jaymes, Christian Leatherman [US] 09 Jun 2026
+[2026-08-22T09:07:59.848Z]   NEW: "Fake Out Make Out" by Kate Williams — narrated by Christian Leatherman, Nerissa Bradley [US] 04 Jun 2026
+[2026-08-22T09:07:59.848Z]   NEW: "The Island" by Briar Prescott — narrated by Christian Leatherman, Nathan Kelly [US] 02 Jun 2026
+[2026-08-22T09:07:59.849Z]   NEW: "The Dog's Gaze" by Thomas W. Laqueur — narrated by Christian Leatherman [US] 02 Jun 2026
+[2026-08-22T09:07:59.849Z]   NEW: "Deadly Obsession" by Settle Myer — narrated by Christian Leatherman, Mia Madison [US] 26 May 2026
+[2026-08-22T09:07:59.849Z]   NEW: "Lore of the Wicked Wood" by Hillary Raymer — narrated by Christian Leatherman, Zura Johnson [US] 19 May 2026
+[2026-08-22T09:07:59.849Z]   NEW: "Nothing Bad Ever Happens Here" by Sadie Hunt — narrated by Erin Mallon, Christian Leatherman [US] 04 May 2026
+[2026-08-22T09:07:59.849Z]   NEW: "Beast and Remedy" by L.L. Riley — narrated by Jacci Prior, Christian Leatherman [US] 04 May 2026
+[2026-08-22T09:07:59.849Z]   NEW: "Shadow of Death" by Alana Kay — narrated by Kelsey Navarro Foster, J Gabriel, Caleb Shore, Christian Leatherman, Nick J. Russo [US] 21 Apr 2026
+[2026-08-22T09:07:59.849Z]   NEW: "Dirty Savage Player" by Lena Hunt — narrated by Zachary Zaba, Mollie Stark [US] 27 Oct 2026
+[2026-08-22T09:07:59.849Z]   NEW: "A Heart of Gold and Glass" by Jocelynn Drake — narrated by Zachary Zaba [US] 29 Sept 2026
+[2026-08-22T09:07:59.849Z]   NEW: "The Gaybor War" by Raquel Riley — narrated by Zachary Zaba [US] 21 Aug 2026
+[2026-08-22T09:07:59.850Z]   NEW: "Punished by My Enemy" by Logan Fox — narrated by Helena Walters, Ivan Morea, Zachary Zaba [US] 11 Aug 2026
+[2026-08-22T09:07:59.850Z]   NEW: "Love Tapped" by Cali Melle — narrated by Cicely Meadows, Zachary Zaba [US] 04 Aug 2026
+[2026-08-22T09:07:59.850Z]   NEW: "Double Trouble" by Nazri Noor — narrated by Zachary Zaba [US] 31 Jul 2026
+[2026-08-22T09:07:59.850Z]   NEW: "All of My Heart" by Becca Neil — narrated by Zachary Zaba [US] 29 Jul 2026
+[2026-08-22T09:07:59.850Z]   NEW: "Idol AU" by Rye Cox — narrated by Zachary Zaba [US] 29 Jul 2026
+[2026-08-22T09:07:59.850Z]   NEW: "Offside Play" by Becca Steele — narrated by Bastian Allen, Zachary Zaba [US] 07 Jul 2026
+[2026-08-22T09:07:59.850Z]   NEW: "Ancient Obsession" by Hank Edwards — narrated by Zachary Zaba [US] 07 Jul 2026
+[2026-08-22T09:07:59.850Z]   NEW: "The Den" by Cora Rose — narrated by Zachary Zaba [US] 06 Jul 2026
+[2026-08-22T09:07:59.851Z]   NEW: "Beyond: The Complete Collection" by Lee McCormick — narrated by Zachary Zaba [US] 30 Jun 2026
+[2026-08-22T09:07:59.851Z]   NEW: "Pack End Game" by Drea Denae — narrated by Zachary Zaba, Avery Caris [US] 30 Jun 2026
+[2026-08-22T09:07:59.851Z]   NEW: "Hollow Point" by Erin Russell — narrated by Alexander Cendese, Zachary Zaba [US] 23 Jun 2026
+[2026-08-22T09:07:59.851Z]   NEW: "Stalked by My Professor" by Logan Fox — narrated by Helena Walters, Ivan Morea, Zachary Zaba [US] 16 Jun 2026
+[2026-08-22T09:07:59.851Z]   NEW: "The Dragon's Devoted Defender" by Michele Notaro — narrated by Zachary Zaba [US] 10 Jun 2026
+[2026-08-22T09:07:59.851Z]   NEW: "Obliterated" by N. Boeyer — narrated by Gabriel Michael, Zachary Zaba [US] 09 Jun 2026
+[2026-08-22T09:07:59.851Z]   NEW: "Conall" by Rye Cox — narrated by Zachary Zaba [US] 08 Jun 2026
+[2026-08-22T09:07:59.851Z]   NEW: "Hansel and Gerhardt" by W.H. Lockwood — narrated by Zachary Zaba [US] 05 Jun 2026
+[2026-08-22T09:07:59.852Z]   NEW: "Claimed by the Alien Bodyguard" by Tiffany Roberts — narrated by Zachary Zaba [US] 05 Jun 2026
+[2026-08-22T09:07:59.852Z]   NEW: "Stalked by the Alien Assassin" by Tiffany Roberts — narrated by Zachary Zaba [US] 04 Jun 2026
+[2026-08-22T09:07:59.852Z]   NEW: "Taken by the Alien Next Door" by Tiffany Roberts — narrated by Zachary Zaba [US] 04 Jun 2026
+[2026-08-22T09:07:59.852Z]   NEW: "Checking Mr. Wrong" by Anne Kemp — narrated by Kelsey Navarro Foster, Zachary Zaba [US] 02 Jun 2026
+[2026-08-22T09:07:59.852Z]   NEW: "Return of the S-Rank Hunter 3" by Lanaeus — narrated by Zachary Zaba [US] 02 Jun 2026
+[2026-08-22T09:07:59.852Z]   NEW: "The Holiday Fail" by Rye Cox — narrated by Zachary Zaba [US] 29 May 2026
+[2026-08-22T09:07:59.852Z]   NEW: "Suck" by Cora Rose — narrated by Zachary Zaba [US] 20 May 2026
+[2026-08-22T09:07:59.852Z]   NEW: "Unlocked and Unlost" by Gabbi Grey — narrated by Zachary Zaba [US] 29 Apr 2026
+[2026-08-22T09:07:59.852Z]   NEW: "Broken by My Bully" by Logan Fox — narrated by Helena Walters, Ivan Morea, Zachary Zaba [US] 21 Apr 2026
+[2026-08-22T09:07:59.853Z]   NEW: "Catch" by Ava Olsen — narrated by Nick J. Russo, Zachary Zaba [US] 14 Apr 2026
+[2026-08-22T09:07:59.853Z]   NEW: "Of Black Magic and Monsters" by T. Thomas — narrated by Zachary Zaba [US] 10 Apr 2026
+[2026-08-22T09:07:59.853Z]   NEW: "Portrait of a Killer" by K.A. Merikan — narrated by Zachary Zaba [US] 09 Apr 2026
+[2026-08-22T09:07:59.853Z]   NEW: "These Monstrous Deeds" by T.J. Hamel — narrated by Zachary Zaba [US] 08 Apr 2026
+[2026-08-22T09:07:59.853Z]   NEW: "The Snow Yeti's Grouchy Werewolf" by Michele Notaro — narrated by Zachary Zaba [US] 06 Apr 2026
+[2026-08-22T09:07:59.853Z]   NEW: "Accidental Bond" by Mika Nix — narrated by Zachary Zaba [US] 31 Mar 2026
+[2026-08-22T09:07:59.853Z]   NEW: "Boys of Summer: 5 First Time Gay Romance Short Stories" by Nathan Bay — narrated by Zachary Zaba [US] 27 Mar 2026
+[2026-08-22T09:07:59.853Z]   NEW: "Renegade Thief" by Jennifer M. Eaton — narrated by Zachary Johnson, Kim Churchill [US] 06 Aug 2026
+[2026-08-22T09:07:59.854Z]   NEW: "The Playmakers Series® Box Set: Volumes 7-9" by G.K. Brady — narrated by Scott Rose, Samantha Brentmoor, Tor Thom, Amanda Stribling, Gideon Frost, Addison Barnes, Zachary Johnson [US] 10 Jul 2026
+[2026-08-22T09:07:59.854Z]   NEW: "Renegade Magic" by Jennifer M. Eaton — narrated by Zachary Johnson, Kim Churchill [US] 02 Jul 2026
+[2026-08-22T09:07:59.854Z]   NEW: "Seriously Pucked" by Emma Foxx — narrated by Penelope Rose, Sebastian York, Winston James, Zachary Johnson, AM Elizabeth Kay, Victor Quixabas, Aryann Michele [US] 01 Jun 2026
+[2026-08-22T09:07:59.854Z]   NEW: "Puck One Night Stands" by Emma Foxx — narrated by Penelope Rose, Sebastian York, Winston James, Zachary Johnson, AM Elizabeth Kay, Victor Quixabas, Aryann Michele [US] 01 Jun 2026
+[2026-08-22T09:07:59.854Z]   NEW: "Permanently Pucked" by Emma Foxx — narrated by Penelope Rose, Sebastian York, Winston James, Zachary Johnson, AM Elizabeth Kay, Victor Quixabas, Aryann Michele [US] 01 Jun 2026
+[2026-08-22T09:07:59.854Z]   NEW: "Four Pucking Christmases" by Emma Foxx — narrated by Penelope Rose, Sebastian York, Winston James, Zachary Johnson, AM Elizabeth Kay, Victor Quixabas, Aryann Michele [US] 01 Jun 2026
+[2026-08-22T09:07:59.854Z]   NEW: "Mighty the Fallen" by Dianna Roman — narrated by Zachary Johnson, Greg Boudreaux [US] 21 Apr 2026
+[2026-08-22T09:07:59.854Z]   NEW: "Salt & Blood: A Hades and Persephone Romance" by R.L. Perez — narrated by Krys Janae, Zachary Johnson, Vivienne LaRue, Walker Williams, Zura Johnson [US] 06 Feb 2026
+[2026-08-22T09:07:59.855Z]   NEW: "Willow & Grave" by R.L. Perez — narrated by Krys Janae, Zachary Johnson, Vivienne LaRue, Walker Williams, Zura Johnson [US] 06 Feb 2026
+[2026-08-22T09:07:59.855Z]   NEW: "Supernatural Institute: The Complete Series (Books 1-4)" by Krista Street — narrated by Sarah Pavelec, Zachary Johnson [US] 19 Dec 2025
+[2026-08-22T09:07:59.855Z]   NEW: "The System Apocalypse Short Story Anthology, Volume III" by Tao Wong — narrated by Shamaan Casey, Daryl Mayfield, Michael Norman Johnson, James Kingdon, John Pirhalla, Stephanie Németh-Parker, Steve Campbell, Daniela Acitelli, Stephanie Dillard, Aven Shore, Nick Podehl, Naomi Barton, Zac Aleman, Neil Thorne, Zachary Johnson [US] 18 Nov 2025
+[2026-08-22T09:07:59.855Z]   NEW: "This and Every Life" by Emmy Sanders — narrated by Zachary Johnson, Tim Paige [US] 06 Nov 2025
+[2026-08-22T09:07:59.855Z]   NEW: "Pucking Curves" by Nichole Rose — narrated by CJ Bloom, Zachary Johnson [US] 04 Nov 2025
+[2026-08-22T09:07:59.855Z]   NEW: "Boys of the Bayou Gone Wild Bundle, Books 1-4" by Erin Nicholas — narrated by Connor Crais, Stephanie Rose, Zachary Johnson, Mollie Stark, Evan Henderson, Virginia Rose, Jason Clarke, Zara Eden [US] 03 Oct 2025
+[2026-08-22T09:07:59.855Z]   NEW: "Moonstriker" by Sam Burns — narrated by Darcy Stark, Zachary Johnson [US] 23 Sept 2025
+[2026-08-22T09:07:59.855Z]   NEW: "Ace of Hearts" by Morgane Moncomble — narrated by Zachary Johnson, Angela Goethals [US] 16 Sept 2025
+[2026-08-22T09:07:59.855Z]   NEW: "Heartbreak Hockey" by S. Legend — narrated by Joe Arden, Zachary Johnson [US] 26 Aug 2025
+[2026-08-22T09:07:59.856Z]   NEW: "Nightswimming" by Melanie Anagnos — narrated by Zachary Johnson [US] 19 Aug 2025
+[2026-08-22T09:07:59.856Z]   NEW: "Never Will I Ever" by CE Ricci — narrated by Brandon Francis, Zachary Johnson [US] 28 Jul 2025
+[2026-08-22T09:07:59.856Z]   NEW: "Meet Me Halfway" by Lilian T. James — narrated by Krys Janae, Zachary Johnson [US] 28 Jul 2025
+[2026-08-22T09:07:59.856Z]   NEW: "Recklessly Rogue" by Erin Nicholas — narrated by Zachary Johnson, Maeve York [US] 09 Jul 2025
+[2026-08-22T09:07:59.856Z]   NEW: "Roll with It" by Mellanie Szereto — narrated by Ana Bee, Zachary Johnson [US] 08 Jul 2025
+[2026-08-22T09:07:59.856Z]   NEW: "The Grip of Death" by Nazri Noor — narrated by Zachary Johnson [US] 02 Jul 2025
+[2026-08-22T09:07:59.856Z]   NEW: "Sunrunner" by Sam Burns — narrated by Darcy Stark, Zachary Johnson [US] 17 Jun 2025
+[2026-08-22T09:07:59.856Z]   NEW: "Raina and Bowen" by Kate Labahn — narrated by Zachary Johnson [US] 05 Jun 2025
+[2026-08-22T09:07:59.857Z]   NEW: "Archangel" by D. William Landsborough — narrated by Zachary Johnson [US] 24 Apr 2025
+[2026-08-22T09:07:59.857Z]   NEW: "The Exception" by Allyson Lindt — narrated by Paige Reisenfeld, Zachary Johnson, Alan Meer [US] 21 Apr 2025
+[2026-08-22T09:07:59.857Z]   NEW: "Dawnchaser" by Sam Burns — narrated by Darcy Stark, Zachary Johnson [US] 11 Feb 2025
+[2026-08-22T09:07:59.857Z]   NEW: "Falling Like Stars" by Emma Scott — narrated by Caitlin Kelly, Zachary Johnson [US] 21 Jan 2025
+[2026-08-22T09:07:59.857Z]   NEW: "Marked Man" by Ophelia Bell — narrated by Jenna Rose, Zachary Johnson [US] 30 Dec 2024
+[2026-08-22T09:07:59.857Z]   NEW: "Gloombringer" by Sam Burns — narrated by Darcy Stark, Zachary Johnson [US] 10 Dec 2024
+[2026-08-22T09:07:59.857Z]   NEW: "Cole's Hunt" by Kate Labahn — narrated by Zachary Johnson [US] 09 Dec 2024
+[2026-08-22T09:07:59.857Z]   NEW: "Transmaniacon" by John Shirley — narrated by Zachary Johnson [US] 07 Nov 2024
+[2026-08-22T09:07:59.857Z]   NEW: "House of Shifting Tides" by Olivia Wildenstein — narrated by Olivia King, Zachary Johnson [US] 04 Nov 2024
+[2026-08-22T09:07:59.858Z]   NEW: "Guarding the Crease" by G.K. Brady — narrated by Gideon Frost, Addison Barnes, Zachary Johnson [US] 01 Nov 2024
+[2026-08-22T09:07:59.858Z]   NEW: "Ascendant: Online" by Joseph DeProfio — narrated by Zachary Johnson [US] 24 Oct 2024
+[2026-08-22T09:07:59.858Z]   NEW: "Heroes of Last Resort: 3rd Edition" by JK Galioto — narrated by Zachary Johnson, Jeff Hays, Annie Ellicott [US] 22 Oct 2024
+[2026-08-22T09:07:59.858Z]   NEW: "A Throne of Blood & Vengeance" by Alex Frost — narrated by Eva Caine, Zane Daniels [US] 16 Dec 2025
+[2026-08-22T09:07:59.858Z]   NEW: "Here's the Deal" by Stefan Pride — narrated by Zane Daniels [US] 22 Sept 2025
+[2026-08-22T09:07:59.858Z]   NEW: "A Court of Bones & Sorrow" by Alex Frost — narrated by Eva Caine, Zane Daniels [US] 04 Sept 2025
+[2026-08-22T09:07:59.858Z]   NEW: "Loving Leo" by Cora Rose — narrated by Cooper North, Zane Daniels [US] 20 May 2025
+[2026-08-22T09:07:59.858Z]   NEW: "You're Not My King!" by Eryn Hawk — narrated by Darcy Stark, Zane Daniels [US] 22 Apr 2025
+[2026-08-22T09:07:59.859Z]   NEW: "Sober Dope & Sundays" by Nordika Night — narrated by Zane Daniels, Nick J. Russo [US] 15 Apr 2025
+[2026-08-22T09:07:59.859Z]   NEW: "A House of Fangs and Deceit" by Alex Frost — narrated by Eva Caine, Zane Daniels [US] 27 Mar 2025
+[2026-08-22T09:07:59.859Z]   NEW: "Red Flags & Tuesdays" by Nordika Night — narrated by Zane Daniels, Nick J. Russo [US] 04 Mar 2025
+[2026-08-22T09:07:59.859Z]   NEW: "Unnecessary Roughness" by Krista Wolf — narrated by Eva Caine, Zane Daniels [US] 11 Feb 2025
+[2026-08-22T09:07:59.859Z]   NEW: "The Silencer" by Cora Rose — narrated by Zane Daniels [US] 18 Nov 2024
+[2026-08-22T09:07:59.859Z]   NEW: "Discovering Damon" by Cora Rose — narrated by Cooper North, Zane Daniels [US] 14 May 2024
+[2026-08-22T09:07:59.859Z]   NEW: "Best Friends Never Kiss" by Krista Wolf — narrated by Eva Caine, Zane Daniels [US] 27 Feb 2024
+[2026-08-22T09:07:59.859Z]   NEW: "On the Mountain" by Riley Hart — narrated by Zane Daniels [US] 24 Feb 2024
+[2026-08-22T09:07:59.859Z]   NEW: "Rydeville Elite Box Set, Books 4-6" by Siobhan Davis™ — narrated by Sarah Puckett, Jay Alder, Alexander Neal, Zane Daniels [US] 27 Dec 2023
+[2026-08-22T09:07:59.860Z]   NEW: "Becoming Bennet" by Cora Rose — narrated by Cooper North, Zane Daniels [US] 07 Nov 2023
+[2026-08-22T09:07:59.860Z]   NEW: "Reaching Reed" by Cora Rose — narrated by Cooper North, Zane Daniels [US] 12 Sept 2023
+[2026-08-22T09:07:59.860Z]   NEW: "Deep Impact" by Kelly Fox — narrated by Zane Daniels [US] 22 Jul 2022
+[2026-08-22T09:07:59.860Z]   NEW: "Devil You Know" by J. L. Beck — narrated by Devon Grace, Zane Daniels [US] 28 Jun 2022
+[2026-08-22T09:07:59.860Z]   NEW: "Assassin's Claws Series Bundle" by Susi Hawke — narrated by Kenneth Obi, Zane Daniels, Drew Bacca [US] 12 May 2022
+[2026-08-22T09:07:59.860Z]   NEW: "STAHP, Collaborate and Listen" by Susi Hawke — narrated by Zane Daniels [US] 11 Apr 2022
+[2026-08-22T09:07:59.860Z]   NEW: "Most Wanted" by Kelly Fox — narrated by Zane Daniels [US] 07 Jan 2022
+[2026-08-22T09:07:59.860Z]   NEW: "Sawyer" by Siobhan Davis™ — narrated by Alexander Neal, Sarah Puckett, Zane Daniels [US] 02 Dec 2021
+[2026-08-22T09:07:59.861Z]   NEW: "Full Contact" by Kelly Fox — narrated by Zane Daniels [US] 30 Aug 2021
+[2026-08-22T09:07:59.861Z]   NEW: "Zercy" by Kora Knight — narrated by Zane Daniels [US] 12 Jul 2021
+[2026-08-22T09:07:59.861Z]   NEW: "Hard Target" by Kelly Fox — narrated by Zane Daniels [US] 25 May 2021
+[2026-08-22T09:07:59.861Z]   NEW: "Dance Around" by Susi Hawke — narrated by Zane Daniels [US] 25 May 2021
+[2026-08-22T09:07:59.861Z]   NEW: "Jump Up" by Susi Hawke — narrated by Zane Daniels [US] 18 May 2021
+[2026-08-22T09:07:59.861Z]   NEW: "Don't STAHP Believing" by Susi Hawke — narrated by Zane Daniels [US] 10 May 2021
+[2026-08-22T09:07:59.861Z]   NEW: "Kríe Captivity" by Kora Knight — narrated by Zane Daniels [US] 14 Jan 2021
+[2026-08-22T09:07:59.861Z]   NEW: "Heart of Bone" by Mylee Miller — narrated by Nick J. Russo, Luna Rey [US] 09 Mar 2027
+[2026-08-22T09:07:59.862Z]   NEW: "Callback" by Lee McCormick — narrated by Nick J. Russo, Lee Samuels [US] 22 Dec 2026
+[2026-08-22T09:07:59.862Z]   NEW: "Malin" by Crea Reitan — narrated by Nick J. Russo, Joshua Macrae [US] 29 Sept 2026
+[2026-08-22T09:07:59.862Z]   NEW: "Last Dancer of the Egyptian Sky" by Amanda Meuwissen — narrated by Nick J. Russo [US] 22 Sept 2026
+[2026-08-22T09:07:59.862Z]   NEW: "If There's a Way" by Jessie Walker — narrated by Michael Gallager, Nick J. Russo [US] 08 Sept 2026
+[2026-08-22T09:07:59.862Z]   NEW: "Grave Intentions" by Lissa Kasey — narrated by Nick J. Russo, Heathcliff Lee [US] 08 Sept 2026
+[2026-08-22T09:07:59.862Z]   NEW: "Rushing Closer" by Christie Gordon — narrated by Finnley Cole, Nick J. Russo [US] 25 Aug 2026
+[2026-08-22T09:07:59.862Z]   NEW: "Chase Hooper Likes It Hot" by Lisa Henry — narrated by Nick J. Russo [US] 18 Aug 2026
+[2026-08-22T09:07:59.862Z]   NEW: "King of the Crease" by A.J. Truman — narrated by Nick J. Russo, Alexander Cendese [US] 17 Aug 2026
+[2026-08-22T09:07:59.862Z]   NEW: "Unlovable Player" by Emmery Fox — narrated by Nick J. Russo, Oscar Reyes [US] 11 Aug 2026
+[2026-08-22T09:07:59.863Z]   NEW: "Where There's a Will" by Jessie Walker — narrated by Michael Gallagher, Nick J. Russo [US] 11 Aug 2026
+[2026-08-22T09:07:59.863Z]   NEW: "Grave Beginnings" by Lissa Kasey — narrated by Nick J. Russo [US] 28 Jul 2026
+[2026-08-22T09:07:59.863Z]   NEW: "Blitz Replay" by Christie Gordon — narrated by Finnley Cole, Nick J. Russo [US] 28 Jul 2026
+[2026-08-22T09:07:59.863Z]   NEW: "Textbook Defense" by Ashlyn Kane — narrated by Nick J. Russo [US] 21 Jul 2026
+[2026-08-22T09:07:59.863Z]   NEW: "Stormz Rising" by Nicky James — narrated by Nick J. Russo [US] 21 Jul 2026
+[2026-08-22T09:07:59.863Z]   NEW: "Bronc Riders Don't Fall in Love" by R.M. Neill — narrated by Nick J. Russo, B.J. Harrison [US] 21 Jul 2026
+[2026-08-22T09:07:59.863Z]   NEW: "Dom" by Ruby Raynes — narrated by Nick J. Russo, Michael Dean [US] 14 Jul 2026
+[2026-08-22T09:07:59.863Z]   NEW: "Interstellar Love Song" by C. Rochelle — narrated by Gabriel Michael, Nick J. Russo [US] 14 Jul 2026
+[2026-08-22T09:07:59.864Z]   NEW: "Quarterback Drill" by Christie Gordon — narrated by Finnley Cole, Nick J. Russo [US] 30 Jun 2026
+[2026-08-22T09:07:59.864Z]   NEW: "Sent to a Fantasy World and Now All the Men Want Me, Volume 6" by Jaclyn Osborn — narrated by Nick J. Russo [US] 10 Jun 2026
+[2026-08-22T09:07:59.864Z]   NEW: "Voss" by Crea Reitan — narrated by Nick J. Russo, Joshua Macrae [US] 09 Jun 2026
+[2026-08-22T09:07:59.864Z]   NEW: "The Girl Who Was Taken [Dramatized Adaptation]" by Charlie Donlea — narrated by Full Cast, Eva Wilhelm, Erin Lin, Natalie Van Sistine, Crystal Lee, Robb Moreira, Richard Rohan, Jon Vertullo, Carolyn Kashner, Nick J. Russo, Darcey Lee, Iain Batchelor [US] 27 May 2026
+[2026-08-22T09:07:59.864Z]   NEW: "Save a Horse, Keep the Cowboy" by Jessica Peterson — narrated by Amanda Stribling, Nick J. Russo [US] 26 May 2026
+[2026-08-22T09:07:59.864Z]   NEW: "Summer Lovin'" by Tessa Bailey — narrated by Frankie Corzo, Bryant Walker, Amanda Stribling, Nick J. Russo, Marjorie Lakewood, Quinn Riley, Emily Lawrence, Sarah Beth Goer, Sean-Michael Wilkinson, Avery Caris, Tim Paige [US] 26 May 2026
+[2026-08-22T09:07:59.864Z]   NEW: "Hidden Plays" by Christie Gordon — narrated by Finnley Cole, Nick J. Russo [US] 26 May 2026
+[2026-08-22T09:07:59.864Z]   NEW: "Catch Me Again" by Emmy Sanders — narrated by Nick J. Russo [US] 21 May 2026
+[2026-08-22T09:07:59.864Z]   NEW: "Crushed Ice" by Ashlyn Kane — narrated by Nick J. Russo [US] 19 May 2026
+[2026-08-22T09:07:59.865Z]   NEW: "Bruiser" by Emmy Sanders — narrated by Nick J. Russo [US] 05 May 2026
+[2026-08-22T09:07:59.865Z]   NEW: "Lost at the Crossing" by Nicky James — narrated by Nick J. Russo [US] 20 Apr 2026
+[2026-08-22T09:07:59.865Z]   NEW: "Lady of the Lake [Dramatized Adaptation]" by C.N. Crawford — narrated by Full Cast, Marissa Clay, Christopher Tester, Holly Adams, Gabriel Michael, Karenna Foley, Mike Carnes, Nick J. Russo, Elena Anderson, Alex Hill-Knight, Rayner Gabriel, Kay Elúvian [US] 17 Apr 2026
+[2026-08-22T09:07:59.865Z]   NEW: "Relentlessly Vengeful Ghost" by K.M. Neuhold — narrated by Nick J. Russo, Declan Winters [US] 13 Apr 2026
+[2026-08-22T09:07:59.865Z]   NEW: "Fight or Flight" by Willow Dixon — narrated by Nick J. Russo, Darcy Stark [US] 07 Apr 2026
+[2026-08-22T09:07:59.865Z]   NEW: "A Timeless Love" by Author ADJ — narrated by Nick J. Russo [US] 31 Mar 2026
+[2026-08-22T09:07:59.865Z]   NEW: "Penny for Your Thoughts" by Nicky James — narrated by Nick J. Russo [US] 26 Mar 2026
+[2026-08-22T09:07:59.865Z]   NEW: "Oblivious Roommate" by K.A. Merikan — narrated by Nathan Kelly [US] 19 Aug 2026
+[2026-08-22T09:07:59.866Z]   NEW: "To Burn In Brutal Rapture" by Nyla K — narrated by Madison Mitts, Theodore Zephyr, Nathan Kelly [US] 04 Jun 2026
+[2026-08-22T09:07:59.866Z]   NEW: "The Storms Between Us" by Sage St. Claire — narrated by Savannah Thomas, Nathan Kelly [US] 23 Apr 2026
+[2026-08-22T09:07:59.866Z]   NEW: "Exposing Colorado" by Bree Wiley — narrated by Nathan Kelly, Angelina Rocca [US] 24 Mar 2026
+[2026-08-22T09:07:59.866Z]   NEW: "His Reaper" by Cora Rose — narrated by Nathan Kelly [US] 03 Mar 2026
+[2026-08-22T09:07:59.866Z]   NEW: "Savage" by Erin Russell — narrated by Nathan Kelly, Zachary Zaba [US] 01 Feb 2026
+[2026-08-22T09:07:59.866Z]   NEW: "Poisoned Heart: MM Mafia Romance" by K.A. Merikan — narrated by Nathan Kelly [US] 23 Jan 2026
+[2026-08-22T09:07:59.866Z]   NEW: "ILY" by Cora Rose — narrated by Nathan Kelly [US] 16 Dec 2025
+[2026-08-22T09:07:59.866Z]   NEW: "Guns n' Boys Box Set: Books 1-6" by K.A. Merikan — narrated by Nathan Kelly [US] 10 Dec 2025
+[2026-08-22T09:07:59.867Z]   NEW: "Guns n' Boys Box Set: Books 7-11" by K.A. Merikan — narrated by Nathan Kelly [US] 09 Dec 2025
+[2026-08-22T09:07:59.867Z]   NEW: "Christmas Mafia Prince" by K. A. Merikan — narrated by Nathan Kelly [US] 25 Nov 2025
+[2026-08-22T09:07:59.867Z]   NEW: "Guns n' Boys, Book 11: Haven" by K.A. Merikan — narrated by Nathan Kelly [US] 28 Oct 2025
+[2026-08-22T09:07:59.867Z]   NEW: "Four Mercenaries Box Set" by K. A. Merikan — narrated by Nathan Kelly [US] 01 Oct 2025
+[2026-08-22T09:07:59.867Z]   NEW: "Black Lies" by K.A. Merikan — narrated by Nathan Kelly [US] 23 Jul 2025
+[2026-08-22T09:07:59.867Z]   NEW: "Unshaken" by K. A. Merikan — narrated by Nathan Kelly [US] 30 Jun 2025
+[2026-08-22T09:07:59.867Z]   NEW: "Breaking Rules with Travis" by Sophia Nixs — narrated by Jameson Adams, Nathan Kelly [US] 24 Apr 2025
+[2026-08-22T09:07:59.867Z]   NEW: "Wrong Side of the Tracks Box Set" by K.A. Merikan — narrated by Nathan Kelly [US] 19 Dec 2024
+[2026-08-22T09:07:59.867Z]   NEW: "Wanted" by K.A. Merikan — narrated by Vanessa Edwin, Sean Masters [US] 13 Nov 2024
+[2026-08-22T09:07:59.868Z]   NEW: "Dickhead" by K.A. Merikan — narrated by Nathan Kelly [US] 05 Nov 2024
+[2026-08-22T09:07:59.868Z]   NEW: "Grind" by K.A. Merikan — narrated by Nathan Kelly [US] 01 Nov 2024
+[2026-08-22T09:07:59.868Z]   NEW: "Guns n' Boys" by K. A. Merikan — narrated by Nathan Kelly [US] 05 Jul 2023
+[2026-08-22T09:07:59.868Z]   NEW: "Love Among Reptiles" by K.A. Merikan — narrated by Nathan Kelly [US] 21 Mar 2023
+[2026-08-22T09:07:59.868Z]   NEW: "I Am God's Dagger" by K.A. Merikan — narrated by Nathan Kelly [US] 19 Aug 2022
+[2026-08-22T09:07:59.868Z]   NEW: "Chokehold" by K.A. Merikan — narrated by Nathan Kelly [US] 03 Jun 2022
+[2026-08-22T09:07:59.868Z]   NEW: "Primal" by K.A. Merikan — narrated by Nathan Kelly [US] 24 Mar 2022
+[2026-08-22T09:07:59.868Z]   NEW: "Scum" by K.A. Merikan — narrated by Nathan Kelly [US] 14 Dec 2021
+[2026-08-22T09:07:59.869Z]   NEW: "Swamp Blood" by K. A. Merikan — narrated by Nathan Kelly [US] 16 Nov 2021
+[2026-08-22T09:07:59.869Z]   NEW: "He Is Mine" by K.A. Merikan — narrated by Nathan Kelly [US] 14 Sept 2021
+[2026-08-22T09:07:59.869Z]   NEW: "One Step Too Close - Coffin Nails Mc Louisiana" by K.A. Merikan — narrated by Nathan Kelly [US] 10 Jun 2021
+[2026-08-22T09:07:59.869Z]   NEW: "Unlovable Bastard" by K.A. Merikan — narrated by Nathan Kelly [US] 22 Apr 2021
+[2026-08-22T09:07:59.869Z]   NEW: "Hot but Psycho - Coffin Nails MC California (Gay M/M Romance Novel)" by K.A. Merikan — narrated by Nathan Kelly [US] 05 Dec 2020
+[2026-08-22T09:07:59.869Z]   NEW: "Their Property" by K.A. Merikan — narrated by Nathan Kelly [US] 04 Dec 2019
+[2026-08-22T09:07:59.869Z]   NEW: "Notice and Do" by Unknown Author — narrated by Nathan Kelly [US] 
+[2026-08-22T09:07:59.869Z]   NEW: "The Essential Christmas Collection" by Unknown Author — narrated by Nathan Kelly [US] 
+[2026-08-22T09:07:59.869Z]   NEW: "Stay for Me" by Brittany Ann — narrated by Veronica Fox, Aiden Snow [US] 06 Apr 2027
+[2026-08-22T09:07:59.869Z]   NEW: "White Ravens" by A.E. Via — narrated by Sean Crisden, Aiden Snow [US] 09 Mar 2027
+[2026-08-22T09:07:59.870Z]   NEW: "Reaper of Ruin" by KC Kean — narrated by Joy Belmont, Aiden Snow [US] 02 Feb 2027
+[2026-08-22T09:07:59.870Z]   NEW: "Defined by Deceit" by A.E. Via — narrated by Sean Crisden, Aiden Snow [US] 02 Feb 2027
+[2026-08-22T09:07:59.870Z]   NEW: "Capitol Promises" by Rebecca Gallo — narrated by Aiden Snow, Megan Carver [US] 26 Jan 2027
+[2026-08-22T09:07:59.870Z]   NEW: "Pity Prank" by Whitney Dineen — narrated by Desiree Ketchum, Aiden Snow [US] 19 Jan 2027
+[2026-08-22T09:07:59.870Z]   NEW: "Arkana" by RuNyx — narrated by Aiden Snow, Megan Wicks [US] 05 Jan 2027
+[2026-08-22T09:07:59.870Z]   NEW: "The Divine" by Harper L. Woods — narrated by Aiden Snow, Kingsley Rose, Vivienne LaRue [US] 29 Dec 2026
+[2026-08-22T09:07:59.870Z]   NEW: "Presidential Bargain" by Rebecca Gallo — narrated by Aiden Snow, Megan Carver [US] 15 Dec 2026
+[2026-08-22T09:07:59.870Z]   NEW: "One Step Closer" by Laura Pavlov — narrated by Andi Arndt, Aiden Snow [US] 08 Dec 2026
+[2026-08-22T09:07:59.871Z]   NEW: "Collide" by Meghan Hollie — narrated by Savannah Rivers, Aiden Snow [US] 08 Dec 2026
+[2026-08-22T09:07:59.871Z]   NEW: "Angel of Ashes" by KC Kean — narrated by Joy Belmont, Aiden Snow [US] 24 Nov 2026
+[2026-08-22T09:07:59.871Z]   NEW: "The Incendiary" by LJ Claren — narrated by Aiden Snow, Savannah Thomas [US] 27 Oct 2026
+[2026-08-22T09:07:59.871Z]   NEW: "His Guilty Pleasure" by Carrie Ann Ryan — narrated by Aiden Snow, CJ Bloom [US] 26 Oct 2026
+[2026-08-22T09:07:59.871Z]   NEW: "Rescue Angels Box Set 1, Books 1-3" by Susan Stoker — narrated by Erin Mallon, Aiden Snow, Lucy Rivers, Robert Hatchet, Maxine Mitchell, Teddy Hamilton [US] 01 Oct 2026
+[2026-08-22T09:07:59.871Z]   NEW: "Fallen Rook" by L. J. Shen — narrated by Corvin King, Anthony Palmini, Lucy Rivers, Lila Winters, Stella Bloom, Stephen Dexter, Teddy Hamilton, Jason Clarke, Aiden Snow [US] 22 Sept 2026
+[2026-08-22T09:07:59.871Z]   NEW: "A Queen's Shadow" by Melissa Kieran — narrated by Angelina Rocca, Aiden Snow [US] 22 Sept 2026
+[2026-08-22T09:07:59.871Z]   NEW: "Love What's Left" by Evangeline Williams — narrated by Aiden Snow, CJ Bloom [US] 15 Sept 2026
+[2026-08-22T09:07:59.871Z]   NEW: "Transcend" by Natalia Jaster — narrated by Amanda Dolan, Aiden Snow [US] 15 Sept 2026
+[2026-08-22T09:07:59.872Z]   NEW: "Peaks and Promises" by Claire Kingsley — narrated by Aiden Snow, Stella Hunter, Stephen Dexter [US] 08 Sept 2026
+[2026-08-22T09:07:59.872Z]   NEW: "Pity Please" by Whitney Dineen — narrated by Desiree Ketchum, Aiden Snow [US] 01 Sept 2026
+[2026-08-22T09:07:59.872Z]   NEW: "Devil's Queen" by Avelyn Paige — narrated by Cindy Harden, Aiden Snow [US] 25 Aug 2026
+[2026-08-22T09:07:59.872Z]   NEW: "SEAL of Protection: Alliance Box Set 2: Books 5-7" by Susan Stoker — narrated by Savannah Richards, Ryan West, CJ Bloom, Aiden Snow, Emma Wilder, Aaron Shedlock, full cast [US] 18 Aug 2026
+[2026-08-22T09:07:59.872Z]   NEW: "Nothing Special IX" by A.E. Via — narrated by Sean Crisden, Aiden Snow [US] 18 Aug 2026
+[2026-08-22T09:07:59.872Z]   NEW: "Colt" by Jessica Peterson — narrated by Betty Black, Jonathan Lake [US] 18 Aug 2026
+[2026-08-22T09:07:59.872Z]   NEW: "Stolen Princess" by Julie Saman — narrated by Isabelle Ruther, Aiden Snow [US] 17 Aug 2026
+[2026-08-22T09:07:59.872Z]   NEW: "The Lion and the Deathless Dark" by Carissa Broadbent — narrated by Amanda Leigh Cobb, Aiden Snow [US] 04 Aug 2026
+[2026-08-22T09:07:59.873Z]   NEW: "The Whitley Brothers Complete Collection (1-8)" by Layla Hagen — narrated by Jacob Morgan, Emma Wilder, Samantha Brentmoor, Sebastian York, Maxine Mitchell, Aiden Snow, Connor Crais, Erin Mallon, CJ Bloom [US] 31 Jul 2026
+[2026-08-22T09:07:59.873Z]   NEW: "Reclaim Me" by L A Gallagher — narrated by Lucy Rivers, Aiden Snow [US] 29 Jul 2026
+[2026-08-22T09:07:59.873Z]   NEW: "Sweet Oblivion" by Bella Matthews — narrated by Angelina Rocca, Aiden Snow [US] 21 Jul 2026
+[2026-08-22T09:07:59.873Z]   NEW: "Heathermoor" by Shannon Mayer — narrated by Nicole Poole, Aiden Snow [US] 21 Jul 2026
+[2026-08-22T09:07:59.873Z]   NEW: "Knot Far to Fall" by Devyn Sinclair — narrated by Lessa Lamb, Aiden Snow [US] 21 Jul 2026
+[2026-08-22T09:07:59.873Z]   NEW: "Ace & Ember" by Kate Crew — narrated by Andi Eloise, Aiden Snow, Max Meyers [US] 14 Jul 2026
+[2026-08-22T09:07:59.873Z]   NEW: "Wrecked" by Reese Knightley — narrated by Aiden Snow [US] 07 Jul 2026
+[2026-08-22T09:07:59.873Z]   NEW: "Her Dark Protector" by Katelyn Brehm — narrated by Aiden Snow, Dani Soleil [US] 18 Jun 2026
+[2026-08-22T09:07:59.873Z]   NEW: "Dark Tangled Truths" by C.S. Berry — narrated by Angelina Rocca, Aiden Snow, Tim Paige, Michael Gallagher [US] 16 Jun 2026
+[2026-08-22T09:07:59.874Z]   NEW: "Damaged" by Reese Knightley — narrated by Aiden Snow [US] 16 Jun 2026
+[2026-08-22T09:07:59.874Z]   NEW: "Mister McHottie" by Pippa Grant — narrated by Ava Erickson, Aiden Snow [US] 11 Jun 2026
+[2026-08-22T09:07:59.874Z]   NEW: "Long Time Coming" by Elizabeth Bright — narrated by Rose Dioro, Aiden Snow, Bridget Bordeaux [US] 09 Jun 2026
+[2026-08-22T09:07:59.874Z]   NEW: "Power Forward" by Jodi Oliver — narrated by J. F. Harding, Kale Williams [US] 31 Mar 2026
+[2026-08-22T09:07:59.874Z]   NEW: "Red Zone" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "The Gilded Chain" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "The Gilded Cage" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "The Gilded Cuff" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "Choose the Bear" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "Oops I Hexed Him Again" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "Keeping Jennifer" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "Trust Goes Both Ways" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "Third Time Lucky: A Chain Reaction Spinoff" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "Sloane" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "The Same Blood" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "The Same Bones" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "Just for the Plot" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "Burning Her Resolve" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "Second Shot" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "On Ice" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.874Z]   NEW: "The Complete My Hockey Romance Collection" by Lauren Blakely — narrated by Samantha Brentmoor, J.F. Harding, Robert Hatchet, Jacob Morgan, Teddy Hamilton, Jason Clarke, Connor Crais, Angelina Rocca [US] 22 Jun 2026
+[2026-08-22T09:07:59.874Z]   NEW: "Wainscott Hollow" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "Lucifer: The Mate Games" by Meg Anne — narrated by Stella Hunter, Jason Clarke, James Joseph, J.F. Harding, Shane East, Teddy Hamilton, Aaron Shedlock [US] 06 Jun 2026
+[2026-08-22T09:07:59.875Z]   NEW: "Mutual Obsession" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "Rebound Control" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "My Big Fat Fake Wedding" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "Mutual Possession" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "Deadly Blooms" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "Pine for Me" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "Roundabout" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "Queen of Light" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "Crown of Embers" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "Ravage" by A. L. Rook — narrated by Amy Hall, J.F. Harding, Jason Clarke, Christian Fox, Jacob Morgan, Marie Hawkins, Jarman Day [US] 27 Mar 2026
+[2026-08-22T09:07:59.875Z]   NEW: "Fallen Hero" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "Reign of Ash" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "Mother of Shadows" by Unknown Author — narrated by J. F. Harding [US] 
+[2026-08-22T09:07:59.875Z]   NEW: "Escape Me" by Tahereh Mafi — narrated by Amanda Forstrom, Gabriel Michael, MacLeod Andrews [US] 29 Sept 2026
+[2026-08-22T09:07:59.875Z]   NEW: "Zenith Academy 4" by Cassius Lange — narrated by Jessica Threet, Gabriel Michael [US] 29 Sept 2026
+[2026-08-22T09:07:59.875Z]   NEW: "Scales of Flame" by Meghan Le Fay — narrated by Meg Sylvan, Gabriel Michael [US] 22 Sept 2026
+[2026-08-22T09:07:59.875Z]   NEW: "Cloud Nine" by Amanda Sinatra — narrated by Gabriel Michael, Olivia Wright [US] 11 Aug 2026
+[2026-08-22T09:07:59.876Z]   NEW: "A Promise of Ice and Spite" by S.W. Clarke — narrated by Meg Sylvan, Gabriel Michael [US] 06 Aug 2026
+[2026-08-22T09:07:59.876Z]   NEW: "To Rule a Kingdom of Nothing" by Blair Babylon — narrated by Gabriel Michael, Blair Babylon [US] 29 Jul 2026
+[2026-08-22T09:07:59.876Z]   NEW: "An Heir to Blood and Power" by Blair Babylon — narrated by Gabriel Michael, Blair Babylon [US] 22 Jul 2026
+[2026-08-22T09:07:59.876Z]   NEW: "The Enchanting Eclipse" by K. L. Leadingham — narrated by Rylee Kuberra, Gabriel Michael [US] 21 Jul 2026
+[2026-08-22T09:07:59.876Z]   NEW: "Rain of Shadows and Endings (1 of 2) [Dramatized Adaptation]" by Melissa K. Roehrich — narrated by Full Cast, Jessica Schly, Gabriel Michael, Donald Guzzi, Dawn Ursula, Stewart Crank, Michael Glenn, Kit Swann, Matthew Bassett, Christopher Tester, Richard Rohan, Katie Boothe [US] 30 Jun 2026
+[2026-08-22T09:07:59.876Z]   NEW: "A Prince of Smoke and Mirrors" by Blair Babylon — narrated by Gabriel Michael, Blair Babylon [US] 30 Jun 2026
+[2026-08-22T09:07:59.876Z]   NEW: "Crowns of Fate" by Anna Applegate — narrated by Jessica Threet, Gabriel Michael [US] 16 Jun 2026
+[2026-08-22T09:07:59.876Z]   NEW: "Storm to Victory" by Tara Grayce — narrated by Gabriel Michael, Rebecca Woods [US] 16 Jun 2026
+[2026-08-22T09:07:59.877Z]   NEW: "The Trouble with Love and Exposure" by Harriet Ashford — narrated by Gabriel Michael, Marie Mitchell [US] 12 Jun 2026
+[2026-08-22T09:07:59.877Z]   NEW: "Blood Queen" by Karolina Wilde — narrated by Tashi Thomas, Gabriel Michael [US] 09 Jun 2026
+[2026-08-22T09:07:59.877Z]   NEW: "Tides of Memory" by Laura A. Blake — narrated by Rylee Kuberra, Gabriel Michael [US] 02 Jun 2026
+[2026-08-22T09:07:59.877Z]   NEW: "The Throne of Broken Gods (1 of 2) [Dramatized Adaptation]" by Amber V. Nicole — narrated by Full Cast, Gabriel Michael, Fabiolla da Silva, Marissa Clay, Michael John Casey, Rayner Gabriel, Brandon Marlowe, Robb Moreira, Jessica Schly, James Lewis, Torian Brackett, Gerald Hill [US] 28 May 2026
+[2026-08-22T09:07:59.877Z]   NEW: "Wings of Life" by Meghan Le Fay — narrated by Meg Sylvan, Gabriel Michael [US] 26 May 2026
+[2026-08-22T09:07:59.877Z]   NEW: "Fury Bound" by Sable Sorensen — narrated by Avery Caris, Gabriel Michael, Sable Sorensen [US] 05 May 2026
+[2026-08-22T09:07:59.877Z]   NEW: "Elemental Awakening" by Bobbie Wirkmaa — narrated by Gabriel Michael, Jessica Threet [US] 05 May 2026
+[2026-08-22T09:07:59.877Z]   NEW: "Blood Beyond Darkness [Dramatized Adaptation]" by Stacey Marie Brown — narrated by Full Cast, Jessica Threet, Michael Glenn, Kay Elúvian, Elena Anderson, Michael John Casey, Gabriel Michael, Jonathon Church, Karen Novack, Nicole Shara, Niusha Nawab, Danny Montooth [US] 04 May 2026
+[2026-08-22T09:07:59.878Z]   NEW: "Grave Peril [Dramatized Adaptation]" by Jim Butcher — narrated by Full Cast Full Cast, Matthew Bassett, Wyn Delano, Nicole Perez, Nora Achrati, Gabriel Michael, Laura C. Harris, Christopher Walker, Jessica Threet, Julienne Irons, Erin Lin, Marlon Dance-Hooi [US] 30 Apr 2026
+[2026-08-22T09:07:59.878Z]   NEW: "Release Me" by Tahereh Mafi — narrated by Amanda Forstrom, Gabriel Michael, MacLeod Andrews [US] 07 Apr 2026
+[2026-08-22T09:07:59.878Z]   NEW: "Darkness of Mine" by Alexis Grace — narrated by Brooke Daniels, Gabriel Michael [US] 07 Apr 2026
+[2026-08-22T09:07:59.878Z]   NEW: "Winds of Death" by Tara Grayce — narrated by Gabriel Michael, Rebecca Woods [US] 10 Mar 2026
+[2026-08-22T09:07:59.878Z]   NEW: "Reign of Light" by Amanda Briar — narrated by Jacci Prior, Gabriel Michael [US] 05 Mar 2026
+[2026-08-22T09:07:59.878Z]   NEW: "Vicious Princess" by Karolina Wilde — narrated by Tashi Thomas, Gabriel Michael [US] 03 Mar 2026
+[2026-08-22T09:07:59.878Z]   NEW: "When Kingdoms Kneel" by N.M. Peterson — narrated by Jennifer Walbridge, Gabriel Michael [US] 03 Mar 2026
+[2026-08-22T09:07:59.878Z]   NEW: "In Another World with My Smartphone: Volume 12" by Patora Fuyuhara — narrated by Gabriel Michael, Ashely Biski [US] 10 Feb 2026
+[2026-08-22T09:07:59.878Z]   NEW: "Bonded Nightmare" by E. M. Rinaldi — narrated by Jaclyn Kelso, Gabriel Michael, Teddy Hamilton, Juniper West [US] 06 Feb 2026
+[2026-08-22T09:07:59.879Z]   NEW: "Vale of Dreams (Dramatized Adaptation)" by C. N. Crawford — narrated by full cast, Marissa Clay, Christopher Tester, Gabriel Michael, Holly Adams, Karenna Foley, Alex Hill-Knight, Crystal Lee, Jon Vertullo, Taylor Coan, Elena Anderson, Martin Dickinson [US] 27 Jan 2026
+[2026-08-22T09:07:59.879Z]   NEW: "Knot Her Catch" by Ari Wright — narrated by Gabriel Michael, Brooke Daniels [US] 27 Jan 2026
+[2026-08-22T09:07:59.879Z]   NEW: "Reckoning" by Gillian Eliza West — narrated by Gabriel Michael, Zara Eden [US] 27 Jan 2026
+[2026-08-22T09:07:59.879Z]   NEW: "Gold Mine" by R.L. Randolph — narrated by Kingsley Rose, Gabriel Michael, Keval Shah [US] 27 Jan 2026
+[2026-08-22T09:07:59.879Z]   NEW: "Cursed Fates (Part 2 of 2) (Dramatized Adaptation)" by Caroline Peckham — narrated by full cast, John Vertullo, Ryan Dalusung, Khaya Fraites, Gabriel Michael, Gregory Linington, Jessica Schly, Julian Dailey, Emlyn McFarland, Jonathan Sleep, Michael Glenn, Lydia Kraniotis [US] 26 Jan 2026
+[2026-08-22T09:07:59.879Z]   NEW: "The Shadow Accords" by Jaymin Eve — narrated by Michelle Sparks, Noel Harrison, Savannah Peachwood, Jason Clarke [US] 16 Feb 2027
+[2026-08-22T09:07:59.879Z]   NEW: "All My Love" by Daisy Jane — narrated by Daisy Jane, Jason Clarke [US] 10 Feb 2027
+[2026-08-22T09:07:59.879Z]   NEW: "Beneath a Midnight Moon" by Catherine Cowles — narrated by Andi Arndt, Adam Gold, Jason Clarke, Sebastian York, Teddy Hamilton, Connor Crais [US] 17 Nov 2026
+[2026-08-22T09:07:59.880Z]   NEW: "Shield of Sparrows" by Devney Perry — narrated by Samantha Brentmoor, Jason Clarke [US] 20 Oct 2026
+[2026-08-22T09:07:59.880Z]   NEW: "Never Been Tamed" by Corinne Michaels — narrated by Jason Clarke, Desireé Ketchum [US] 06 Oct 2026
+[2026-08-22T09:07:59.880Z]   NEW: "Taking Sides: A Hockey Romance" by Rebecca Jenshak — narrated by Austin Stone, Lucy Rivers, Ryan Lee Dunlap, Christian Fox, Teddy Hamilton, Jason Clarke, Erin Mallon, Savannah Peachwood, Mollie Stark [US] 29 Sept 2026
+[2026-08-22T09:07:59.880Z]   NEW: "What He Always Knew" by Kandi Steiner — narrated by Erin Mallon, Jason Clarke, Sebastian York [US] 15 Sept 2026
+[2026-08-22T09:07:59.880Z]   NEW: "What About Us" by Kristen Proby — narrated by Liam Cortright, Savannah Thomas, Sebastian York, Samantha Brentmoor, Stella Hunter, Jason Clarke, Connor Crais, Avery Caris, Kat Auden [US] 10 Sept 2026
+[2026-08-22T09:07:59.880Z]   NEW: "Pretend It’s Forever" by Carrie Ann Ryan — narrated by Jason Clarke, Emma Wilder [US] 07 Sept 2026
+[2026-08-22T09:07:59.880Z]   NEW: "Crown of Crimson and Crows" by Tessa Hale — narrated by Vanessa Moyen, Jason Clarke, Shane East, Connor Crais, Anthony Palmini, Samantha Brentmoor, James Cassidy [US] 01 Sept 2026
+[2026-08-22T09:07:59.880Z]   NEW: "What He Doesn't Know" by Kandi Steiner — narrated by Erin Mallon, Jason Clarke, Sebastian York [US] 18 Aug 2026
+[2026-08-22T09:07:59.880Z]   NEW: "The Brewer Family Series Collection" by Adriana Locke — narrated by John Lane, Avery Caris, Sebastian York, Amy McFadden, Jason Clarke, Lexi Maynard, Angelina Rocca, Jack Calihan, Lance Greenfield, Janice Granda [US] 13 Aug 2026
+[2026-08-22T09:07:59.881Z]   NEW: "He Falls First" by Brighton Walsh — narrated by Vanessa Edwin, Connor Crais, Stephanie Rose, Emma Wilder, Jason Clarke, Savannah Peachwood, JF Harding, Stella Hunter, Lucy Rivers [US] 30 Jul 2026
+[2026-08-22T09:07:59.881Z]   NEW: "The Name in Lights: Special Edition Box Set" by Kayley Loring — narrated by Erin Mallon, Jason Clarke, Emma Wilder, Connor Crais, JF Harding, Teddy Hamilton [US] 21 Jul 2026
+[2026-08-22T09:07:59.881Z]   NEW: "The Easter Hunt" by Kitty Thomas — narrated by Jason Clarke, Meg Sylvan [US] 21 Jul 2026
+[2026-08-22T09:07:59.881Z]   NEW: "My Violent Valentine" by Kitty Thomas — narrated by Jason Clarke, Meg Sylvan [US] 21 Jul 2026
+[2026-08-22T09:07:59.881Z]   NEW: "Yuletide Slay Ride" by Kitty Thomas — narrated by Meg Sylvan, Jason Clarke [US] 21 Jul 2026
+[2026-08-22T09:07:59.881Z]   NEW: "Foxx" by Paisley Hope — narrated by Jason Clarke, Samantha Brentmoor [US] 14 Jul 2026
+[2026-08-22T09:07:59.881Z]   NEW: "Savage King" by Natalie Kane — narrated by Jason Clarke, Mollie Stark [US] 09 Jul 2026
+[2026-08-22T09:07:59.881Z]   NEW: "Campus Wallflowers Box Set" by Rebecca Jenshak — narrated by Emma Wilder, Lee Samuels, Tim Paige, Cindy Kay, Jason Clarke, Erin Mallon, Jacob Morgan, Ava Erickson [US] 09 Jul 2026
+[2026-08-22T09:07:59.882Z]   NEW: "Into the Fading Twilight" by Catherine Cowles — narrated by Sebastian York, Brittany Pressley, Jason Clarke, Adam Gold, Teddy Hamilton, Connor Crais [US] 07 Jul 2026
+[2026-08-22T09:07:59.882Z]   NEW: "Single in Seattle Box Set" by Kristen Proby — narrated by Jason Clarke, Erin Mallon, Tim Paige, Andi Arndt, Robert Hatchet, Emma Wilder, Lance Greenfield, Kirsten Leigh, Joe Arden [US] 06 Jul 2026
+[2026-08-22T09:07:59.882Z]   NEW: "The Love and Hockey Collection" by Lauren Blakely — narrated by Erin Mallon, Connor Crais, Vanessa Edwin, Teddy Hamilton, Robert Hatchet, Samantha Brentmoor, Jason Clarke, Brooke Bloomingdale, Shane East, Evan Parker [US] 03 Jul 2026
+[2026-08-22T09:07:59.882Z]   NEW: "The Westcott Collection: Complete Series" by S.L. Scott — narrated by Ava Erickson, Jason Morgan, Chris Brinkley, Savannah Peachwood, Jason Clarke, CJ Bloom, Sebastian York [US] 02 Jul 2026
+[2026-08-22T09:07:59.882Z]   NEW: "Brutal Secret" by Laurelin Paige — narrated by Vanessa Edwin, Jason Clarke [US] 26 Jun 2026
+[2026-08-22T09:07:59.882Z]   NEW: "Night Witch" by Jaymin Eve — narrated by Jason Clarke, Savannah Peachwood [US] 23 Jun 2026
+[2026-08-22T09:07:59.882Z]   NEW: "Our Pain Our Pleasure" by JA Huss — narrated by Jason Clarke, Samantha Summers, Will Watt [US] 23 Jun 2026
+[2026-08-22T09:07:59.882Z]   NEW: "Pretty Little Scars" by Kristen Proby — narrated by Sebastian York, Samantha Brentmoor, Christian Fox, Stella Hunter, Jason Clarke, Connor Crais, Savannah Thomas, Avery Caris [US] 18 Jun 2026
+[2026-08-22T09:07:59.883Z]   NEW: "The Refuge Box Set 2, Books 5-7" by Susan Stoker — narrated by Emma Wilder, Aaron Shedlock, Maxine Mitchell, Mackenzie Cartwright, Jason Clarke [US] 16 Jun 2026
+[2026-08-22T09:07:59.883Z]   NEW: "Rockaway Bride" by Pippa Grant — narrated by Savannah Peachwood, Jason Clarke [US] 11 Jun 2026
+[2026-08-22T09:07:59.883Z]   NEW: "St. Mary's Rebels Box Set, Volume 1" by Saffron A. Kent — narrated by Jason Clarke, Sarah Puckett, Stefanie Kay, Gideon Frost [US] 04 Jun 2026
+[2026-08-22T09:07:59.883Z]   NEW: "Just Playing for Keeps" by Lauren Blakely — narrated by Erin Mallon, Jason Clarke, Savannah Thomas, Ryan West [US] 03 Jun 2026
+[2026-08-22T09:07:59.883Z]   NEW: "His Game His Rules" by JA Huss — narrated by Jason Clarke, Samantha Summers [US] 26 May 2026
+[2026-08-22T09:07:59.883Z]   NEW: "Spring Fling" by Carrie Ann Ryan — narrated by Emma Wilder, Jason Clarke, Tim Paige [US] 15 May 2026
+[2026-08-22T09:07:59.883Z]   NEW: "Desire" by Chelle Bliss — narrated by Jason Clarke, Samantha Brentmoor [US] 15 May 2026
+[2026-08-22T09:07:59.883Z]   NEW: "Intensification" by Jo Michaels — narrated by Jason Clarke [US] 15 May 2026
+[2026-08-22T09:07:59.883Z]   NEW: "Pink Sand Summer" by Chassity Evans — narrated by Erin Mallon, Jason Clarke [US] 12 May 2026
+[2026-08-22T09:07:59.884Z]   NEW: "The Rules We Break" by Kendall Ryan — narrated by Shane East, Stella Bloom [US] 07 Jan 2027
+[2026-08-22T09:07:59.884Z]   NEW: "Patience" by Carrie Ann Ryan — narrated by Shane East, Emma Wilder [US] 14 Dec 2026
+[2026-08-22T09:07:59.884Z]   NEW: "Kissed by Christmas" by Multiple Authors — narrated by Troy Duran, Zara Hampton-Brown, Shane East, Nicolette Chin, Anushka Chakravarti, Mela Lee, Brittany Pressley [US] 26 Nov 2026
+[2026-08-22T09:07:59.884Z]   NEW: "The London Man: A British Billionaire Romance" by Louise Bay — narrated by Samantha Brentmoor, Shane East [US] 10 Nov 2026
+[2026-08-22T09:07:59.884Z]   NEW: "Deal Breaker" by Susie Tate — narrated by Shane East, Zara Hampton Brown [US] 03 Nov 2026
+[2026-08-22T09:07:59.884Z]   NEW: "East of Envy" by Nikki St. Crowe — narrated by Connor Crais, Eden O'Neill, Ellie Gossage, Mark Bramhall, Sean Masters, Shane East, Stella Hunter [US] 03 Nov 2026
+[2026-08-22T09:07:59.884Z]   NEW: "Fifth Avenue Flirt" by Louise Bay — narrated by Samantha Brentmoor, Shane East [US] 23 Sept 2026
+[2026-08-22T09:07:59.885Z]   NEW: "Until I Remember" by Karla Sorensen — narrated by Shane East, Samantha Brentmoor [US] 22 Sept 2026
+[2026-08-22T09:07:59.885Z]   NEW: "The Wretched Divine" by Adalyn Grace — narrated by Kristin Atherton, Major Curda, Marisa Calin, Shane East [US] 22 Sept 2026
+[2026-08-22T09:07:59.885Z]   NEW: "Tempest" by Victoria Aveyard — narrated by Fiona Hardingham, Shane East [US] 08 Sept 2026
+[2026-08-22T09:07:59.885Z]   NEW: "Burning Sea" by Donna Grant — narrated by Shane East [US] 25 Aug 2026
+[2026-08-22T09:07:59.885Z]   NEW: "5 in 1 Enemies to Lovers Audiobook Collection - 5 Full Audiobooks - 1 Low Price" by Mariah Stone — narrated by Shane East, Justine Eyre [US] 19 Aug 2026
+[2026-08-22T09:07:59.885Z]   NEW: "Bedeviled" by Laura Thalassa — narrated by Stella Bloom, Shane East [US] 18 Aug 2026
+[2026-08-22T09:07:59.885Z]   NEW: "Devour Me" by Emily Rath — narrated by Megan Wicks, Shane East, Gregory Salinas [US] 04 Aug 2026
+[2026-08-22T09:07:59.885Z]   NEW: "For Real" by Alexis Hall — narrated by Shane East, Kishore Walker [US] 04 Aug 2026
+[2026-08-22T09:07:59.886Z]   NEW: "The Never Queen" by Nikki St. Crowe — narrated by Stella Hunter, Shane East, Diontae Black, Curtis Michael Holland [US] 03 Aug 2026
+[2026-08-22T09:07:59.886Z]   NEW: "Vampire Royals - Dorian" by Sarah Piper — narrated by Shane East, Mackenzie Cartwright [US] 03 Aug 2026
+[2026-08-22T09:07:59.886Z]   NEW: "Vampire Royals - Gabriel" by Sarah Piper — narrated by Shane East, Vanessa Edwin [US] 03 Aug 2026
+[2026-08-22T09:07:59.886Z]   NEW: "Pride Comes Before a Fall" by Virginia Heath — narrated by Eva Feiler, Shane East [US] 28 Jul 2026
+[2026-08-22T09:07:59.886Z]   NEW: "The Davenports Box Set" by L. Steele — narrated by Shane East, Roxy Isles, Stella Hunter, Evelyn Rose, Ava Lucas, Lulu Russell, Mackenzie Cartwright, Samantha Brentmoor [US] 23 Jul 2026
+[2026-08-22T09:07:59.886Z]   NEW: "The Ice Queen Billionaire" by Zoe Dod — narrated by Shane East, Zara Hampton-Brown [US] 21 Jul 2026
+[2026-08-22T09:07:59.886Z]   NEW: "Ache of Chaos" by Randi Garner — narrated by Shane East, Laura Horowitz, Ash Beverly [US] 14 Jul 2026
+[2026-08-22T09:07:59.886Z]   NEW: "Devotion: Isn't What It Seems" by Eva Winners — narrated by Shane East, Vivienne LaRue [US] 09 Jul 2026
+[2026-08-22T09:07:59.887Z]   NEW: "Tyler's Rule" by Jolie Vines — narrated by Zara Hampton-Brown, Lucas Webley, Shane East, Ella Lynch [US] 07 Jul 2026
+[2026-08-22T09:07:59.887Z]   NEW: "The Full Throttle Collection" by K. Bromberg — narrated by Shane East, Carly Robins [US] 06 Jul 2026
+[2026-08-22T09:07:59.887Z]   NEW: "The Good Witch's Guide to Bad Choices" by Sarah Piper — narrated by Shane East, Samantha Brentmoor [US] 02 Jul 2026
+[2026-08-22T09:07:59.887Z]   NEW: "Messages from the Mafia Boss" by Evie Rose — narrated by Shane East, Evelyn Rose [US] 23 Jun 2026
+[2026-08-22T09:07:59.887Z]   NEW: "Manhattan Kiss" by Louise Bay — narrated by Shane East, Zara Hampton-Brown [US] 16 Jun 2026
+[2026-08-22T09:07:59.887Z]   NEW: "Prince of Storms" by Kit Rocha — narrated by Tim Campbell, Avery Caris, Shane East [US] 16 Jun 2026
+[2026-08-22T09:07:59.887Z]   NEW: "The Heir" by Elodie Hart — narrated by Shane East, Zara Hampton-Brown [US] 12 Jun 2026
+[2026-08-22T09:07:59.887Z]   NEW: "The Rival Upgrade" by Lauren Blakely — narrated by Erin Mallon, Shane East, Evan Parker [US] 07 Jun 2026
+[2026-08-22T09:07:59.887Z]   NEW: "The Unwilling Bride" by L. Steele — narrated by Shane East, Evelyn Rose, Roxy Isles [US] 02 Jun 2026
+[2026-08-22T09:07:59.888Z]   NEW: "Law Maker" by Susie Tate — narrated by Shane East, Zara Hampton Brown [US] 02 Jun 2026
+[2026-08-22T09:07:59.888Z]   NEW: "Not Mine to Love" by Rosa Lucas — narrated by Shane East, Zara Hampton-Brown [US] 15 May 2026
+[2026-08-22T09:07:59.888Z]   NEW: "All Hail Chaos" by Sarah Rees Brennan — narrated by Moira Quirk, Shane East [US] 12 May 2026
+[2026-08-22T09:07:59.888Z]   NEW: "Affection: Isn’t What It Seems" by Eva Winners — narrated by Shane East, Zara Hampton-Brown [US] 11 May 2026
+[2026-08-22T09:07:59.888Z]   NEW: "Sweet Hate" by Canea Cox — narrated by Andi Eloise, Christian Fox [US] 31 Jul 2026
+[2026-08-22T09:07:59.888Z]   NEW: "American Dreamer" by Adriana Herrera — narrated by Oscar Reyes, Christian Fox [US] 21 Jul 2026
+[2026-08-22T09:07:59.888Z]   NEW: "Never the Same" by Brittney Sahin — narrated by Christian Fox, Stella Bloom [US] 07 Jul 2026
+[2026-08-22T09:07:59.888Z]   NEW: "Cruel Summer" by C.W. Farnsworth — narrated by Christian Fox, Avery Caris [US] 04 May 2026
+[2026-08-22T09:07:59.889Z]   NEW: "Thrive" by Krista Ritchie — narrated by Christian Fox, Ava Erickson, Teddy Hamilton, Savannah Peachwood, Victoria Connolly, Lee Samuels [US] 28 Apr 2026
+[2026-08-22T09:07:59.889Z]   NEW: "The Promise of Forever" by Morgan Elizabeth — narrated by Angelina Rocca, Christian Fox [US] 21 Apr 2026
+[2026-08-22T09:07:59.889Z]   NEW: "Addicted for Now" by Krista Ritchie — narrated by Victoria Connolly, Teddy Hamilton, Ava Erickson, Lee Samuels, Christian Fox, Savannah Peachwood [US] 24 Mar 2026
+[2026-08-22T09:07:59.889Z]   NEW: "Things That Break Us" by Michelle Heard — narrated by Chloe Ryan, Christian Fox [US] 17 Mar 2026
+[2026-08-22T09:07:59.889Z]   NEW: "Until the Stars Fall" by Nate Wilder — narrated by Christian Fox, Stella Hunter [US] 16 Mar 2026
+[2026-08-22T09:07:59.889Z]   NEW: "Keeping Score: A Hockey Romance" by Rebecca Jenshak — narrated by Christian Fox, Savannah Peachwood, Ryan Lee Dunlap, Erin Mallon, Austin Stone, Teddy Hamilton, Jason Clarke [US] 24 Feb 2026
+[2026-08-22T09:07:59.889Z]   NEW: "Broken Saint" by Tracy Lorraine — narrated by Stella Hunter, Christian Fox [US] 20 Feb 2026
+[2026-08-22T09:07:59.889Z]   NEW: "Kiss the Sky" by Krista Ritchie — narrated by Christian Fox, Ava Erickson, Savannah Peachwood, Lee Samuels [US] 10 Feb 2026
+[2026-08-22T09:07:59.890Z]   NEW: "Petty in Pink" by L.J. Shen — narrated by Erin Mallon, Christian Fox [US] 03 Feb 2026
+[2026-08-22T09:07:59.890Z]   NEW: "West Bound" by Maggie Rawdon — narrated by Christian Fox, Stella Hunter [US] 20 Jan 2026
+[2026-08-22T09:07:59.890Z]   NEW: "Stone Brothers Box Set: The Complete Series" by Tess Oliver — narrated by C.J. Bloom, Mason Lloyd, Maxine Mitchell, Joe Arden, Lucy Rivers, Christian Fox [US] 14 Jan 2026
+[2026-08-22T09:07:59.890Z]   NEW: "Grim: The Mate Games" by Meg Anne — narrated by Stella Hunter, Jason Clarke, James Joseph, J.F. Harding, Shane East, Teddy Hamilton, Christian Fox [US] 01 Dec 2025
+[2026-08-22T09:07:59.890Z]   NEW: "Ricochet" by Krista Ritchie — narrated by Victoria Connolly, Teddy Hamilton, Savannah Peachwood, Christian Fox, Ava Erickson, Lee Samuels [US] 25 Nov 2025
+[2026-08-22T09:07:59.890Z]   NEW: "Campus Crush" by Cadence Keys — narrated by Christian Fox, Celia Stone [US] 13 Nov 2025
+[2026-08-22T09:07:59.890Z]   NEW: "Lucky Shot: A Hockey Romance" by Rebecca Jenshak — narrated by Ryan Lee Dunlap, Erin Mallon, Savannah Peachwood, Christian Fox, Austin Stone, Teddy Hamilton, Jason Clarke [US] 11 Nov 2025
+[2026-08-22T09:07:59.890Z]   NEW: "Before Now" by C.G. Blaine — narrated by M.K. Blackwood, Christian Fox [US] 15 Oct 2025
+[2026-08-22T09:07:59.890Z]   NEW: "Take This Heart" by Willow Aster — narrated by Andi Arndt, Christian Fox [US] 09 Oct 2025
+[2026-08-22T09:07:59.891Z]   NEW: "Choosing Forever" by Hannah Cowan — narrated by Angelina Rocca, Christian Fox [US] 08 Oct 2025
+[2026-08-22T09:07:59.891Z]   NEW: "Maneater" by Morgan Elizabeth — narrated by Amy Hall, Christian Fox [US] 30 Sept 2025
+[2026-08-22T09:07:59.891Z]   NEW: "Inside The Maelstrom" by Grace McGinty — narrated by Grayson Owen, Juno Cooper, Christian Fox [US] 10 Sept 2025
+[2026-08-22T09:07:59.891Z]   NEW: "Malice" by Meg Anne — narrated by Stella Hunter, Jason Clarke, James Joseph, J.F. Harding, Shane East, Teddy Hamilton, Christian Fox [US] 11 Aug 2025
+[2026-08-22T09:07:59.891Z]   NEW: "Make Me Yours" by Jennifer Sucevic — narrated by Vanessa Edwin, Christian Fox [US] 29 Jul 2025
+[2026-08-22T09:07:59.891Z]   NEW: "Cruel Malady" by Trisha Wolfe — narrated by Heather Firth, Christian Fox, Samantha Brentmoor, Jacob Morgan [US] 23 Jul 2025
+[2026-08-22T09:07:59.891Z]   NEW: "Where You're Planted" by Melanie Sweeney — narrated by Brittany Pressley, Christian Fox [US] 08 Jul 2025
+[2026-08-22T09:07:59.891Z]   NEW: "Jake Undone" by Penelope Ward — narrated by Desireé Ketchum, Christian Fox [US] 18 Jun 2025
+[2026-08-22T09:07:59.892Z]   NEW: "Jake Understood" by Penelope Ward — narrated by Christian Fox, Desireé Ketchum [US] 18 Jun 2025
+[2026-08-22T09:07:59.892Z]   NEW: "Spotlight" by Rebecca Jenshak — narrated by Christian Fox, Samantha Summers [US] 23 May 2025
+[2026-08-22T09:07:59.892Z]   NEW: "Crowne Rules" by CD Reiss — narrated by Emma Wilder, Christian Fox [US] 15 May 2025
+[2026-08-22T09:07:59.892Z]   NEW: "The Best of Us" by Brittney Sahin — narrated by Christian Fox, Ava Lucas, Connor Crais, Tim Paige, Liam DiCosimo [US] 14 May 2025
+[2026-08-22T09:07:59.892Z]   NEW: "The Match" by Layla Hagen — narrated by Erin Mallon, Christian Fox [US] 09 May 2025
+[2026-08-22T09:07:59.892Z]   NEW: "Fay Weldon: A BBC Radio Collection" by Unknown Author — narrated by Christian Fox [US] 
+[2026-08-22T09:07:59.892Z]   NEW: "Beneath Still Waters" by Linny Mack — narrated by Andi Arndt, Corvin King [US] 08 Dec 2026
+[2026-08-22T09:07:59.892Z]   NEW: "What to Do When Your K-9 Adopts Another Demon" by Trista Ricketts — narrated by Corvin King [US] 10 Nov 2026
+[2026-08-22T09:07:59.892Z]   NEW: "Lavender Hill" by Aurora Rose Reynolds — narrated by Shiloh James, Corvin King [US] 13 Oct 2026
+[2026-08-22T09:07:59.893Z]   NEW: "House of Byrne" by H.B. Elliott — narrated by Lauren Beck, Corvin King [US] 29 Sept 2026
+[2026-08-22T09:07:59.893Z]   NEW: "In the Dark" by Shain Rose — narrated by Corvin King, Elena Wolfe [US] 29 Sept 2026
+[2026-08-22T09:07:59.893Z]   NEW: "Sorrow & Strangers" by Jeanette Rose — narrated by Corvin King, Mercedes Manning [US] 08 Sept 2026
+[2026-08-22T09:07:59.893Z]   NEW: "I'll Be There for You" by Jessa Halliwell — narrated by Corvin King, Arya Jacobs [US] 08 Sept 2026
+[2026-08-22T09:07:59.893Z]   NEW: "Dirty Little Secret" by Samantha Barrett — narrated by Autumn Ivy, Joe Arden, Anthony Palmini, Corvin King [US] 25 Aug 2026
+[2026-08-22T09:07:59.893Z]   NEW: "Interlude" by Lexie Winston — narrated by Bridget Bordeaux, Jake Bordeaux, James Amherst, Corvin King, Daryl Mayfield [US] 18 Aug 2026
+[2026-08-22T09:07:59.893Z]   NEW: "Chasing the Rush" by Lauren Rowe — narrated by Andi Arndt, Corvin King [US] 28 Jul 2026
+[2026-08-22T09:07:59.893Z]   NEW: "Cruel Savior" by Lilith Vincent — narrated by Corvin King, Chloe Ryan [US] 22 Jul 2026
+[2026-08-22T09:07:59.893Z]   NEW: "Devour" by Abigail Glenn — narrated by Liam DiCosimo, Corvin King [US] 21 Jul 2026
+[2026-08-22T09:07:59.894Z]   NEW: "How To Tell If Your K-9 Is A Demon" by Trista Ricketts — narrated by Corvin King [US] 14 Jul 2026
+[2026-08-22T09:07:59.894Z]   NEW: "Breathe Me In" by J.L. Drake — narrated by Stella Hunter, Corvin King [US] 30 Jun 2026
+[2026-08-22T09:07:59.894Z]   NEW: "Mate of a Royal" by Meagan Brandy — narrated by Aubrey Vincent, Corvin King [US] 23 Jun 2026
+[2026-08-22T09:07:59.894Z]   NEW: "Their Twisted Rules" by C.S. Berry — narrated by Mollie Stark, Lee Samuels, Michael Gallagher, E.M. Wylde, Corvin King, Derek Prince [US] 11 Jun 2026
+[2026-08-22T09:07:59.894Z]   NEW: "Love with Strings: The Complete Boxset" by Nikki Ash — narrated by Michael Gallagher, Sarah Puckett, Teddy Hamilton, Kelsey Navarro, Corvin King [US] 04 Jun 2026
+[2026-08-22T09:07:59.894Z]   NEW: "Whispers in the Dark" by Kalista Neith — narrated by Autumn Ivy, Corvin King [US] 22 May 2026
+[2026-08-22T09:07:59.894Z]   NEW: "The Ballad of Falling Dragons" by Sarah A. Parker — narrated by Sarah Mollo-Christensen, Fajer Al-Kaisi, Heather Firth, Caitlin Kelly, Corvin King, Alexander Cendese [US] 19 May 2026
+[2026-08-22T09:07:59.894Z]   NEW: "Their Dangerous Game" by C.S. Berry — narrated by Mollie Stark, Lee Samuels, Michael Gallagher, E.M. Wylde, Corvin King, Derek Prince [US] 18 May 2026
+[2026-08-22T09:07:59.895Z]   NEW: "Prey for Me" by C.J. Sweet — narrated by Lucy Rivers, Andi Eloise, Corvin King, Joe Arden [US] 07 May 2026
+[2026-08-22T09:07:59.895Z]   NEW: "Souls in Ruin" by Jacqueline White — narrated by Corvin King, Meg Sylvan, E.M. Wylde [US] 28 Apr 2026
+[2026-08-22T09:07:59.895Z]   NEW: "Of Blackened Blood" by Isla Davon — narrated by Desireé Ketchum, Corvin King [US] 28 Apr 2026
+[2026-08-22T09:07:59.895Z]   NEW: "Ringmaster" by Lexie Winston — narrated by Bridget Bordeaux, Jake Bordeaux, James Amherst, Corvin King, Daryl Mayfield [US] 24 Apr 2026
+[2026-08-22T09:07:59.895Z]   NEW: "One Night Surrender" by Katelyn Taylor — narrated by Andi Eloise, Corvin King [US] 21 Apr 2026
+[2026-08-22T09:07:59.895Z]   NEW: "Twisted Pawn" by L. J. Shen — narrated by Stephen Dexter, Lucy Rivers, Corvin King, Lila Winters [US] 07 Apr 2026
+[2026-08-22T09:07:59.895Z]   NEW: "Rugged Hearts, Part One" by Giulia Marietti — narrated by Bridget Bordeaux, Jake Bordeaux, Daryl Mayfield, Corvin King, Tor Thom, Jarman Day, James Amherst [US] 31 Mar 2026
+[2026-08-22T09:07:59.895Z]   NEW: "Tarek" by KT Adler — narrated by Corvin King, Alyx Monroe [US] 24 Mar 2026
+[2026-08-22T09:07:59.895Z]   NEW: "Blood & Betrayals" by Jeanette Rose — narrated by Corvin King, Mercedes Manning [US] 17 Mar 2026
+[2026-08-22T09:07:59.896Z]   NEW: "Unveil" by Greer Rivers — narrated by Mollie Stark, Corvin King [US] 11 Mar 2026
+[2026-08-22T09:07:59.896Z]   NEW: "Performer" by Lexie Winston — narrated by Bridget Bordeaux, Jake Bordeaux, James Amherst, Corvin King, Daryl Mayfield [US] 10 Mar 2026
+[2026-08-22T09:07:59.896Z]   NEW: "Commit" by Candice Wright — narrated by Raven Wildewood, Andi Eloise, James Cassidy, Corvin King, Bryant Walker [US] 05 Mar 2026
+[2026-08-22T09:07:59.896Z]   NEW: "Bride by Ritual" by Maggie Cole — narrated by Alyssa Avery, Corvin King [US] 27 Feb 2026
+[2026-08-22T09:07:59.896Z]   NEW: "Twisted Violet" by Jessa Halliwell — narrated by Nikki Monroe, Corvin King [US] 10 Feb 2026
+[2026-08-22T09:07:59.896Z]   NEW: "Morally Grey" by Lauren Biel — narrated by Corvin King, Vivienne Larue [US] 09 Feb 2026
+[2026-08-22T09:07:59.896Z]   NEW: "Compel" by Candice Wright — narrated by Desiree Ketchum, Andi Eloise, Bryant Walker, Corvin King, James Cassidy [US] 03 Feb 2026
+[2026-08-22T09:07:59.896Z]   NEW: "Drawn Under" by Elliott Rose — narrated by Sean Masters, Meg Sylvan [US] 23 Feb 2027
+[2026-08-22T09:07:59.897Z]   NEW: "Desk & Deception" by Wren Shaw — narrated by Sean Masters, Avery Caris [US] 23 Feb 2027
+[2026-08-22T09:07:59.897Z]   NEW: "Bound by Tide" by Aaron McLean — narrated by Sean Masters, Raven Wildewood [US] 26 Jan 2027
+[2026-08-22T09:07:59.897Z]   NEW: "Brutally Yours" by Jamie Applegate Hunter — narrated by Nikki Grey, Sean Masters [US] 19 Jan 2027
+[2026-08-22T09:07:59.897Z]   NEW: "Sin Bin" by Chelsea Curto — narrated by Sean Masters, Vanessa Edwin [US] 08 Dec 2026
+[2026-08-22T09:07:59.897Z]   NEW: "Take My Heart: A Dark Mafia Romance" by Lola King — narrated by Sean Masters, Michelle Price [US] 24 Nov 2026
+[2026-08-22T09:07:59.897Z]   NEW: "Fate Spinner" by T.L. Smith — narrated by Avery Caris, Sean Masters [US] 17 Nov 2026
+[2026-08-22T09:07:59.897Z]   NEW: "Betrayed Throne" by Zoe Blake — narrated by Sean Masters, Charlotte Claremont [US] 17 Nov 2026
+[2026-08-22T09:07:59.897Z]   NEW: "Forsaking All Others" by Giana Darling — narrated by Rose Dioro, Sean Masters [US] 10 Nov 2026
+[2026-08-22T09:07:59.898Z]   NEW: "Broken Crown" by Zoe Blake — narrated by Sean Masters, Charlotte Claremont [US] 20 Oct 2026
+[2026-08-22T09:07:59.898Z]   NEW: "Savage Heart" by Willow Aster — narrated by Chloe Ryan, Sean Masters [US] 06 Oct 2026
+[2026-08-22T09:07:59.898Z]   NEW: "What Remains" by Brittney Sahin — narrated by Sean Masters, Sarah Sampino [US] 24 Sept 2026
+[2026-08-22T09:07:59.898Z]   NEW: "The Sweetest Fiend" by Raven Kennedy — narrated by Isabelle Turner, Sean Masters [US] 22 Sept 2026
+[2026-08-22T09:07:59.898Z]   NEW: "Brutal Heir" by Zoe Blake — narrated by Sean Masters, Charlotte Claremont [US] 22 Sept 2026
+[2026-08-22T09:07:59.898Z]   NEW: "Fame & Fakery" by Wren Shaw — narrated by Sean Masters, Avery Caris [US] 15 Sept 2026
+[2026-08-22T09:07:59.898Z]   NEW: "When Sisters Collide" by S. E. Bouvier — narrated by Stephanie Németh-Parker, Sean Masters [US] 08 Sept 2026
+[2026-08-22T09:07:59.898Z]   NEW: "Vameer" by S.J. Tilly — narrated by Samantha Brentmoor, Walker Williams, Chloe Ryan, Sean Masters [US] 03 Sept 2026
+[2026-08-22T09:07:59.898Z]   NEW: "When the Smoke Clears" by Jewel E. Ann — narrated by Sean Masters, Natasha Chandel [US] 25 Aug 2026
+[2026-08-22T09:07:59.899Z]   NEW: "Arcadia" by Saint Bryde — narrated by Evelyn Rose, Sean Masters, Anthony Palmini [US] 18 Aug 2026
+[2026-08-22T09:07:59.899Z]   NEW: "Don't Say Mafia: A Mafia Romance" by C.R. Jane — narrated by Sean Masters, Alexis Paige [US] 18 Aug 2026
+[2026-08-22T09:07:59.899Z]   NEW: "Scarred Angel" by Elle Maldonado — narrated by Sean Masters, Janine Granda [US] 18 Aug 2026
+[2026-08-22T09:07:59.899Z]   NEW: "Poisoned Kingdom" by Olena Nikitin — narrated by Sean Masters, Isabelle Turner [US] 11 Aug 2026
+[2026-08-22T09:07:59.899Z]   NEW: "Players Club Sinners Box Set (Books #1-#3)" by Erika Wilde — narrated by Rose Dioro, Sean Masters [US] 11 Aug 2026
+[2026-08-22T09:07:59.899Z]   NEW: "Blackguard Security: Phantom Boxset 1: Books 1-3" by Elizabella Baker — narrated by Isabelle Turner, Lark Holloway, Amy Hall, JF Harding, Sean Masters, Sebastian York [US] 10 Aug 2026
+[2026-08-22T09:07:59.899Z]   NEW: "Set It Right" by Julia Wolf — narrated by Emma Wilder, Sean Masters [US] 04 Aug 2026
+[2026-08-22T09:07:59.899Z]   NEW: "Only Theirs" by Kennedy L. Mitchell — narrated by Sean Masters, Stephanie Wyles [US] 04 Aug 2026
+[2026-08-22T09:07:59.900Z]   NEW: "Fractured Promise" by Ivy Layne — narrated by Lucy Rivers, Sean Masters [US] 31 Jul 2026
+[2026-08-22T09:07:59.900Z]   NEW: "Stanton Bliss" by T L Swan — narrated by Sofia Lette, Sean Masters [US] 24 Jul 2026
+[2026-08-22T09:07:59.900Z]   NEW: "Stanton Completely" by T L Swan — narrated by Sofia Lette, Sean Masters [US] 24 Jul 2026
+[2026-08-22T09:07:59.900Z]   NEW: "One More Round" by Amber Palmer — narrated by Samantha Brentmoor, Sean Masters [US] 21 Jul 2026
+[2026-08-22T09:07:59.900Z]   NEW: "Only the Lucky" by Isabel Jolie — narrated by Grace Noble, Sean Masters [US] 21 Jul 2026
+[2026-08-22T09:07:59.900Z]   NEW: "Bratva Menace: A Dark Mafia Romance" by T. J. Maguire — narrated by Sean Masters, Alexis Crusher [US] 14 Jul 2026
+[2026-08-22T09:07:59.900Z]   NEW: "A Very Good Bad Idea" by Emma Chase — narrated by Sean Masters, Brooke Bloomingdale [US] 09 Jul 2026
+[2026-08-22T09:07:59.900Z]   NEW: "Possession" by Chelle Rose — narrated by Amanda Willow, James Cassidy, Joe Arden, Sean Masters [US] 09 Jul 2026
+[2026-08-22T09:07:59.901Z]   NEW: "Falling for the Rockstar at Christmas" by Lyndsey Gallagher — narrated by Avery Caris, Sean Masters [US] 08 Jul 2026
+[2026-08-22T09:07:59.901Z]   NEW: "Hunted: An Epic Romantasy" by Elayna R. Gallea — narrated by Sean Masters, Lilly Drake [US] 07 Jul 2026
+[2026-08-22T09:07:59.901Z]   NEW: "Cake & Consequences" by Wren Shaw — narrated by Sean Masters, Avery Caris [US] 07 Jul 2026
+[2026-08-22T09:07:59.901Z]   NEW: "Playing with Surrender" by Erika Wilde — narrated by Rose Dioro, Sean Masters [US] 07 Jul 2026
+[2026-08-22T09:07:59.901Z]   NEW: "Varek" by Becca Seymour — narrated by Jonathan Lake [US] 09 Feb 2027
+[2026-08-22T09:07:59.901Z]   NEW: "Cooper" by Lexi James — narrated by Jonathan Lake, Mia Madison [US] 29 Sept 2026
+[2026-08-22T09:07:59.901Z]   NEW: "Masked Bratva Daddy" by Sierra Voss — narrated by Jonathan Lake, Mackenzie Cartwright [US] 15 Sept 2026
+[2026-08-22T09:07:59.901Z]   NEW: "Escaping to the Barbarians" by Amy Padilla — narrated by Jonathan Lake, Kirt Graves [US] 01 Sept 2026
+[2026-08-22T09:07:59.901Z]   NEW: "The Barbarian's Heart" by Amy Padilla — narrated by Jonathan Lake, Kirt Graves [US] 04 Aug 2026
+[2026-08-22T09:07:59.902Z]   NEW: "Goalie and the Girl Next Door" by Elsie Woods — narrated by Jonathan Lake, Elena Anderson [US] 04 Aug 2026
+[2026-08-22T09:07:59.902Z]   NEW: "Court of Lust" by Lacey Carter Andersen — narrated by Kristin Condon, Jonathan Lake [US] 28 Jul 2026
+[2026-08-22T09:07:59.902Z]   NEW: "Levi" by Lexi James — narrated by Mia Madison, Jonathan Lake [US] 21 Jul 2026
+[2026-08-22T09:07:59.902Z]   NEW: "The Dragon's Vow" by Marie Johnston — narrated by Stephanie Dillard, Jonathan Lake [US] 21 Jul 2026
+[2026-08-22T09:07:59.902Z]   NEW: "Sexting My Bratva Boss" by Sierra Voss — narrated by Jonathan Lake, Mackenzie Cartwright [US] 14 Jul 2026
+[2026-08-22T09:07:59.902Z]   NEW: "Prince of the Barbarians" by Amy Padilla — narrated by Kirt Graves, Jonathan Lake [US] 07 Jul 2026
+[2026-08-22T09:07:59.902Z]   NEW: "Nash" by Kelly Finley — narrated by Amy Hall, Jonathan Lake [US] 30 Jun 2026
+[2026-08-22T09:07:59.903Z]   NEW: "What Grows Dies Here" by Anne Malcom — narrated by Jonathan Lake, Christine Forsythe [US] 30 Jun 2026
+[2026-08-22T09:07:59.903Z]   NEW: "Court of Fury" by Lacey Carter Andersen — narrated by Kristin Condon, Jonathan Lake [US] 16 Jun 2026
+[2026-08-22T09:07:59.903Z]   NEW: "The Dragon's Promise" by Marie Johnston — narrated by Jonathan Lake, Stephanie Dillard [US] 19 May 2026
+[2026-08-22T09:07:59.903Z]   NEW: "The Four X's Group" by Annabella Stone — narrated by Marcio Catalano, June deBorahae, Mollie Stark, William Macleod, Betty Black, Jonathan Lake, Melissa Maybeck, Oliver Highpoint [US] 04 May 2026
+[2026-08-22T09:07:59.903Z]   NEW: "The Physician's Barbarian" by Amy Padilla — narrated by Kirt Graves, Jonathan Lake [US] 28 Apr 2026
+[2026-08-22T09:07:59.903Z]   NEW: "The Dragon's Oath" by Marie Johnston — narrated by Stephanie Dillard, Jonathan Lake [US] 21 Apr 2026
+[2026-08-22T09:07:59.904Z]   NEW: "Court of Rivals" by Lacey Carter Andersen — narrated by Kristin Condon, Jonathan Lake [US] 14 Apr 2026
+[2026-08-22T09:07:59.904Z]   NEW: "The Barbarian's Claim" by Amy Padilla — narrated by Kirt Graves, Jonathan Lake [US] 17 Mar 2026
+[2026-08-22T09:07:59.904Z]   NEW: "Solan" by Becca Seymour — narrated by Jonathan Lake [US] 17 Mar 2026
+[2026-08-22T09:07:59.904Z]   NEW: "At the Edge with You" by Toni Aleo — narrated by Johanna Fairview, Jonathan Lake [US] 17 Feb 2026
+[2026-08-22T09:07:59.904Z]   NEW: "The Rogue" by Roxanne Tully — narrated by Ally Mayes, Jonathan Lake [US] 13 Jan 2026
+[2026-08-22T09:07:59.904Z]   NEW: "Night Predator" by SK Prince — narrated by Jonathan Lake, Macie Miller [US] 13 Jan 2026
+[2026-08-22T09:07:59.904Z]   NEW: "Guarded by the AI" by Cassie Alexander — narrated by Jonathan Lake, Avery Caris [US] 17 Dec 2025
+[2026-08-22T09:07:59.904Z]   NEW: "Night Runner" by SK Prince — narrated by Macie Miller, Jonathan Lake [US] 16 Dec 2025
+[2026-08-22T09:07:59.905Z]   NEW: "Seducing a Barbarian" by Amy Padilla — narrated by Kirt Graves, Jonathan Lake [US] 02 Dec 2025
+[2026-08-22T09:07:59.905Z]   NEW: "Night Huntress" by SK Prince — narrated by Jonathan Lake, Macie Miller [US] 18 Nov 2025
+[2026-08-22T09:07:59.905Z]   NEW: "A Cajun Werewolf Christmas" by Selena Blake — narrated by Jonathan Lake [US] 18 Nov 2025
+[2026-08-22T09:07:59.905Z]   NEW: "Kill" by Tana Rose — narrated by Chloe Ryan, Jonathan Lake [US] 04 Nov 2025
+[2026-08-22T09:07:59.905Z]   NEW: "Saved by a Barbarian" by Amy Padilla — narrated by Kirt Graves, Jonathan Lake [US] 28 Oct 2025
+[2026-08-22T09:07:59.905Z]   NEW: "Stranded with a Cajun Werewolf" by Selena Blake — narrated by Jonathan Lake [US] 28 Oct 2025
+[2026-08-22T09:07:59.905Z]   NEW: "Mated to a Cajun Werewolf" by Selena Blake — narrated by Jonathan Lake [US] 14 Oct 2025
+[2026-08-22T09:07:59.905Z]   NEW: "The Cajun Werewolf's Captive" by Selena Blake — narrated by Jonathan Lake [US] 07 Oct 2025
+[2026-08-22T09:07:59.905Z]   NEW: "Seduced by a Cajun Werewolf" by Selena Blake — narrated by Jonathan Lake [US] 07 Oct 2025
+[2026-08-22T09:07:59.906Z]   NEW: "Naga Healer's Mate" by Celia Kyle — narrated by Ada Sinclair, J. Tipstone [US] 15 Sept 2026
+[2026-08-22T09:07:59.906Z]   NEW: "Naga Warrior's Mate" by Celia Kyle — narrated by Ada Sinclair, J. Tipstone [US] 11 Aug 2026
+[2026-08-22T09:07:59.906Z]   NEW: "Naga Warlord's Mate" by Celia Kyle — narrated by Ada Sinclair, J. Tipstone [US] 16 Jun 2026
+[2026-08-22T09:07:59.906Z]   NEW: "Naga Prince's Mate" by Celia Kyle — narrated by Ada Sinclair, J. Tipstone [US] 12 May 2026
+[2026-08-22T09:07:59.906Z]   NEW: "Naga General's Mate" by Celia Kyle — narrated by Ada Sinclair, J. Tipstone [US] 21 Apr 2026
+[2026-08-22T09:07:59.906Z]   NEW: "Shadow" by K.G. Reuss — narrated by Stella Ripley, Joe Arden, Edward Black, J. Tipstone, Michael Gallagher, Anthony Palmini, Sean Masters [US] 15 Jan 2026
+[2026-08-22T09:07:59.906Z]   NEW: "Taken by the Naga King" by Celia Kyle — narrated by J. Tipstone, Ada Sinclair [US] 09 Dec 2025
+[2026-08-22T09:07:59.906Z]   NEW: "Sinful" by K.G. Reuss — narrated by Stella Ripley, Joe Arden, Edward Black, J. Tipstone, Michael Gallagher, Anthony Palmini, Sean Masters [US] 28 Oct 2025
+[2026-08-22T09:07:59.907Z]   NEW: "Dublin Beast" by Jenn Madore — narrated by Angelina Rocca, J. Tipstone [US] 15 Oct 2025
+[2026-08-22T09:07:59.907Z]   NEW: "Stitches" by K.G. Reuss — narrated by Stella Ripley, J. Tipstone, Joe Arden, Michael Gallagher, Edward Black, Sean Masters [US] 25 Sept 2025
+[2026-08-22T09:07:59.907Z]   NEW: "Breaker" by Fanny Lee Savage — narrated by Laura Horowitz, Shiloh James, Corvin King, J. Tipstone, Brent Billings [US] 16 Sept 2025
+[2026-08-22T09:07:59.907Z]   NEW: "Ashes" by K.G. Reuss — narrated by Stella Ripley, Joe Arden, Edward Black, J. Tipstone, Michael Gallagher, Sean Masters [US] 28 Aug 2025
+[2026-08-22T09:07:59.907Z]   NEW: "Bells" by K.G. Reuss — narrated by Desiree Ketchum, Joe Arden, Michael Gallagher, Sean Masters, Edward Black, J. Tipstone [US] 22 Jul 2025
+[2026-08-22T09:07:59.907Z]   NEW: "Blood Reign Boxset" by Jesse Fox — narrated by Grace Noble, J. Tipstone, Jack Calihan [US] 22 Jul 2025
+[2026-08-22T09:07:59.907Z]   NEW: "Church" by K.G. Reuss — narrated by Stella Ripley, Joe Arden, Edward Black, J. Tipstone, Michael Gallagher, Sean Masters [US] 26 Jun 2025
+[2026-08-22T09:07:59.907Z]   NEW: "Shared" by Korey Mae Johnson — narrated by Vivienne Ferrari, J. Tipstone [US] 11 Feb 2025
+[2026-08-22T09:07:59.907Z]   NEW: "Doctored Vows" by Shandi Boyes — narrated by Artemis Jones, J. Tipstone [US] 13 Jan 2025
+[2026-08-22T09:07:59.908Z]   NEW: "Make Him" by Kelly Finley — narrated by Jaclyn Kelso, J. Tipstone [US] 03 Dec 2024
+[2026-08-22T09:07:59.908Z]   NEW: "Mate" by Korey Mae Johnson — narrated by Vivienne Ferrari, J. Tipstone [US] 17 Sept 2024
+[2026-08-22T09:07:59.908Z]   NEW: "Serendipity Collection" by Charlene Namdhari — narrated by Joe Arden, J.F. Harding, Aiden Snow, Connor Hayes, J. Tipstone, Antonio Amato, Yami Habibi, Ava Lucas, Raven Rose [US] 17 Jul 2024
+[2026-08-22T09:07:59.908Z]   NEW: "Blood Reign: Book 1" by Jesse Fox — narrated by Grace Noble, J. Tipstone, Jack Calihan [US] 03 May 2024
+[2026-08-22T09:07:59.908Z]   NEW: "BloodBorne" by Jesse Fox — narrated by Grace Noble, J. Tipstone, Jack Calihan [US] 03 May 2024
+[2026-08-22T09:07:59.908Z]   NEW: "BloodLust" by Jesse Fox — narrated by Grace Noble, J. Tipstone, Jack Calihan [US] 03 May 2024
+[2026-08-22T09:07:59.908Z]   NEW: "Inevitable" by Charlene Namdhari — narrated by Joe Arden, JF Harding, Aiden Snow, J. Tipstone, Connor Hayes, Yami Habibi, Simone Lewis, Raven Rose, Ava Lucas, Antonio Amato [US] 15 Sept 2023
+[2026-08-22T09:07:59.908Z]   NEW: "Babygirl" by Korey Mae Johnson — narrated by J. Tipstone, Devin Dean [US] 05 Sept 2023
+[2026-08-22T09:07:59.909Z]   NEW: "Infallible" by Charlene Namdhari — narrated by J. Tipstone, Connor Hayes, Simone Lewis [US] 15 Aug 2023
+[2026-08-22T09:07:59.909Z]   NEW: "Losers: Part 2" by Harley LaRoux — narrated by J. Tipstone, Jaclyn Kelso [US] 18 Jul 2023
+[2026-08-22T09:07:59.909Z]   NEW: "Claiming the Reaper" by R. E. Bond — narrated by J. Tipstone, Avery Reid [US] 20 Jun 2023
+[2026-08-22T09:07:59.909Z]   NEW: "Losers: Part 1" by Harley LaRoux — narrated by Jaclyn Kelso, J. Tipstone [US] 06 Jun 2023
+[2026-08-22T09:07:59.909Z]   NEW: "Hunting the Reaper" by C. A. Rene — narrated by J. Tipstone, Avery Reid [US] 23 May 2023
+[2026-08-22T09:07:59.909Z]   NEW: "The Reaper Incarnate" by C. A. Rene — narrated by J. Tipstone, Avery Reid [US] 13 Dec 2022
+[2026-08-22T09:07:59.909Z]   NEW: "Lessons in Sin" by Pam Godwin — narrated by Stephanie Rose, J. Tipstone [US] 19 Apr 2022
+[2026-08-22T09:07:59.909Z]   NEW: "Into Temptation: Unshackle, Dominate, Complicate" by Pam Godwin — narrated by Lisa Zimmerman, Joe Arden, Lacy Laurel, Samantha Summers, Matthew Holland, J. Tipstone [US] 24 Aug 2021
+[2026-08-22T09:07:59.910Z]   NEW: "Unshackle" by Pam Godwin — narrated by Lacy Laurel, J. Tipstone [US] 26 Jan 2021
+[2026-08-22T09:07:59.910Z]   NEW: "Worth a Try" by Jemma Croft — narrated by Keval Shah, Nathan Wolfe [US] 16 Mar 2027
+[2026-08-22T09:07:59.910Z]   NEW: "Try Again Later" by Jemma Croft — narrated by Keval Shah, Nathan Wolfe [US] 26 Jan 2027
+[2026-08-22T09:07:59.910Z]   NEW: "A Daddy for Cooper" by Emory Winters — narrated by Nathan Wolfe [US] 27 Oct 2026
+[2026-08-22T09:07:59.910Z]   NEW: "The Plot Thickens" by Steffanie Holmes — narrated by Nathan Wolfe, Gabrielle Baker [US] 13 Oct 2026
+[2026-08-22T09:07:59.910Z]   NEW: "King of Lies" by H. l Day — narrated by Nathan Wolfe, Will M. Watt [US] 29 Sept 2026
+[2026-08-22T09:07:59.910Z]   NEW: "Rock's Judgement" by F.F. Wingfield — narrated by Nathan Wolfe, Sadie Lake [US] 22 Sept 2026
+[2026-08-22T09:07:59.910Z]   NEW: "Unexpectedly You" by JoJo Stone — narrated by Nathan Wolfe, Will M. Watt [US] 22 Sept 2026
+[2026-08-22T09:07:59.910Z]   NEW: "A Den Mate for Dylan" by Emory Winters — narrated by Nathan Wolfe [US] 25 Aug 2026
+[2026-08-22T09:07:59.911Z]   NEW: "One Last Try" by Jemma Croft — narrated by Nathan Wolfe, Keval Shah [US] 09 Jun 2026
+[2026-08-22T09:07:59.911Z]   NEW: "Darling" by Scarlett Drake — narrated by Nathan Wolfe, Silas Wood [US] 14 Dec 2025
+[2026-08-22T09:07:59.911Z]   NEW: "Don't Say You're Sorry" by Bethany Winters — narrated by Liam DiCosimo, Nathan Wolfe [US] 09 Dec 2025
+[2026-08-22T09:07:59.911Z]   NEW: "The Good Boys Club" by Jemma Croft — narrated by Keval Shah, Nathan Wolfe [US] 07 Oct 2025
+[2026-08-22T09:07:59.911Z]   NEW: "That One Moment" by C.S. Autumn — narrated by Tom North, Nathan Wolfe [US] 12 Aug 2025
+[2026-08-22T09:07:59.911Z]   NEW: "Shroom for Improvement" by Jemma Croft — narrated by Keval Shah, Nathan Wolfe [US] 05 Aug 2025
+[2026-08-22T09:07:59.911Z]   NEW: "Unbreak Me" by Jesse H Reign — narrated by Nathan Wolfe [US] 16 Apr 2025
+[2026-08-22T09:07:59.911Z]   NEW: "The Handler" by August Jones — narrated by Dane Anderson, Nathan Wolfe [US] 01 Apr 2025
+[2026-08-22T09:07:59.912Z]   NEW: "Limerence" by Scarlett Drake — narrated by Nathan Wolfe, Harley Chase [US] 25 Mar 2025
+[2026-08-22T09:07:59.912Z]   NEW: "Special Delivery" by Arnold Miles — narrated by Nathan Wolfe [US] 22 May 2024
+[2026-08-22T09:07:59.912Z]   NEW: "Skinny Dipping" by Aiden Lovely — narrated by Nathan Wolfe [US] 26 Apr 2024
+[2026-08-22T09:07:59.912Z]   NEW: "The Art of Revenge" by Rebecca Kinkade — narrated by Javi Wilder, Robert Hatchet, Will M. Watt [US] 06 Apr 2027
+[2026-08-22T09:07:59.912Z]   NEW: "All Nighter: The Undergrads series, Book 2" by Julie Murphy — narrated by Victoria Connolly, Will M. Watt [US] 01 Dec 2026
+[2026-08-22T09:07:59.912Z]   NEW: "Playing My Holiday" by J. Saman — narrated by Gary Furlong, Will M. Watt, Chloe Ryan [US] 03 Nov 2026
+[2026-08-22T09:07:59.912Z]   NEW: "Bane Bloom" by Sharon Lynn Fisher — narrated by Bronwen Price, Will M. Watt [US] 06 Oct 2026
+[2026-08-22T09:07:59.912Z]   NEW: "The Echo of Loss" by Katherine Webb — narrated by Polly Edsell, Will M. Watt [US] 15 Sept 2026
+[2026-08-22T09:07:59.912Z]   NEW: "Look to Pass" by Fern Oliver — narrated by Meg Sylvan, Stephen Dexter, Will M. Watt, Nathaniel Ames [US] 15 Sept 2026
+[2026-08-22T09:07:59.913Z]   NEW: "He Sees You When You're Sleeping" by Emily Antoinette — narrated by Will M. Watt, Sarah Sampino [US] 01 Sept 2026
+[2026-08-22T09:07:59.913Z]   NEW: "Pucking Them" by Rosemary a Johns — narrated by Will M. Watt, Vivian Bradford [US] 25 Aug 2026
+[2026-08-22T09:07:59.913Z]   NEW: "Magic & Mystery" by Travis Baldree — narrated by Travis Baldree, Meg Runyan, Hannah Curtis, Esther Wane, Joel Froomkin, Joniece Abbott-Pratt, Will M. Watt [US] 28 Jul 2026
+[2026-08-22T09:07:59.913Z]   NEW: "The Dread King" by Lauren Cate Leake — narrated by Sasha Higgins, Will M. Watt [US] 28 Jul 2026
+[2026-08-22T09:07:59.913Z]   NEW: "The Cairndale Orphan" by J. M. Miro — narrated by Will M. Watt [US] 28 Jul 2026
+[2026-08-22T09:07:59.913Z]   NEW: "Smoke in the Mirrors" by Jessica Scarlett — narrated by Lauren Baldwin, Will M. Watt [US] 14 Jul 2026
+[2026-08-22T09:07:59.913Z]   NEW: "Secrets of the Void" by Emma Hamm — narrated by Will M. Watt, Carmen Rose [US] 30 Jun 2026
+[2026-08-22T09:07:59.913Z]   NEW: "The Promise of Wonder" by Katherine Webb — narrated by Polly Edsell, Will M. Watt [US] 01 Jun 2026
+[2026-08-22T09:07:59.914Z]   NEW: "The Player's Promise" by Tierney Page — narrated by Sean Masters, Evelyn Rose, Will M. Watt [US] 26 May 2026
+[2026-08-22T09:07:59.914Z]   NEW: "Hell of a Band" by R. L. King — narrated by Will M. Watt [US] 12 May 2026
+[2026-08-22T09:07:59.914Z]   NEW: "How to Fake It in Society" by KJ Charles — narrated by Will M. Watt [US] 28 Apr 2026
+[2026-08-22T09:07:59.914Z]   NEW: "Don't Fall in Love" by K A James — narrated by Will M. Watt, J. Y. Kora [US] 31 Mar 2026
+[2026-08-22T09:07:59.914Z]   NEW: "Town of Shadows" by Jessica Scarlett — narrated by Lauren Baldwin, Will M. Watt [US] 24 Feb 2026
+[2026-08-22T09:07:59.914Z]   NEW: "Triple Pucked" by Rosemary a Johns — narrated by Will M. Watt, Vivian Bradford [US] 17 Feb 2026
+[2026-08-22T09:07:59.914Z]   NEW: "The Suite Secret" by Tierney Page — narrated by Will M. Watt, Evelyn Rose [US] 13 Jan 2026
+[2026-08-22T09:07:59.914Z]   NEW: "The Mechanic" by R. L. King — narrated by R. L. King, Will M. Watt [US] 21 Nov 2025
+[2026-08-22T09:07:59.914Z]   NEW: "Family Plot" by R. L. King — narrated by Will M. Watt [US] 13 Nov 2025
+[2026-08-22T09:07:59.915Z]   NEW: "Both Feet in the Grave" by Jeaniene Frost — narrated by Will M. Watt [US] 24 Oct 2025
+[2026-08-22T09:07:59.915Z]   NEW: "Wave Song" by Emma Hamm — narrated by Will M. Watt, Carmen Rose [US] 21 Oct 2025
+[2026-08-22T09:07:59.915Z]   NEW: "The Captain" by Christi Caldwell — narrated by Will M. Watt, Heather Wilds [US] 21 Oct 2025
+[2026-08-22T09:07:59.915Z]   NEW: "The Rake, or the Orca Who Met His Match in a Selkie Desiring Revenge" by Kass O'Shire — narrated by Will M. Watt, Lulu Russell [US] 07 Oct 2025
+[2026-08-22T09:07:59.915Z]   NEW: "No Knight" by Donna Alam — narrated by Ariela Crow, Will M. Watt [US] 15 Sept 2025
+[2026-08-22T09:07:59.915Z]   NEW: "Bad Date" by Ellery Lloyd — narrated by Kitty Kelly, Billie Fulford-Brown, Will M. Watt [US] 01 Sept 2025
+[2026-08-22T09:07:59.915Z]   NEW: "Pucking Obsessed" by Rosemary A Johns — narrated by Will M. Watt, Vivian Bradford [US] 19 Aug 2025
+[2026-08-22T09:07:59.915Z]   NEW: "Lightning in a Bottle" by R. L. King — narrated by Will M. Watt [US] 14 Aug 2025
+[2026-08-22T09:07:59.915Z]   NEW: "Freed from Gravity" by Jenny Hickman — narrated by Will M. Watt, Zura Johnson [US] 12 Aug 2025
+[2026-08-22T09:07:59.915Z]   NEW: "Sinful Storms" by Becca Steele — narrated by Will M. Watt, Scarlett Everdeen [US] 05 Aug 2025
+[2026-08-22T09:07:59.916Z]   NEW: "Call of the Fathoms" by Emma Hamm — narrated by Will M. Watt, Carmen Rose [US] 29 Jul 2025
+[2026-08-22T09:07:59.916Z]   NEW: "The Dread Prince" by Lauren Cate Leake — narrated by Sasha Higgins, Will M. Watt [US] 29 Jul 2025
+[2026-08-22T09:07:59.916Z]   NEW: "The Other Brother" by Tierney Page — narrated by Evelyn Rose, Will M. Watt [US] 01 Jul 2025
+[2026-08-22T09:07:59.916Z]   NEW: "Duke with a Deception" by Scarlett Scott — narrated by Will Watt, Marian Hussey [US] 15 Sept 2026
+[2026-08-22T09:07:59.916Z]   NEW: "The Queen of Bad Influences" by Jim Shepard — narrated by MacLeod Andrews, Cassandra Campbell, Will Watt, Ell Potter [US] 15 Sept 2026
+[2026-08-22T09:07:59.916Z]   NEW: "Adam, Mine." by K. Ancrum — narrated by Will Watt [US] 08 Sept 2026
+[2026-08-22T09:07:59.916Z]   NEW: "The Dating Game" by Ally Zetterberg — narrated by Will Watt, Billie Fulford-Brown [US] 08 Sept 2026
+[2026-08-22T09:07:59.916Z]   NEW: "The Pumpkin Bride" by Fiona Buttercup — narrated by Will Watt, Moira Quirk [US] 01 Sept 2026
+[2026-08-22T09:07:59.916Z]   NEW: "A Witch in Notting Hill Unbridged" by Alexandra Paige — narrated by Nikki Massoud, Will Watt [US] 11 Aug 2026
+[2026-08-22T09:07:59.916Z]   NEW: "Levels of Love" by Anabelle Stehl — narrated by Will Watt, Dahlia Summers [US] 04 Aug 2026
+[2026-08-22T09:07:59.917Z]   NEW: "Wild Scottish Fate" by Tricia O'Malley — narrated by Amy Landon, Will Watt [US] 14 Jul 2026
+[2026-08-22T09:07:59.917Z]   NEW: "All's Fair in Love and Blood" by Jennifer Peel — narrated by Stephanie Rose, Will Watt [US] 08 Jul 2026
+[2026-08-22T09:07:59.917Z]   NEW: "Claimed by the Scottish Wolves" by Theodora Taylor — narrated by Samantha Brentmoor, Lacy Laurel, J.Y. Kora, Will Watt [US] 05 Jul 2026
+[2026-08-22T09:07:59.917Z]   NEW: "The Winged Game" by Sophie Kim — narrated by Will Watt, Shakira Shute [US] 30 Jun 2026
+[2026-08-22T09:07:59.917Z]   NEW: "Audacious in a Kilt" by Anna Durand — narrated by Lucy Rivers, Will Watt [US] 23 Jun 2026
+[2026-08-22T09:07:59.917Z]   NEW: "Nemesis Mine" by Amy Archer — narrated by Will Watt [US] 23 Jun 2026
+[2026-08-22T09:07:59.917Z]   NEW: "Kirill" by Lilian Harris — narrated by Kai Kennicott, Will Watt, John Hartley [US] 10 Jun 2026
+[2026-08-22T09:07:59.917Z]   NEW: "The Temptation of Charlotte North" by Camilla Bruce — narrated by Daisy Plant, Will Watt, Marisa Calin [US] 19 May 2026
+[2026-08-22T09:07:59.917Z]   NEW: "Paranormal Payback" by Jim Butcher - editor — narrated by Khristine Hvam, Alexandra Potocka, James Marsters, Will Watt, Stella Hunter, Elizabeth Wiley, Thérèse Plummer, Marguerite Gavin, Graham Halstead, JD Jackson, Hannah Curtis, Jim Butcher, Sean Patrick Hopkins [US] 14 Apr 2026
+[2026-08-22T09:07:59.918Z]   NEW: "Wild Scottish Magic" by Tricia O'Malley — narrated by Amy Landon, Will Watt [US] 14 Apr 2026
+[2026-08-22T09:07:59.918Z]   NEW: "Fruit Fly" by Unknown Author — narrated by Will Watt [US] 
+[2026-08-22T09:07:59.918Z]   NEW: "Hungry for Love" by Morgan Lysand — narrated by Avery Wilde [US] 17 Aug 2026
+[2026-08-22T09:07:59.918Z]   NEW: "Crossroads" by Nicole Dykes — narrated by Avery Wilde, Colt Carter [US] 29 Jul 2026
+[2026-08-22T09:07:59.918Z]   NEW: "Teaching Quinn" by Kim Breyon — narrated by Avery Wilde [US] 09 Jun 2026
+[2026-08-22T09:07:59.918Z]   NEW: "Farren" by Morgan Lysand — narrated by Avery Wilde [US] 26 May 2026
+[2026-08-22T09:07:59.918Z]   NEW: "Fauxmance in the Falls" by J.E. Birk — narrated by Avery Wilde, Colt Carter [US] 27 Apr 2026
+[2026-08-22T09:07:59.918Z]   NEW: "Cali Boy" by Charli Meadows — narrated by James Craig, Avery Wilde [US] 03 Apr 2026
+[2026-08-22T09:07:59.918Z]   NEW: "The Wolf's Wounded Omega" by A.J. Cane — narrated by Avery Wilde, Michael Norman Johnson [US] 27 Mar 2026
+[2026-08-22T09:07:59.918Z]   NEW: "Mate Mishaps" by Morgan Lysand — narrated by Avery Wilde [US] 19 Mar 2026
+[2026-08-22T09:07:59.919Z]   NEW: "The Hazard and the Hitman" by Cambria Hebert — narrated by Avery Wilde, Thomas C. Wylde [US] 13 Mar 2026
+[2026-08-22T09:07:59.919Z]   NEW: "Mink Hijinks" by Morgan Lysand — narrated by Avery Wilde [US] 28 Jan 2026
+[2026-08-22T09:07:59.919Z]   NEW: "The Bear's Brave Omega" by A.J. Cane — narrated by Avery Wilde, Michael Norman Johnson [US] 29 Dec 2025
+[2026-08-22T09:07:59.919Z]   NEW: "Naughty Elf: Alfie" by Morgan Lysand — narrated by Avery Wilde [US] 18 Dec 2025
+[2026-08-22T09:07:59.919Z]   NEW: "Jingle" by Morgan Lysand — narrated by Avery Wilde [US] 12 Dec 2025
+[2026-08-22T09:07:59.919Z]   NEW: "Deviant" by Cora Rose — narrated by Avery Wilde [US] 09 Dec 2025
+[2026-08-22T09:07:59.919Z]   NEW: "The Curse Before Christmas" by Eli Easton — narrated by Avery Wilde [US] 06 Nov 2025
+[2026-08-22T09:07:59.919Z]   NEW: "The Accidental Italian" by Michael Hartwig — narrated by Avery Wilde [US] 27 Oct 2025
+[2026-08-22T09:07:59.919Z]   NEW: "Veiled" by Nicole Dykes — narrated by Avery Wilde, James Davey [US] 13 Oct 2025
+[2026-08-22T09:07:59.919Z]   NEW: "Kill for You" by Syn Blackrose — narrated by James Davey, Avery Wilde [US] 11 Sept 2025
+[2026-08-22T09:07:59.920Z]   NEW: "Voices" by Joey Parker — narrated by Michael Norman Johnson, Avery Wilde [US] 21 Aug 2025
+[2026-08-22T09:07:59.920Z]   NEW: "The Halo System: Azazel's Halo" by Brighten Blade — narrated by Avery Wilde [US] 25 Jun 2025
+[2026-08-22T09:07:59.920Z]   NEW: "Knock-Down, Drag Out Dirty" by Rylee Dare — narrated by Pagan McGrath, Casey Long [US] 24 Jul 2026
+[2026-08-22T09:07:59.920Z]   NEW: "The Red Rocks" by Elizabeth Povarova-Simpson — narrated by Casey Long [US] 03 Jun 2026
+[2026-08-22T09:08:00.470Z] Email sent to sarah.zaki003@gmail.com with 956 new books.
+[2026-08-22T09:08:00.472Z] Check complete.
+[2026-08-22T09:08:00.472Z] ═══════════════════════════════════════
+
